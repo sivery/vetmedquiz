@@ -25,10 +25,15 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              { "glob": "**/*", "input": "src/assets", "output": "/" }
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeng/resources/themes/nova-light/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeflex/primeflex.css"
             ],
             "scripts": []
           },
@@ -89,7 +94,7 @@
             "karmaConfig": "karma.conf.js",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              { "glob": "**/*", "input": "src/assets", "output": "/" }
             ],
             "styles": [
               "src/styles.scss"

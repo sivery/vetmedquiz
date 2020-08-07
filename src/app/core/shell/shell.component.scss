@@ -1,0 +1,19 @@
+:host {
+  height: 100%!important;
+  flex-direction: column!important;
+  display: flex!important;
+}
+
+#header {
+  height: 56px;
+}
+
+#body {
+  padding: 16px 20px;
+  overflow-y: auto;
+  height: calc(100% - 86px);
+}
+
+#footer {
+  height: 30px;
+}

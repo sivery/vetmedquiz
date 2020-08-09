@@ -14,11 +14,14 @@ export class QuestionForm {
   correct?: boolean;
   validated?: boolean;
 
-  constructor(topic, session, index, question) {
-    this.topic = topic;
-    this.session = session;
-    this.index = index;
-    this.question = question;
+  constructor(questionForm) {
+    this.topic = questionForm.topic;
+    this.session = questionForm.session;
+    this.index = questionForm.index;
+    this.question = questionForm.question;
+    this.selectedAnswer = questionForm.selectedAnswer;
+    this.correct = questionForm.correct;
+    this.validated = questionForm.validated;
   }
 
   checkAnswer() {
@@ -46,10 +49,10 @@ export class Answer {
   correct: boolean;
 }
 
-export enum QuizPhase {
-  FORM,
-  PRETEXT,
-  QUIZ,
-  RESULTS,
-  RESPONSES
-}
+// export enum QuizPhase {
+//   FORM,
+//   PRETEXT,
+//   QUIZ,
+//   RESULTS,
+//   RESPONSES
+// }

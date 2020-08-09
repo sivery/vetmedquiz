@@ -1,0 +1,52 @@
+<div class="ui-fluid p-formgrid p-grid">
+  <div class="p-field p-col-12 p-md-6">
+    <label for="topics">Matière(s)</label>
+    <p-multiSelect id="topics" [options]="topics" [(ngModel)]="selectedTopics" (onChange)="selectQuestionSets()">
+      <ng-template let-value pTemplate="selectedItems">
+        <div *ngFor="let val of value" class="ui-multiselected-item-token ui-corner-all">
+          <span>{{val}}</span>
+        </div>
+        <span *ngIf="!value || value.length === 0">Tous</span>
+      </ng-template>
+      <ng-template let-topic pTemplate="item">
+        <div style="font-size:14px;float:right;margin-top:4px">{{topic.label}}</div>
+      </ng-template>
+    </p-multiSelect>
+  </div>
+  <div class="p-field p-col-12 p-md-6">
+    <label for="sessions">Session(s)</label>
+    <p-multiSelect id="sessions" [options]="sessions" [(ngModel)]="selectedSessions" (onChange)="selectQuestionSets()">
+      <ng-template let-value pTemplate="selectedItems">
+        <div *ngFor="let val of value" class="ui-multiselected-item-token ui-corner-all">
+          <span>{{val}}</span>
+        </div>
+        <span *ngIf="!value || value.length === 0">Tous</span>
+      </ng-template>
+      <ng-template let-topic pTemplate="item">
+        <div style="font-size:14px;float:right;margin-top:4px">{{topic.label}}</div>
+      </ng-template>
+    </p-multiSelect>
+  </div>
+  <div class="p-field p-col-12 p-md-6">
+    <label for="topics">Nombre de questions (maximum):</label>
+    <p-inputNumber [(ngModel)]="maxNbrQuestion"></p-inputNumber>
+  </div>
+  <div class="p-field p-col-12 p-md-6">
+    <label for="topics">Ordre:</label>
+    <div class="p-formgroup-inline">
+      <div class="p-field-checkbox">
+        <p-radioButton name="random" [value]="true" [(ngModel)]="random" inputId="random"></p-radioButton>
+        <label for="random">Aléatoire</label>
+      </div>
+      <div class="p-field-checkbox">
+        <p-radioButton name="sorted" [value]="false" [(ngModel)]="random" inputId="sorted"></p-radioButton>
+        <label for="sorted">Pré-défini</label>
+      </div>
+    </div>
+  </div>
+  <div class="p-field p-col-12">
+    <button pButton type="button" label="Démarrer le quiz
+    ({{maxNbrQuestion  && maxNbrQuestion < nbrQuestions ? maxNbrQuestion + '/' + nbrQuestions : nbrQuestions}} questions)"
+            [disabled]="!nbrQuestions" (click)="startQuiz()"></button>
+  </div>
+</div>

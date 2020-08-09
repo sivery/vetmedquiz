@@ -15,6 +15,8 @@ export class HeaderComponent implements OnInit, OnDestroy {
 
   subscriptions: Subscription[] = new Array<Subscription>();
 
+  public navbarCollapsed = true;
+
   ngOnInit() {
   }
 

@@ -1,0 +1,14 @@
+
+<div class="ui-fluid p-grid">
+  <div class="p-col-12">
+    A lire avant de commencer le test:
+    <p-accordion>
+      <p-accordionTab *ngFor="let questionSet of selectedQuestionSets | pretextFilter" header="{{questionSet.topic}} {{questionSet.session}}">
+        <span [innerHTML]="questionSet.pretext"></span>
+      </p-accordionTab>
+    </p-accordion>
+  </div>
+  <div class="p-col-12">
+    <button pButton type="button" label="Démarrer le quiz" (click)="startQuiz()"></button>
+  </div>
+</div>

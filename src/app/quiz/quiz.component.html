@@ -1,74 +1,5 @@
-<div *ngIf="phase === QuizPhase.FORM" class="form-container">
-  <div class="ui-fluid p-formgrid p-grid">
-    <div class="p-field p-col-12 p-md-6">
-      <label for="topics">Matière(s)</label>
-      <p-multiSelect id="topics" [options]="topics" [(ngModel)]="selectedTopics" (onChange)="selectQuestionSets()">
-        <ng-template let-value pTemplate="selectedItems">
-          <div *ngFor="let val of value" class="ui-multiselected-item-token ui-corner-all">
-            <span>{{val}}</span>
-          </div>
-          <span *ngIf="!value || value.length === 0">Tous</span>
-        </ng-template>
-        <ng-template let-topic pTemplate="item">
-          <div style="font-size:14px;float:right;margin-top:4px">{{topic.label}}</div>
-        </ng-template>
-      </p-multiSelect>
-    </div>
-    <div class="p-field p-col-12 p-md-6">
-      <label for="sessions">Session(s)</label>
-      <p-multiSelect id="sessions" [options]="sessions" [(ngModel)]="selectedSessions" (onChange)="selectQuestionSets()">
-        <ng-template let-value pTemplate="selectedItems">
-          <div *ngFor="let val of value" class="ui-multiselected-item-token ui-corner-all">
-            <span>{{val}}</span>
-          </div>
-          <span *ngIf="!value || value.length === 0">Tous</span>
-        </ng-template>
-        <ng-template let-topic pTemplate="item">
-          <div style="font-size:14px;float:right;margin-top:4px">{{topic.label}}</div>
-        </ng-template>
-      </p-multiSelect>
-    </div>
-    <div class="p-field p-col-12 p-md-6">
-      <label for="topics">Nombre de questions (maximnum):</label>
-      <p-inputNumber [(ngModel)]="maxNbrQuestion"></p-inputNumber>
-    </div>
-    <div class="p-field p-col-12 p-md-6">
-      <label for="topics">Ordre:</label>
-      <div class="p-formgroup-inline">
-        <div class="p-field-checkbox">
-          <p-radioButton name="random" [value]="true" [(ngModel)]="random" inputId="random"></p-radioButton>
-          <label for="random">Aléatoire</label>
-        </div>
-        <div class="p-field-checkbox">
-          <p-radioButton name="sorted" [value]="false" [(ngModel)]="random" inputId="sorted"></p-radioButton>
-          <label for="sorted">Pré-défini</label>
-        </div>
-      </div>
-    </div>
-    <div class="p-field p-col-12">
-      <button pButton type="button" label="Démarrer le quiz
-      ({{maxNbrQuestion  && maxNbrQuestion < nbrQuestions ? maxNbrQuestion + '/' + nbrQuestions : nbrQuestions}} questions)"
-              [disabled]="!nbrQuestions" (click)="startQuiz()"></button>
-    </div>
-  </div>
-</div>
-<div *ngIf="phase === QuizPhase.PRETEXT" class="form-container">
-  <div class="ui-fluid p-grid">
-    <div class="p-col-12">
-      A lire avant de commencer le test:
-      <p-accordion>
-        <p-accordionTab *ngFor="let questionSet of selectedQuestionSets | pretextFilter" header="{{questionSet.topic}} {{questionSet.session}}">
-          <span [innerHTML]="questionSet.pretext"></span>
-        </p-accordionTab>
-      </p-accordion>
-    </div>
-    <div class="p-col-12">
-      <button pButton type="button" label="Démarrer le quiz" (click)="startQuiz()"></button>
-    </div>
-  </div>
-</div>
-<div *ngIf="phase === QuizPhase.QUIZ || phase === QuizPhase.RESPONSES" class="p-field p-col-12">
-  <p-panel >
+<div *ngIf="questionForms">
+  <p-panel>
     <p-header>
       <div class="ui-helper-clearfix">
         <span class="ui-panel-title question-title">
@@ -84,7 +15,7 @@
     <div [innerHTML]="questionForm.question.text"></div>
     <div class="ui-fluid p-formgrid p-grid">
       <div *ngFor="let answer of questionForm.question.answers; let i = index" class="p-field p-col-12 answer">
-        <p-radioButton *ngIf="!questionForm.validated" [value]="i" [(ngModel)]="questionForm.selectedAnswer"></p-radioButton>
+        <p-radioButton *ngIf="!questionForm.validated" [value]="i" [(ngModel)]="questionForm.selectedAnswer" (onClick)="saveQuestionForms()"></p-radioButton>
         <i *ngIf="questionForm.validated && answer.correct" class="pi pi-check" style="font-size: 1.2em"></i>
         <i *ngIf="questionForm.validated && !answer.correct && questionForm.selectedAnswer === i"
            class="pi pi-times wrong" style="font-size: 1.2em"></i>
@@ -94,13 +25,13 @@
       </div>
     </div>
 
-    <div *ngIf="phase === QuizPhase.QUIZ && hasNextQuestion() && phase === QuizPhase.QUIZ" class="p-grid p-justify-even">
+    <div *ngIf="!responses && hasNextQuestion()" class="p-grid p-justify-even">
       <p-button label="Continuer" (onClick)="continueToNextQuestion(questionForm)"></p-button>
     </div>
-    <div *ngIf="phase === QuizPhase.QUIZ && !hasNextQuestion() && phase === QuizPhase.QUIZ" class="p-grid p-justify-even">
+    <div *ngIf="!responses && !hasNextQuestion()" class="p-grid p-justify-even">
       <p-button label="Résultats" styleClass="ui-button-primary" (onClick)="printResults()"></p-button>
     </div>
-    <div *ngIf="phase === QuizPhase.RESPONSES" class="p-grid p-justify-even">
+    <div *ngIf="responses" class="p-grid p-justify-even">
       <p-button label="Retour" (onClick)="return()"></p-button>
     </div>
 
@@ -116,24 +47,5 @@
       <p-button label="Suivant" styleClass="ui-button-secondary" (onClick)="nextQuestion()" [hidden]="!hasNextQuestion()"></p-button>
     </div>
   </div>
-</div>
-<div *ngIf="phase === QuizPhase.RESULTS" class="p-field p-col-12">
-  <p-panel >
-    <p-header>
-      <div class="ui-helper-clearfix">
-        Résultats
-      </div>
-    </p-header>
-    <div class="p-grid">
-      <div class="p-col-12 text-center">
-        Score: {{getScore()}}/{{questionForms.length}}<br/>
-        Temps: {{getTime()}}
-      </div>
-      <div *ngIf="hasNextQuestion()" class="p-col-12 text-center">
-        <p-button label="Réponses" styleClass="ui-button-success" (onClick)="goToResponses()"></p-button>
-      </div>
-    </div>
-
-  </p-panel>
 </div>
 <p-confirmDialog header="Confirmation" icon="pi pi-exclamation-triangle"></p-confirmDialog>

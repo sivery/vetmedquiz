@@ -1,14 +1,20 @@
 <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand text-primary font-weight-bold" routerLink="/">Vetmedquiz</a>
+    <button class="navbar-toggler" type="button" (click)="navbarCollapsed = !navbarCollapsed" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-    <div id="navbar-menu" class="collapse navbar-collapse float-xs-none">
+    <div id="navbar-menu" class="collapse navbar-collapse float-xs-none" [class.show]="!navbarCollapsed">
       <div class="navbar-nav">
-        <a class="nav-item nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">
-          <span>Quizz</span>
+        <a class="nav-item nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" (click)="navbarCollapsed = true;">
+          <span>Quiz</span>
         </a>
-        <a class="nav-item nav-link" routerLink="/entity" routerLinkActive="active">
-          <span>Edition</span>
+        <a class="nav-item nav-link" routerLink="/sources" routerLinkActive="active" (click)="navbarCollapsed = true;">
+          <span>Sources</span>
+        </a>
+        <a class="nav-item nav-link" routerLink="/contact" routerLinkActive="active" (click)="navbarCollapsed = true;">
+          <span>Contact</span>
         </a>
       </div>
 

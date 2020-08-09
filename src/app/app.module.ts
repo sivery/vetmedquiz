@@ -12,17 +12,27 @@ import {
   DeferModule, InputNumberModule,
   MultiSelectModule,
   PanelModule,
-  RadioButtonModule
+  RadioButtonModule, TableModule
 } from "primeng";
 import {FormsModule} from "@angular/forms";
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
-import { PretextFilterPipe } from './quiz/pretext-filter.pipe';
+import { PretextFilterPipe } from './pretext/pretext-filter.pipe';
+import { PretextComponent } from './pretext/pretext.component';
+import { FormComponent } from './form/form.component';
+import { ResultsComponent } from './results/results.component';
+import { SourcesComponent } from './sources/sources.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     QuizComponent,
-    PretextFilterPipe
+    PretextFilterPipe,
+    PretextComponent,
+    FormComponent,
+    ResultsComponent,
+    SourcesComponent,
+    ContactComponent
   ],
   imports: [
     FormsModule,
@@ -37,7 +47,8 @@ import { PretextFilterPipe } from './quiz/pretext-filter.pipe';
     RadioButtonModule,
     DeferModule,
     ConfirmDialogModule,
-    InputNumberModule
+    InputNumberModule,
+    TableModule
   ],
   providers: [ConfirmationService],
   bootstrap: [AppComponent]

@@ -1,3 +1,39 @@
 html, body {
   height: 100%;
 }
+
+.ui-multiselected-item-token,
+.ui-multiselected-empty-token {
+  padding: 2px 4px;
+  margin: 0 0.286em 0 0;
+  display: inline-block;
+  vertical-align:middle;
+  height: 1.857em;
+}
+
+.ui-multiselected-item-token {
+  background: #007ad9;
+  color: #ffffff;
+}
+
+.form-container {
+  padding: 20px;
+}
+
+.question-title{
+  font-size:16px;
+  display:inline-block;
+  margin-top:2px;
+}
+
+.answer span {
+  padding-left: 10px;
+}
+
+.navigation {
+  padding-top: 5px;
+}
+
+.question-title > i {
+  padding-right: 10px;
+}

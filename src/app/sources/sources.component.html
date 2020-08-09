@@ -1,0 +1,17 @@
+
+<p-table [value]="sources">
+  <ng-template pTemplate="header">
+    <tr>
+      <th>Session</th>
+      <th>Source</th>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-source>
+    <tr>
+      <td>{{source.session}}</td>
+      <td *ngIf="source.url"><a [href]="source.url" target="_blank" rel="noopener noreferrer">{{source.label}}</a></td>
+      <td *ngIf="!source.url">{{source.label}}</td>
+    </tr>
+  </ng-template>
+</p-table>
+Note: Bien que les pages répertoriant les questionnaires pour le TOSS et l'examen d'entrée en médecine de 2013 à 2017 soient différentes sur le site de l'ARES, les questions sont les mêmes.

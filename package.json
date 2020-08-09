@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "npm run env -s && ng serve --aot --proxy-config proxy.conf.js",
-    "build": "ng build --prod --base-href /vetmedquiz/ && ngh",
+    "build": "ng build --prod --base-href vetmedquiz && ngh",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

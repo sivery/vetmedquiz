@@ -13,6 +13,8 @@ import {QuizUtils} from "@app/utils/quiz-utils";
 })
 export class FormComponent implements OnInit {
 
+  public Math = Math;
+
   public nbrQuestions: number = 0;
 
   public random: boolean = true;
@@ -107,7 +109,7 @@ export class FormComponent implements OnInit {
     sessionStorage.setItem('selectedQuestionSets', JSON.stringify(this.selectedQuestionSets));
     sessionStorage.setItem('random', JSON.stringify(this.random));
     if(this.maxNbrQuestion) {
-      sessionStorage.setItem('maxNbrQuestion', JSON.stringify(this.maxNbrQuestion));
+      sessionStorage.setItem('maxNbrQuestion', JSON.stringify(Math.floor(this.maxNbrQuestion)));
     }
 
     if(this.showPretextSection) {

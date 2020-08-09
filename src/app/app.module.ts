@@ -9,7 +9,7 @@ import {
   AccordionModule,
   ButtonModule, ConfirmationService,
   ConfirmDialogModule,
-  DeferModule, InputNumberModule,
+  DeferModule, InputNumberModule, InputTextModule,
   MultiSelectModule,
   PanelModule,
   RadioButtonModule, TableModule
@@ -47,6 +47,7 @@ import { ContactComponent } from './contact/contact.component';
     RadioButtonModule,
     DeferModule,
     ConfirmDialogModule,
+    InputTextModule,
     InputNumberModule,
     TableModule
   ],

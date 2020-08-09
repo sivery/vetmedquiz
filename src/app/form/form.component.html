@@ -29,7 +29,7 @@
   </div>
   <div class="p-field p-col-12 p-md-6">
     <label for="topics">Nombre de questions (maximum):</label>
-    <p-inputNumber [(ngModel)]="maxNbrQuestion"></p-inputNumber>
+    <input pInputText type="number" [(ngModel)]="maxNbrQuestion"/>
   </div>
   <div class="p-field p-col-12 p-md-6">
     <label for="topics">Ordre:</label>
@@ -46,7 +46,7 @@
   </div>
   <div class="p-field p-col-12">
     <button pButton type="button" label="Démarrer le quiz
-    ({{maxNbrQuestion  && maxNbrQuestion < nbrQuestions ? maxNbrQuestion + '/' + nbrQuestions : nbrQuestions}} questions)"
+    ({{maxNbrQuestion  && Math.floor(maxNbrQuestion) < nbrQuestions ? Math.floor(maxNbrQuestion) + '/' + nbrQuestions : nbrQuestions}} questions)"
             [disabled]="!nbrQuestions" (click)="startQuiz()"></button>
   </div>
 </div>

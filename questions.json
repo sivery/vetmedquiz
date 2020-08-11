@@ -6787,7 +6787,7 @@
         ]
       },
       {
-        "text": "Des cellules animales ont été placées dans une solution aqueuse d’ions potassium et sodium. L’expérience s’est déroulée en deux temps&nbsp;: dans la première manipulation, la solution ne contenait pas de glucose, dans la seconde, on a ajouté 25 mM de glucose. Le graphique résume la variation mesurée des ions potassium et sodium dans la solution.\r\n<img src=\"http://www.ares-ac.be/images/Toss/Q2016/qz_bio_1607_Q57.png\" alt=\"qz bio 1607 Q57\" />\r\nQuelle est la proposition en accord avec ce résultat&nbsp;?",
+        "text": "Des cellules animales ont été placées dans une solution aqueuse d’ions potassium et sodium. L’expérience s’est déroulée en deux temps&nbsp;: dans la première manipulation, la solution ne contenait pas de glucose, dans la seconde, on a ajouté 25 mM de glucose. Le graphique résume la variation mesurée des ions potassium et sodium dans la solution.\r\n<img src=\"images/Toss/Q2016/qz_bio_1607_Q57.png\" alt=\"qz bio 1607 Q57\" />\r\nQuelle est la proposition en accord avec ce résultat&nbsp;?",
         "answers": [
           {
             "text": "Les ions sodium entrent dans les cellules et les ions potassium sortent des cellules.",
@@ -6808,7 +6808,7 @@
         ]
       },
       {
-        "text": "Le graphique ci-dessous représente l’évolution au cours du temps de la quantité d’ADN dans une cellule.\r\n<img src=\"http://www.ares-ac.be/images/Toss/Q2016/qz_bio_1607_Q58.png\" alt=\"qz bio 1607 Q58\" width=\"226\" height=\"123\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\r\nQue peut-on déduire de ce graphique&nbsp;?",
+        "text": "Le graphique ci-dessous représente l’évolution au cours du temps de la quantité d’ADN dans une cellule.\r\n<img src=\"images/Toss/Q2016/qz_bio_1607_Q58.png\" alt=\"qz bio 1607 Q58\" width=\"226\" height=\"123\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\r\nQue peut-on déduire de ce graphique&nbsp;?",
         "answers": [
           {
             "text": "Il représente l’évolution de la quantité d’ADN lors de la méiose.",
@@ -6892,7 +6892,7 @@
         ]
       },
       {
-        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Le schéma ci-dessous représente une des étapes de la synthèse des protéines : la traduction.</span>\r\n<img src=\"http://www.ares-ac.be/images/Toss/Q2016/qz_bio_1607_Q64.png\" alt=\"qz bio 1607 Q64\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Que représentent respectivement les numéros 1, 2, 3, 4 et 5&nbsp;?</span>",
+        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Le schéma ci-dessous représente une des étapes de la synthèse des protéines : la traduction.</span>\r\n<img src=\"images/Toss/Q2016/qz_bio_1607_Q64.png\" alt=\"qz bio 1607 Q64\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Que représentent respectivement les numéros 1, 2, 3, 4 et 5&nbsp;?</span>",
         "answers": [
           {
             "text": "Acide aminé, ARNt, ARNm, codon, anti-codon",
@@ -6913,7 +6913,7 @@
         ]
       },
       {
-        "text": "Les séquences ci-dessous correspondent à une partie de 2 allèles d’un gène (brins non transcrits).\r\nallèle normal&nbsp;: 5’-A T G A T A C T T <strong>G</strong> C T G G T-3’\r\nallèle muté&nbsp;:&nbsp;&nbsp;&nbsp; 5’-A T G A T A C T T&nbsp; <strong>T</strong> C T G G T-3’\r\n<img src=\"http://www.ares-ac.be/images/Toss/Q2016/qz_bio_1607_Q65.png\" alt=\"qz bio 1607 Q65\" />\r\nA quelle proposition correspond la mutation dans l’allèle muté&nbsp;?",
+        "text": "Les séquences ci-dessous correspondent à une partie de 2 allèles d’un gène (brins non transcrits).\r\nallèle normal&nbsp;: 5’-A T G A T A C T T <strong>G</strong> C T G G T-3’\r\nallèle muté&nbsp;:&nbsp;&nbsp;&nbsp; 5’-A T G A T A C T T&nbsp; <strong>T</strong> C T G G T-3’\r\n<img src=\"images/Toss/Q2016/qz_bio_1607_Q65.png\" alt=\"qz bio 1607 Q65\" />\r\nA quelle proposition correspond la mutation dans l’allèle muté&nbsp;?",
         "answers": [
           {
             "text": "Une substitution silencieuse",
@@ -12227,7 +12227,7 @@
   {
     "topic": "Chimie",
     "session": "201607",
-    "pretext": "Pour vous aider, vous disposez d'un&nbsp;<a href=\"/images/Toss/QZMedia/qz_chim_1509_chimie1.png\" target=\"_blank\" style=\"text-decoration: none; color: #0088cc; background: transparent;\">tableau périodique</a>&nbsp;des éléments avec les masses atomiques relatives.",
+    "pretext": "Pour vous aider, vous disposez d'un&nbsp;<a href=\"images/Toss/QZMedia/qz_chim_1509_chimie1.png\" target=\"_blank\" style=\"text-decoration: none; color: #0088cc; background: transparent;\">tableau périodique</a>&nbsp;des éléments avec les masses atomiques relatives.",
     "questions": [
       {
         "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Les symboles atomiques du plomb et du sodium sont respectivement&nbsp;:</span>",
@@ -12464,7 +12464,7 @@
         "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Voici le schéma d’une pile.</span>\r\n<img src=\"images/Toss/Q2016/qz_ch_1607_Q58.png\" alt=\"qz ch 1607 Q58\" width=\"256\" height=\"140\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Sachant que le potentiel standard de réduction E° du couple Cu<sup>2+</sup>/Cu vaut 0,34 V et que le potentiel standard de réduction E° du couple Ag<sup>+</sup>/Ag vaut 0,80 V, laquelle des propositions suivantes est correcte&nbsp;?</span>",
         "answers": [
           {
-            "text": "A la surface de l’électrode de cuivre, se déroule l’oxydation Cu </span><span style=\"font-size: 11pt; font-family: Symbol;\">®</span>Cu<sup>2+</sup> + 2 e-.</span>",
+            "text": "A la surface de l’électrode de cuivre, se déroule l’oxydation Cu </span><span style=\"font-size: 11pt; font-family: Symbol;\">→ </span>Cu<sup>2+</sup> + 2 e-.</span>",
             "correct": true
           },
           {
@@ -12524,7 +12524,7 @@
         ]
       },
       {
-        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Soit l’équation non pondérée de la réaction de combustion de l’hexane&nbsp;:</span>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">C<sub>6</sub>H<sub>14</sub> + O<sub>2</sub> </span><span style=\"font-size: 11pt; font-family: Symbol;\">®</span><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">&nbsp; CO<sub>2</sub>&nbsp; + H<sub>2</sub>O</span>\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Quelle masse de dioxyde de carbone sera produite lors de la combustion complète de 43,0 g d’hexane&nbsp;?</span>",
+        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Soit l’équation non pondérée de la réaction de combustion de l’hexane&nbsp;:</span>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">C<sub>6</sub>H<sub>14</sub> + O<sub>2</sub> </span><span style=\"font-size: 11pt; font-family: Symbol;\">→ </span><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">&nbsp; CO<sub>2</sub>&nbsp; + H<sub>2</sub>O</span>\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Quelle masse de dioxyde de carbone sera produite lors de la combustion complète de 43,0 g d’hexane&nbsp;?</span>",
         "answers": [
           {
             "text": "22,0 g",
@@ -12545,7 +12545,7 @@
         ]
       },
       {
-        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Au laboratoire, la préparation du bicarbonate d’ammonium s'effectue selon la réaction suivante&nbsp;:</span>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">NH<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O </span><span style=\"font-size: 11pt; font-family: Symbol;\">®</span><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\"> NH<sub>4</sub>HCO<sub>3</sub></span>\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">On utilise 6,8 g d’ammoniac (M = 17 g/mol) et 22 g de dioxyde de carbone (M = 44 g/mol) en présence d’un excès d’eau. Quelle quantité (exprimée en mol) de bicarbonate d’ammonium (M = 79 g/mol) doit-on obtenir si le rendement&nbsp;de la réaction est de 80 %&nbsp;?</span>",
+        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Au laboratoire, la préparation du bicarbonate d’ammonium s'effectue selon la réaction suivante&nbsp;:</span>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">NH<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O </span><span style=\"font-size: 11pt; font-family: Symbol;\">→ </span><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\"> NH<sub>4</sub>HCO<sub>3</sub></span>\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">On utilise 6,8 g d’ammoniac (M = 17 g/mol) et 22 g de dioxyde de carbone (M = 44 g/mol) en présence d’un excès d’eau. Quelle quantité (exprimée en mol) de bicarbonate d’ammonium (M = 79 g/mol) doit-on obtenir si le rendement&nbsp;de la réaction est de 80 %&nbsp;?</span>",
         "answers": [
           {
             "text": "0,08 mol",
@@ -12612,7 +12612,7 @@
   {
     "topic": "Chimie",
     "session": "201509",
-    "pretext": "Pour vous aider, vous disposez :&nbsp;\n<ul>\n<li>d'un <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_chim_1509_chimie1.png\">tableau périodique</a> des éléments avec les masses atomiques relatives</li>\n<li>d'un tableau reprenant la <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_chim_1509_chimie2.png\">solubilité dans l'eau des principaux sels et hydroxydes</a></li>\n</ul>",
+    "pretext": "Pour vous aider, vous disposez :&nbsp;\n<ul>\n<li>d'un <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_chim_1509_chimie1.png\">tableau périodique</a> des éléments avec les masses atomiques relatives</li>\n<li>d'un tableau reprenant la <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_chim_1509_chimie2.png\">solubilité dans l'eau des principaux sels et hydroxydes</a></li>\n</ul>",
     "questions": [
       {
         "text": "La masse de 250 mL de benzène liquide est de 220 g. Quelle est la masse volumique de cette substance ?",
@@ -12976,7 +12976,7 @@
   {
     "topic": "Chimie",
     "session": "201507",
-    "pretext": "Un <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_chim_1507_tableau.png\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition",
+    "pretext": "Un <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_chim_1507_tableau.png\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition",
     "questions": [
       {
         "text": "Parmi les affirmations suivantes, une seule est incorrecte. Laquelle ?",
@@ -13850,7 +13850,7 @@
   {
     "topic": "Chimie",
     "session": "201407",
-    "pretext": "Un <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_chim_1407_tab1.jpg\">tableau périodique</a> reprenant les masses atomiques relatives et un <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_chim_1407_tab2.jpg\">tableau de l'échelle de Pauling</a> sont à votre disposition",
+    "pretext": "Un <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_chim_1407_tab1.jpg\">tableau périodique</a> reprenant les masses atomiques relatives et un <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_chim_1407_tab2.jpg\">tableau de l'échelle de Pauling</a> sont à votre disposition",
     "questions": [
       {
         "text": "Les symboles atomiques du potassium et du phosphore sont respectivement :",
@@ -14382,7 +14382,7 @@
   {
     "topic": "Chimie",
     "session": "201309",
-    "pretext": "Un <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_chim_1309_tableau_ok.jpg\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition.",
+    "pretext": "Un <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_chim_1309_tableau_ok.jpg\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition.",
     "questions": [
       {
         "text": "Parmi les unités suivantes, laquelle représente le plus petit volume ?",
@@ -14889,7 +14889,7 @@
         ]
       },
       {
-        "text": "Pour obtenir de l’alumine (oxyde d’aluminium), on fait brûler de l'aluminium dans du dioxygène selon l'équation suivante (non pondérée/non équilibrée) :\r\nAl (s) + O<sub>2</sub> (g) ® Al<sub>2</sub>O<sub>3</sub> (s)<br /><br /> Laquelle des propositions suivantes est correcte ?",
+        "text": "Pour obtenir de l’alumine (oxyde d’aluminium), on fait brûler de l'aluminium dans du dioxygène selon l'équation suivante (non pondérée/non équilibrée) :\r\nAl (s) + O<sub>2</sub> (g) → Al<sub>2</sub>O<sub>3</sub> (s)<br /><br /> Laquelle des propositions suivantes est correcte ?",
         "answers": [
           {
             "text": "4 moles d’aluminium génèrent par combustion 1 mole d’alumine",
@@ -14910,7 +14910,7 @@
         ]
       },
       {
-        "text": "La réaction 2 SO<sub>2</sub>(g) + O<sub>2</sub>(g) ® 2 SO<sub>3</sub>(g) est complète à 25°C. Sachant que initialement le nombre de mole de SO<sub>3</sub> est nul et les nombres de moles de SO<sub>2</sub> et O<sub>2</sub> valent respectivement 0,20 mol et 0,15 mol, quel est le nombre de moles de SO<sub>3</sub> à la fin de la réaction ?",
+        "text": "La réaction 2 SO<sub>2</sub>(g) + O<sub>2</sub>(g) → 2 SO<sub>3</sub>(g) est complète à 25°C. Sachant que initialement le nombre de mole de SO<sub>3</sub> est nul et les nombres de moles de SO<sub>2</sub> et O<sub>2</sub> valent respectivement 0,20 mol et 0,15 mol, quel est le nombre de moles de SO<sub>3</sub> à la fin de la réaction ?",
         "answers": [
           {
             "text": "0,050 mol",
@@ -15019,7 +15019,7 @@
   {
     "topic": "Chimie",
     "session": "201307",
-    "pretext": "Un <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_chim_1307_tableau_ok.jpg\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition",
+    "pretext": "Un <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_chim_1307_tableau_ok.jpg\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition",
     "questions": [
       {
         "text": "Parmi les unités suivantes, laquelle représente la plus petite longueur?",
@@ -15526,7 +15526,7 @@
         ]
       },
       {
-        "text": "Considérons la réaction de combustion d’une mole de propane:\r\nC<sub>3</sub>H<sub>8</sub> + O<sub>2</sub> ® CO<sub>2</sub> + H<sub>2</sub>O. (non pondérée/non équilibrée)\r\nAu cours de la réaction :",
+        "text": "Considérons la réaction de combustion d’une mole de propane:\r\nC<sub>3</sub>H<sub>8</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. (non pondérée/non équilibrée)\r\nAu cours de la réaction :",
         "answers": [
           {
             "text": "18 g de H<sub>2</sub>O sont formés",
@@ -16183,7 +16183,7 @@
         ]
       },
       {
-        "text": "On effectue la réaction:\r\n4 NH<sub>3</sub> + 5 O<sub>2</sub> ® 4 NO + 6 H<sub>2</sub>O\r\nen utilisant 2,0 moles de NH<sub>3</sub> et 2,0 moles O<sub>2</sub>.<br /> Parmi les propositions suivantes, laquelle est correcte ?",
+        "text": "On effectue la réaction:\r\n4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O\r\nen utilisant 2,0 moles de NH<sub>3</sub> et 2,0 moles O<sub>2</sub>.<br /> Parmi les propositions suivantes, laquelle est correcte ?",
         "answers": [
           {
             "text": "Il se forme au maximum 2,0 mol de NO et 3,0 mol de H<sub>2</sub>O.",
@@ -21324,7 +21324,7 @@
   {
     "topic": "Anglais",
     "session": "201709",
-    "pretext": "<span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">Veuillez lire attentivement <a href=\"/images/Toss/Q201709/Anglais/20170906_AM_texte_anglais.pdf\" target=\"_blank\">ce texte</a></span><span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">&nbsp;intitulé <span>«&nbsp;<span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">America’s booming pet health-care business</span><em><span style=\"font-family: Arial, sans-serif;\"></span></em></span></span><span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\"><span>»</span> et répondez aux questions suivantes.</span>",
+    "pretext": "<span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">Veuillez lire attentivement <a href=\"images/Toss/Q201709/Anglais/20170906_AM_texte_anglais.pdf\" target=\"_blank\">ce texte</a></span><span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">&nbsp;intitulé <span>«&nbsp;<span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">America’s booming pet health-care business</span><em><span style=\"font-family: Arial, sans-serif;\"></span></em></span></span><span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\"><span>»</span> et répondez aux questions suivantes.</span>",
     "questions": [
       {
         "text": "<span style=\"font-size: 12pt;\">Selon le paragraphe 1, il apparaît ...</span>",
@@ -21751,7 +21751,7 @@
   {
     "topic": "Anglais",
     "session": "201707",
-    "pretext": "<span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">Veuillez lire attentivement <a href=\"/images/Toss/Q201707/francais-anglais-textes/20170705_AM_texte_anglais.pdf\" target=\"_blank\">ce texte</a></span><span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">&nbsp;intitulé « Don’t be fooled by the pretty box: find out the horror behind your egg&nbsp;</span><span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">» et répondez aux questions suivantes.</span>",
+    "pretext": "<span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">Veuillez lire attentivement <a href=\"images/Toss/Q201707/francais-anglais-textes/20170705_AM_texte_anglais.pdf\" target=\"_blank\">ce texte</a></span><span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">&nbsp;intitulé « Don’t be fooled by the pretty box: find out the horror behind your egg&nbsp;</span><span style=\"font-family: Tahoma, sans-serif; font-size: 14.6667px;\">» et répondez aux questions suivantes.</span>",
     "questions": [
       {
         "text": "Selon le paragraphe 1, il apparaît qu'à la naissance, ...",
@@ -22178,7 +22178,7 @@
   {
     "topic": "Anglais",
     "session": "201609",
-    "pretext": "Veuillez lire attentivement <a href=\"/images/Toss/Q2016/qz_angl_1609_texte.pdf\">ce texte</a> intitulé «&nbsp;<em>Lack of sleep alters brain chemicals to bring on cannabis-style 'munchies'</em>&nbsp;» et répondez aux questions suivantes.",
+    "pretext": "Veuillez lire attentivement <a href=\"images/Toss/Q2016/qz_angl_1609_texte.pdf\">ce texte</a> intitulé «&nbsp;<em>Lack of sleep alters brain chemicals to bring on cannabis-style 'munchies'</em>&nbsp;» et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "Selon le premier paragraphe, le manque de sommeil peut…",
@@ -22626,7 +22626,7 @@
   {
     "topic": "Anglais",
     "session": "201607",
-    "pretext": "Veuillez lire attentivement <a href=\"/images/Toss/Q2016/qz_angl_1607_texte.pdf\">ce texte</a>, intitulé «&nbsp;Sleep, obesity and physicians’ education » et répondez aux questions suivantes à l’aide de la feuille de réponses spécialement prévue à cet effet.",
+    "pretext": "Veuillez lire attentivement <a href=\"images/Toss/Q2016/qz_angl_1607_texte.pdf\">ce texte</a>, intitulé «&nbsp;Sleep, obesity and physicians’ education » et répondez aux questions suivantes à l’aide de la feuille de réponses spécialement prévue à cet effet.",
     "questions": [
       {
         "text": "On peut déduire du paragraphe 2 que le tabagisme …",
@@ -23053,7 +23053,7 @@
   {
     "topic": "Anglais",
     "session": "201509",
-    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_angl_1509_texte.pdf\">ce texte</a>, intitulé \"<em>Could peanut studies point the way to a cure for other allergies?</em>\" et répondez aux questions suivantes.",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_angl_1509_texte.pdf\">ce texte</a>, intitulé \"<em>Could peanut studies point the way to a cure for other allergies?</em>\" et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "Lequel de ces énoncés ci-dessous peut être déduit à la lecture du paragraphe 1?",
@@ -23480,7 +23480,7 @@
   {
     "topic": "Anglais",
     "session": "201507",
-    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_angl_1507_texte.pdf\">ce texte</a>, intitulé \"&nbsp;<em>Employer schemes to encourage walking to work \"</em>&nbsp;et répondez aux questions.",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_angl_1507_texte.pdf\">ce texte</a>, intitulé \"&nbsp;<em>Employer schemes to encourage walking to work \"</em>&nbsp;et répondez aux questions.",
     "questions": [
       {
         "text": "Selon le paragraphe 1, le manque d’activité physique augmente le risque de maladies chroniques comme par exemple :",
@@ -23907,7 +23907,7 @@
   {
     "topic": "Anglais",
     "session": "201409",
-    "pretext": "Veuillez lire attentivement le texte intitulé «&nbsp;<a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_angl_1409_texte.pdf\">Hypertension : the basic facts</a> » et répondez aux questions suivantes.",
+    "pretext": "Veuillez lire attentivement le texte intitulé «&nbsp;<a target=\"_blank\" href=\"images/Toss/QZMedia/qz_angl_1409_texte.pdf\">Hypertension : the basic facts</a> » et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "Aux paragraphes 1 et 9, la signification de « condition » est la plus proche de :",
@@ -24334,7 +24334,7 @@
   {
     "topic": "Anglais",
     "session": "201407",
-    "pretext": "Veuillez lire attentivement le texte intitulé «&nbsp;<a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_angl_1407_texte.pdf\">Outdoor Air Pollution : a Leading Environnemental Cause of Cancer Deaths</a> » et répondez aux questions suivantes.",
+    "pretext": "Veuillez lire attentivement le texte intitulé «&nbsp;<a target=\"_blank\" href=\"images/Toss/QZMedia/qz_angl_1407_texte.pdf\">Outdoor Air Pollution : a Leading Environnemental Cause of Cancer Deaths</a> » et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "Dans le second paragraphe, la signification de \"reviewing\" se rapproche le plus du sens de:",
@@ -24782,7 +24782,7 @@
   {
     "topic": "Anglais",
     "session": "201309",
-    "pretext": "Veuillez lire attentivement le texte intitulé «&nbsp;<a href=\"/images/Toss/QZMedia/qz_angl_1309_texte.pdf\" target=\"_blank\">Safety of Cell Phones and Cell Phone Towers</a> » et répondez aux questions qui suivent.",
+    "pretext": "Veuillez lire attentivement le texte intitulé «&nbsp;<a href=\"images/Toss/QZMedia/qz_angl_1309_texte.pdf\" target=\"_blank\">Safety of Cell Phones and Cell Phone Towers</a> » et répondez aux questions qui suivent.",
     "questions": [
       {
         "text": "Dans le premier paragraphe, la signification de « concern » se rapproche le plus du sens de :",
@@ -25209,7 +25209,7 @@
   {
     "topic": "Anglais",
     "session": "201307",
-    "pretext": "Veuillez lire attentivement le texte intitulé « <a href=\"/images/Toss/QZMedia/qz_angl_1307_texte.pdf\" target=\"_blank\">Plasma Donation in Canada</a> » et répondez aux questions qui suivent.",
+    "pretext": "Veuillez lire attentivement le texte intitulé « <a href=\"images/Toss/QZMedia/qz_angl_1307_texte.pdf\" target=\"_blank\">Plasma Donation in Canada</a> » et répondez aux questions qui suivent.",
     "questions": [
       {
         "text": "Lequel des énoncés peut être déduit de la phrase suivante: ‘In Canada, blood used for transfusion is collected solely by the Canadian Blood Services or by Héma-Québec and only from volunteer donors.’ (Paragraphe 2)?",
@@ -25594,7 +25594,7 @@
   {
     "topic": "Anglais",
     "session": "Extra",
-    "pretext": "Lisez attentivement le texte \"<a href=\"/images/Toss/QZMedia/qz_angl_texte.pdf\" target=\"_blank\">Effects Of Human Exposure To Hormone-Disrupting Chemicals Examined In Landmark UN Report</a>\" et répondez aux questions suivantes.",
+    "pretext": "Lisez attentivement le texte \"<a href=\"images/Toss/QZMedia/qz_angl_texte.pdf\" target=\"_blank\">Effects Of Human Exposure To Hormone-Disrupting Chemicals Examined In Landmark UN Report</a>\" et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "Le sens de l’adjectif « comprehensive » (§2) est le plus proche de :",
@@ -26342,7 +26342,7 @@
   {
     "topic": "Français",
     "session": "201707",
-    "pretext": "Veuillez lire attentivement le texte intitulé <a href=\"/images/Toss/Q201707/francais-anglais-textes/20170705_PM_texte_francais.pdf\" target=\"_blank\">« Détecter bien-être et mal-être chez le cheval : difficultés et solutions » de C. Lesimplea, C.Fureixab, M. Hausbergera</a>&nbsp;et répondez aux questions suivantes.",
+    "pretext": "Veuillez lire attentivement le texte intitulé <a href=\"images/Toss/Q201707/francais-anglais-textes/20170705_PM_texte_francais.pdf\" target=\"_blank\">« Détecter bien-être et mal-être chez le cheval : difficultés et solutions » de C. Lesimplea, C.Fureixab, M. Hausbergera</a>&nbsp;et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "<span style=\"font-size: 12pt;\">On peut détecter le mal-être chez le cheval grâce à certains indicateurs fiables, qui sont :</span>",
@@ -26664,7 +26664,7 @@
   {
     "topic": "Français",
     "session": "201609",
-    "pretext": "Veuillez lire attentivement le texte intitulé <a href=\"/images/Toss/Q2016/qz_1609_fr_texte.pdf\">« Le médecin chercheur, une espèce en voie d’évolution » de Pierre Corvol</a> et répondez aux questions suivantes.",
+    "pretext": "Veuillez lire attentivement le texte intitulé <a href=\"images/Toss/Q2016/qz_1609_fr_texte.pdf\">« Le médecin chercheur, une espèce en voie d’évolution » de Pierre Corvol</a> et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "La phrase : « L’étude du mécanisme des maladies n’est pas l’apanage du médecin chercheur, mais elle bénéficie de son apport grâce à sa familiarisation avec la maladie humaine » peut être reformulée comme suit :",
@@ -26986,7 +26986,7 @@
   {
     "topic": "Français",
     "session": "201607",
-    "pretext": "Veuillez lire attentivement <a href=\"/images/Toss/Q2016/qz_fr_1607_texte.pdf\">ce texte</a>, intitulé «&nbsp;<em>L’évolution favorable de l’espérance de vie correspond-elle à une augmentation du bien-être lié à la santé&nbsp;</em>» de Florence Jusot et répondez aux questions suivantes à l’aide de la feuille de réponses spécialement prévue à cet effet.",
+    "pretext": "Veuillez lire attentivement <a href=\"images/Toss/Q2016/qz_fr_1607_texte.pdf\">ce texte</a>, intitulé «&nbsp;<em>L’évolution favorable de l’espérance de vie correspond-elle à une augmentation du bien-être lié à la santé&nbsp;</em>» de Florence Jusot et répondez aux questions suivantes à l’aide de la feuille de réponses spécialement prévue à cet effet.",
     "questions": [
       {
         "text": "<p style=\"text-align: justify;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Dans la phrase&nbsp;: «&nbsp;<em>Pour autant, cette évolution favorable de l’espérance de vie correspond-elle à une véritable augmentation du bien-être lié à la santé pour la population&nbsp;?</em>&nbsp;», par quoi peut-on remplacer «&nbsp;<em>pour autant</em>&nbsp;»&nbsp;?</span>",
@@ -27308,7 +27308,7 @@
   {
     "topic": "Français",
     "session": "201509",
-    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_fr_1509_texte.pdf\">ce texte</a>, intitulé \"<em>Primitive, l'oxygénation de nos cellules?</em>\" de Jean-Charles Massabuau et Cécile Klingler et répondez aux questions suivantes.&nbsp;",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_fr_1509_texte.pdf\">ce texte</a>, intitulé \"<em>Primitive, l'oxygénation de nos cellules?</em>\" de Jean-Charles Massabuau et Cécile Klingler et répondez aux questions suivantes.&nbsp;",
     "questions": [
       {
         "text": "Laquelle de ces phrases est fidèle au sens du texte?",
@@ -27630,7 +27630,7 @@
   {
     "topic": "Français",
     "session": "201507",
-    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_fr_1507_texte.pdf\">ce texte</a>, intitulé « Horloge biologique: la rétine redécouverte » de Patrick Philipon, et répondez aux questions.",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_fr_1507_texte.pdf\">ce texte</a>, intitulé « Horloge biologique: la rétine redécouverte » de Patrick Philipon, et répondez aux questions.",
     "questions": [
       {
         "text": "Dans la phrase : « Les mammifères, cependant, ne le perçoivent qu'avec leurs yeux » (§1), le pronom « le » remplace le :",
@@ -28596,7 +28596,7 @@
   {
     "topic": "Français",
     "session": "201309",
-    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_fr_1309_texte.pdf\">ce texte</a>, intitulé «&nbsp;Cet impérieux besoin de bâiller&nbsp;» de Coraline Loiseau, <em>Science et Vie</em>, hors-série, mars 2013, pp. 41-43, et répondez aux questions suivantes.",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_fr_1309_texte.pdf\">ce texte</a>, intitulé «&nbsp;Cet impérieux besoin de bâiller&nbsp;» de Coraline Loiseau, <em>Science et Vie</em>, hors-série, mars 2013, pp. 41-43, et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "Dans la phrase suivante : « <em><span style=\"text-decoration: underline;\">Irrépressible</span> et contagieux, ce phénomène bien connu de tous reste mystérieux quant à son rôle physiologique</em> » (§ 1), que signifie l’adjectif « irrépressible » ?",
@@ -28918,7 +28918,7 @@
   {
     "topic": "Français",
     "session": "201307",
-    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"/images/Toss/QZMedia/qz_fr_1307_texte.pdf\">ce texte</a>, intitulé «&nbsp;Les épices ont-elles des vertus thérapeutiques&nbsp;?&nbsp;» de Marie-Noëlle Delaby, et répondez aux questions.",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_fr_1307_texte.pdf\">ce texte</a>, intitulé «&nbsp;Les épices ont-elles des vertus thérapeutiques&nbsp;?&nbsp;» de Marie-Noëlle Delaby, et répondez aux questions.",
     "questions": [
       {
         "text": "Dans la phrase suivante, « <em>C’est aux XVII<sup>e</sup>-XVIII<sup>e</sup> siècles qu’elles <span style=\"text-decoration: underline;\">perdent de leur lustre</span>, quand la cuisine française en réduit l’usage au profit de la crème</em> », que signifie l’expression  « <em>perdent de leur lustre</em> » (§ 4) ? Cela signifie qu’elles perdent de leur :",
@@ -29240,7 +29240,7 @@
   {
     "topic": "Français",
     "session": "Extra",
-    "pretext": "Lisez attentivement <a href=\"/images/Toss/QZMedia/qz_fr_texte.jpg\" target=\"_blank\">ce texte</a> et répondez aux questions relatives à ce texte.",
+    "pretext": "Lisez attentivement <a href=\"images/Toss/QZMedia/qz_fr_texte.jpg\" target=\"_blank\">ce texte</a> et répondez aux questions relatives à ce texte.",
     "questions": [
       {
         "text": "Un acide gras saturé possède :",

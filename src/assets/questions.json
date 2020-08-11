@@ -12464,7 +12464,7 @@
         "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Voici le schéma d’une pile.</span>\r\n<img src=\"images/Toss/Q2016/qz_ch_1607_Q58.png\" alt=\"qz ch 1607 Q58\" width=\"256\" height=\"140\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Sachant que le potentiel standard de réduction E° du couple Cu<sup>2+</sup>/Cu vaut 0,34 V et que le potentiel standard de réduction E° du couple Ag<sup>+</sup>/Ag vaut 0,80 V, laquelle des propositions suivantes est correcte&nbsp;?</span>",
         "answers": [
           {
-            "text": "A la surface de l’électrode de cuivre, se déroule l’oxydation Cu </span><span style=\"font-size: 11pt; font-family: Symbol;\">®</span>Cu<sup>2+</sup> + 2 e-.</span>",
+            "text": "A la surface de l’électrode de cuivre, se déroule l’oxydation Cu </span><span style=\"font-size: 11pt; font-family: Symbol;\">→ </span>Cu<sup>2+</sup> + 2 e-.</span>",
             "correct": true
           },
           {
@@ -12524,7 +12524,7 @@
         ]
       },
       {
-        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Soit l’équation non pondérée de la réaction de combustion de l’hexane&nbsp;:</span>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">C<sub>6</sub>H<sub>14</sub> + O<sub>2</sub> </span><span style=\"font-size: 11pt; font-family: Symbol;\">®</span><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">&nbsp; CO<sub>2</sub>&nbsp; + H<sub>2</sub>O</span>\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Quelle masse de dioxyde de carbone sera produite lors de la combustion complète de 43,0 g d’hexane&nbsp;?</span>",
+        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Soit l’équation non pondérée de la réaction de combustion de l’hexane&nbsp;:</span>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">C<sub>6</sub>H<sub>14</sub> + O<sub>2</sub> </span><span style=\"font-size: 11pt; font-family: Symbol;\">→ </span><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">&nbsp; CO<sub>2</sub>&nbsp; + H<sub>2</sub>O</span>\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Quelle masse de dioxyde de carbone sera produite lors de la combustion complète de 43,0 g d’hexane&nbsp;?</span>",
         "answers": [
           {
             "text": "22,0 g",
@@ -12545,7 +12545,7 @@
         ]
       },
       {
-        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Au laboratoire, la préparation du bicarbonate d’ammonium s'effectue selon la réaction suivante&nbsp;:</span>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">NH<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O </span><span style=\"font-size: 11pt; font-family: Symbol;\">®</span><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\"> NH<sub>4</sub>HCO<sub>3</sub></span>\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">On utilise 6,8 g d’ammoniac (M = 17 g/mol) et 22 g de dioxyde de carbone (M = 44 g/mol) en présence d’un excès d’eau. Quelle quantité (exprimée en mol) de bicarbonate d’ammonium (M = 79 g/mol) doit-on obtenir si le rendement&nbsp;de la réaction est de 80 %&nbsp;?</span>",
+        "text": "<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">Au laboratoire, la préparation du bicarbonate d’ammonium s'effectue selon la réaction suivante&nbsp;:</span>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">NH<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O </span><span style=\"font-size: 11pt; font-family: Symbol;\">→ </span><span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\"> NH<sub>4</sub>HCO<sub>3</sub></span>\r\n<span style=\"font-size: 11pt; font-family: Tahoma, sans-serif;\">On utilise 6,8 g d’ammoniac (M = 17 g/mol) et 22 g de dioxyde de carbone (M = 44 g/mol) en présence d’un excès d’eau. Quelle quantité (exprimée en mol) de bicarbonate d’ammonium (M = 79 g/mol) doit-on obtenir si le rendement&nbsp;de la réaction est de 80 %&nbsp;?</span>",
         "answers": [
           {
             "text": "0,08 mol",
@@ -14889,7 +14889,7 @@
         ]
       },
       {
-        "text": "Pour obtenir de l’alumine (oxyde d’aluminium), on fait brûler de l'aluminium dans du dioxygène selon l'équation suivante (non pondérée/non équilibrée) :\r\nAl (s) + O<sub>2</sub> (g) ® Al<sub>2</sub>O<sub>3</sub> (s)<br /><br /> Laquelle des propositions suivantes est correcte ?",
+        "text": "Pour obtenir de l’alumine (oxyde d’aluminium), on fait brûler de l'aluminium dans du dioxygène selon l'équation suivante (non pondérée/non équilibrée) :\r\nAl (s) + O<sub>2</sub> (g) → Al<sub>2</sub>O<sub>3</sub> (s)<br /><br /> Laquelle des propositions suivantes est correcte ?",
         "answers": [
           {
             "text": "4 moles d’aluminium génèrent par combustion 1 mole d’alumine",
@@ -14910,7 +14910,7 @@
         ]
       },
       {
-        "text": "La réaction 2 SO<sub>2</sub>(g) + O<sub>2</sub>(g) ® 2 SO<sub>3</sub>(g) est complète à 25°C. Sachant que initialement le nombre de mole de SO<sub>3</sub> est nul et les nombres de moles de SO<sub>2</sub> et O<sub>2</sub> valent respectivement 0,20 mol et 0,15 mol, quel est le nombre de moles de SO<sub>3</sub> à la fin de la réaction ?",
+        "text": "La réaction 2 SO<sub>2</sub>(g) + O<sub>2</sub>(g) → 2 SO<sub>3</sub>(g) est complète à 25°C. Sachant que initialement le nombre de mole de SO<sub>3</sub> est nul et les nombres de moles de SO<sub>2</sub> et O<sub>2</sub> valent respectivement 0,20 mol et 0,15 mol, quel est le nombre de moles de SO<sub>3</sub> à la fin de la réaction ?",
         "answers": [
           {
             "text": "0,050 mol",
@@ -15526,7 +15526,7 @@
         ]
       },
       {
-        "text": "Considérons la réaction de combustion d’une mole de propane:\r\nC<sub>3</sub>H<sub>8</sub> + O<sub>2</sub> ® CO<sub>2</sub> + H<sub>2</sub>O. (non pondérée/non équilibrée)\r\nAu cours de la réaction :",
+        "text": "Considérons la réaction de combustion d’une mole de propane:\r\nC<sub>3</sub>H<sub>8</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. (non pondérée/non équilibrée)\r\nAu cours de la réaction :",
         "answers": [
           {
             "text": "18 g de H<sub>2</sub>O sont formés",
@@ -16183,7 +16183,7 @@
         ]
       },
       {
-        "text": "On effectue la réaction:\r\n4 NH<sub>3</sub> + 5 O<sub>2</sub> ® 4 NO + 6 H<sub>2</sub>O\r\nen utilisant 2,0 moles de NH<sub>3</sub> et 2,0 moles O<sub>2</sub>.<br /> Parmi les propositions suivantes, laquelle est correcte ?",
+        "text": "On effectue la réaction:\r\n4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O\r\nen utilisant 2,0 moles de NH<sub>3</sub> et 2,0 moles O<sub>2</sub>.<br /> Parmi les propositions suivantes, laquelle est correcte ?",
         "answers": [
           {
             "text": "Il se forme au maximum 2,0 mol de NO et 3,0 mol de H<sub>2</sub>O.",

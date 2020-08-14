@@ -33506,5 +33506,1391 @@
         ]
       }
     ]
+  },
+  {
+    "topic": "Mathématiques",
+    "session": "TOSS Septembre 2019",
+    "pretext": null,
+    "questions": [
+      {
+        "text": "Sachant que (2<sup>x</sup>)<sup>y</sup> = 64 et que 2<sup>y</sup> = 4, que vaut <i>x</i> ?",
+        "answers": [
+          {
+            "text": "√6",
+            "correct": false
+          },
+          {
+            "text": "3",
+            "correct": true
+          },
+          {
+            "text": "4",
+            "correct": false
+          },
+          {
+            "text": "12",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "J'ai 3 chiens et 2 lapins. Le coût total mensuel pour les nourrir est de 240 €. Le budget nourriture mensuel total pour les 3 chiens est le double du budget pour les 2 lapins. Déterminer le budget mensuel total pour les 2 lapins.",
+        "answers": [
+          {
+            "text": "40 €",
+            "correct": false
+          },
+          {
+            "text": "80 €",
+            "correct": true
+          },
+          {
+            "text": "90 €",
+            "correct": false
+          },
+          {
+            "text": "120 €",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans une école, on a relevé la taille en cm de 200 élèves agés de 16 ans. Les classes suivantes ont été utilisées pour ranger les résultats obtenus : [150, 160[, [160, 170[, [170, 180[, [180, 190[ et [190, 200[. Le diagramme des fréquences cumulées présente les résultats obtenus. <br/><img src=\"images/Toss/Q201909/Maths/Capture3.PNG\" alt=\"Capture3\" width=\"400px\"/><br/>Dans cette école, combien d'élèves ont une taille dont la valeur est située dans l'intervalle [170, 180[ ?\n",
+        "answers": [
+          {
+            "text": "29",
+            "correct": false
+          },
+          {
+            "text": "58",
+            "correct": true
+          },
+          {
+            "text": "86",
+            "correct": false
+          },
+          {
+            "text": "114",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Après avoir corrigé les copies d'un examen noté sur 20 points, un professeur désire remonter les résultats de tous ses éleves en ajoutant 5 points à toutes les copies. Parmi les affirmations suivantes, une seule est correcte, laquelle ?",
+        "answers": [
+          {
+            "text": "L'écart-type des résultats ne change pas.",
+            "correct": true
+          },
+          {
+            "text": "L'écart-tvpe des résultats augmente de <div class=\"frac\">\n<span>5</span>\n<span class=\"symbol\">/</span>\n<span class=\"bottom\">20</span>\n    \n</div> = 0,25 points.",
+            "correct": false
+          },
+          {
+            "text": "L'écart-tvpe des résultats augmente de √5 ≈ 2,24 points.",
+            "correct": false
+          },
+          {
+            "text": "L'écart-tvpe des résultats augmente de 5 points.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Pour assumer ses dépenses, Julien dispose sur l'année d'un budget de 2000 €. Ses dépenses se répartissent en cinq postes comme le montre le diagramme en secteurs circulaires suivant : Pour pour aller plus souvent au cinéma, Julien décide de diviser par deux le budget alloué au sport. <br/><img src=\"images/Toss/Q201909/Maths/Capture5.PNG\" alt=\"Capture5\" width=\"300px\"/><br/>Déterminer la somme annuelle qu'il va désormais consacrer au cinéma.",
+        "answers": [
+          {
+            "text": "150 €",
+            "correct": false
+          },
+          {
+            "text": "250 €",
+            "correct": false
+          },
+          {
+            "text": "300 €",
+            "correct": false
+          },
+          {
+            "text": "500 €",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Combien mesure le côté [A, C] du triangle ABC si les côtés [A, B] et [B, C] mesurent tous deux 10 cm et si l'angle ABC mesure 120° ?<br/><img src=\"images/Toss/Q201909/Maths/Capture6.PNG\" alt=\"Capture6\" />",
+        "answers": [
+          {
+            "text": "15 cm",
+            "correct": false
+          },
+          {
+            "text": "17 cm",
+            "correct": false
+          },
+          {
+            "text": "10√2 cm",
+            "correct": false
+          },
+          {
+            "text": "10√3 cm",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Soit <i>x</i> un nombre réel tel que 0 ≤ <i>x</i> ≤ <div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div> et cos(2<i>x</i>) = 1/2. Que vaut <i>x</i> ?",
+        "answers": [
+          {
+            "text": "<div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">6</span></div>",
+            "correct": true
+          },
+          {
+            "text": "<div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">4</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">3</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelle est l'égalité correcte pour toutes les valeurs de α et β ?",
+        "answers": [
+          {
+            "text": "sin(α + β) = sin(α)cos(β) + cos(α)sin(β)",
+            "correct": true
+          },
+          {
+            "text": "sin(α + β) = sin(α)cos(β) - cos(α)sin(β)",
+            "correct": false
+          },
+          {
+            "text": "sin(α + β) = sin(α)sin(β) + cos(α)cos(β)",
+            "correct": false
+          },
+          {
+            "text": "sin(α + β) = cos(α)cos(β) - sin(α)sin(β)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soit le triangle ABC dont les sommets ont pour coordonnées dans un repère cartésien orthonormé : A : (18; 10), B : (7; 4), C : (3; 2). Parmi les propositions suivantes, laquelle est une équation cartésienne de la hauteur issue de A dans ce triangle ?",
+        "answers": [
+          {
+            "text": "-<i>x</i> + 2<i>y</i> - 2 = 0",
+            "correct": false
+          },
+          {
+            "text": "2<i>x</i> - <i>y</i> - 26 = 0",
+            "correct": false
+          },
+          {
+            "text": "2<i>x</i> + <i>y</i> - 46 = 0",
+            "correct": true
+          },
+          {
+            "text": "<i>x</i> + 2<i>y</i> - 28 = 0",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soit <i>k</i> un paramètre réel. Dans le plan muni d'un repère orthonormé, on se donne la droite <i>d</i> ≡ <i>y</i> = -2<i>kx</i> + 4<i>k</i> et la droite <i>d'</i> qui passe par les points A : (5;7) et B : (3; <i>k</i>). Pour quelle valeur de <i>k</i> les droites <i>d</i> et <i>d'</i> sont-elles parallèles ?",
+        "answers": [
+          {
+            "text": "<i>k</i> = - <div class=\"frac\"><span>7</span><span class=\"symbol\">/</span><span class=\"bottom\">3</span></div>",
+            "correct": true
+          },
+          {
+            "text": "<i>k</i> = <div class=\"frac\"><span>3</span><span class=\"symbol\">/</span><span class=\"bottom\">7</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<i>k</i> = <div class=\"frac\"><span>7</span><span class=\"symbol\">/</span><span class=\"bottom\">3</span></div>",
+            "correct": false
+          },
+          {
+            "text": "une autre valeur de <i>k</i>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans un système d'axes orthonormé du plan, on considère la droite <i>AB</i> où <i>A</i> a pour coordonnées (2; —1) et <i>B</i> a pour coordonnées (3; 3). Déterminer l'unique proposition correcte parmi les suivantes.",
+        "answers": [
+          {
+            "text": "<i>AB</i> est parallèle à la droite d<sub>1</sub> ayant pour équation 2<i>x</i> - <i>y</i> = 3",
+            "correct": false
+          },
+          {
+            "text": "<i>AB</i> est perpendiculaire à la droite d<sub>2</sub> ayant pour équation <i>x</i> + 4<i>y</i> = 7",
+            "correct": true
+          },
+          {
+            "text": "<i>AB</i> contient le point <i>C</i> ayant pour coordonnées (8; 22)",
+            "correct": false
+          },
+          {
+            "text": "<i>AB</i> coupe l'axe des coordonnées au point d'ordonnée -8",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soient les points A, B , C définis par leurs coordonnées dans un repère cartésien du plan : A : (0; 2), B : (4; 4), C : (5; 3). Le point <i>X</i> est tel que 4<var class=\"vector\"><i>AX</i><span>&#8407;</span></var> + 3<var class=\"vector\"><i>BX</i><span>&#8407;</span></var> - 6<var class=\"vector\"><i>CX</i><span>&#8407;</span></var> = <var class=\"vector single\">0<span>&#8407;</span></var>. Quelle est la somme des coordonnées de <i>X</i> dans ce repère ?",
+        "answers": [
+          {
+            "text": "-16",
+            "correct": true
+          },
+          {
+            "text": "-15",
+            "correct": false
+          },
+          {
+            "text": "80",
+            "correct": false
+          },
+          {
+            "text": "une autre réponse",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelle est la limite en +∞ de la fonction <i>f(x)</i> = <div class=\"frac\"><span><i>x</i></span><span class=\"symbol\">/</span><span class=\"bottom\">2<i>x</i>+<i>e</i><sup>     -<i>x</i></span></div>",
+        "answers": [
+          {
+            "text": "0",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\">1<span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": true
+          },
+          {
+            "text": "+∞",
+            "correct": false
+          },
+          {
+            "text": "Cette limite n'existe pas",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La figure suivante donne une partie de la représentation graphique de la dérivée <i>f'</i> d'une fonction <i>f</i>, définie sur ℝ. Que peut-on nécessairement déduire sur <i>f</i> ?<br/><img src=\"images/Toss/Q201909/Maths/Capture14.PNG\" alt=\"Capture14\" />",
+        "answers": [
+          {
+            "text": "La fonction <i>f</i> est croissante sur ]0, 2[.",
+            "correct": false
+          },
+          {
+            "text": "La fonction <i>f</i> admet un minimum local en x = 1.",
+            "correct": true
+          },
+          {
+            "text": "La fonction <i>f</i> admet un maximum local en x = 2.",
+            "correct": false
+          },
+          {
+            "text": "La fonction <i>f</i> est décroissante sur ]2, 3[.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soient les fonctions <i>f(x)</i> = <i>x</i> ² - 2|<i>x</i>| et <i>g(x)</i> = <i>x</i> ² + 1. Calculez <i>f(g</i>(-2)).",
+        "answers": [
+          {
+            "text": "1",
+            "correct": false
+          },
+          {
+            "text": "3",
+            "correct": false
+          },
+          {
+            "text": "15",
+            "correct": true
+          },
+          {
+            "text": "65",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Deux nombres naturels consécutifs on un produit qui excède leur somme de 55 unités. Quelle est la somme de leurs carrés ?",
+        "answers": [
+          {
+            "text": "34",
+            "correct": false
+          },
+          {
+            "text": "85",
+            "correct": false
+          },
+          {
+            "text": "113",
+            "correct": false
+          },
+          {
+            "text": "145",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une équation du second degré <i>ax</i> ² + <i>bx</i> + <i>c</i> = 0 (a ≠ 0) admet pour solutions -2 et 4. Que vaut le nombre <div class=\"frac\"><i>b</i> + <i>c</i><span class=\"symbol\">/</span><span class=\"bottom\"><i>a</i></span></div> ?",
+        "answers": [
+          {
+            "text": "-12",
+            "correct": false
+          },
+          {
+            "text": "-10",
+            "correct": true
+          },
+          {
+            "text": "-6",
+            "correct": false
+          },
+          {
+            "text": "L'énoncé ne permet pas de le déterminer.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La moyenne arithmétique des nombres 20, 40 et 60 est 5 fois plus élevée que la moyenne arithmétique de 4, 10 et <i>x</i>. Quelle est la valeur de <i>x</i>",
+        "answers": [
+          {
+            "text": "10",
+            "correct": true
+          },
+          {
+            "text": "20",
+            "correct": false
+          },
+          {
+            "text": "30",
+            "correct": false
+          },
+          {
+            "text": "40",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les expressions suivantes, quelle est celle qui est égale à cos(- <div class=\"frac\">11π<span class=\"symbol\">/</span><span class=\"bottom\">2</span></div> - <i>x</i>), quel que soit le nombre réel?",
+        "answers": [
+          {
+            "text": "cos(<i>x</i>)",
+            "correct": false
+          },
+          {
+            "text": "-cos(<i>x</i>)",
+            "correct": false
+          },
+          {
+            "text": "sin(<i>x</i>)",
+            "correct": true
+          },
+          {
+            "text": "-sin(<i>x</i>)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Que vaut l'intégrale &int;<sub>2</sub><sup>7</sup> <div class=\"frac\">1<span class=\"symbol\">/</span><span class=\"bottom\"><i>x</i></span></div> <i>dx</i> ?",
+        "answers": [
+          {
+            "text": "ln(<div class=\"frac\">7<span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>)",
+            "correct": true
+          },
+          {
+            "text": "ln(5)",
+            "correct": false
+          },
+          {
+            "text": "ln(14)",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\">ln(7)<span class=\"symbol\">/</span><span class=\"bottom\">ln(2)</span></div>",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Anglais",
+    "session": "TOSS Septembre 2019",
+    "pretext": "Veuillez lire attentivement le texte intitulé <a href=\"images/Toss/Q201909/Anglais/TOSS_2019_septembre_AM_texte_anglais.pdf\" target=\"_blank\">The benefits of pets for human health</a> et répondez aux questions suivantes.",
+    "questions": [
+      {
+        "text": "Dans le paragraphe 1, « occupational therapy » pourrait se traduire par...",
+        "answers": [
+          {
+            "text": "l'ergothérapie.",
+            "correct": true
+          },
+          {
+            "text": "la kinésithérapie.",
+            "correct": false
+          },
+          {
+            "text": "la mésothérapie.",
+            "correct": false
+          },
+          {
+            "text": "la psychothérapie.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le paragraphe 2 explique notamment qu’entre le fait d’avoir un animal de compagnie et le fait de souffrir de problèmes de santé comme des allergies et de l’asthme…",
+        "answers": [
+          {
+            "text": "il pourrait y avoir une forte corrélation.",
+            "correct": true
+          },
+          {
+            "text": "il pourrait y avoir une légère corrélation",
+            "correct": false
+          },
+          {
+            "text": "il y a une forte corrélation. ",
+            "correct": false
+          },
+          {
+            "text": "il y a une légère corrélation.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon le paragraphe 2, aux Etats-Unis, il y a plus de 71 millions…",
+        "answers": [
+          {
+            "text": "d’animaux domestiques.",
+            "correct": false
+          },
+          {
+            "text": "de foyers qui possèdent un animal domestique qu’ils considèrent comme un membre de la famille.",
+            "correct": false
+          },
+          {
+            "text": "de foyers possédant un animal domestique.",
+            "correct": true
+          },
+          {
+            "text": "de personnes qui considèrent les animaux domestiques comme un membre de la famille.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon les informations contenues dans le paragraphe 2, les propriétaires d’animaux domestiques…",
+        "answers": [
+          {
+            "text": "consultent moins souvent un médecin.",
+            "correct": true
+          },
+          {
+            "text": "ont des arrêts maladies plus courts.",
+            "correct": false
+          },
+          {
+            "text": "sont moins souvent victimes de crises cardiaques.",
+            "correct": false
+          },
+          {
+            "text": "tombent moins souvent gravement malades.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Au paragraphe 3, « Findings » pourrait être traduit par…",
+        "answers": [
+          {
+            "text": "chercheurs.",
+            "correct": false
+          },
+          {
+            "text": "conclusions.",
+            "correct": true
+          },
+          {
+            "text": "facteurs.",
+            "correct": false
+          },
+          {
+            "text": "recommandations.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans le paragraphe 3, il est expliqué que les animaux de compagnie peuvent aider le propriétaire à se sentir plus détendu…",
+        "answers": [
+          {
+            "text": "au même titre que les amis et la famille.",
+            "correct": true
+          },
+          {
+            "text": "et remplacer les relations interpersonnelles.",
+            "correct": false
+          },
+          {
+            "text": "mais peuvent aussi être source de stress.",
+            "correct": false
+          },
+          {
+            "text": "seulement s’ils encouragent les interactions sociales.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La comparaison faite au paragraphe 3 entre l’impact sur la santé des relations humaines et de la relation entre un maître et son animal de compagnie est…",
+        "answers": [
+          {
+            "text": "en faveur de la relation maître-animal.",
+            "correct": true
+          },
+          {
+            "text": "en faveur des relations humaines",
+            "correct": false
+          },
+          {
+            "text": "neutre ; les deux relations ont le même effet positif.",
+            "correct": false
+          },
+          {
+            "text": "sans objet ; l’effet sur la santé varie au cas par cas.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le verbe « enhance » au paragraphe 4 peut se traduire par…",
+        "answers": [
+          {
+            "text": "ajouter.",
+            "correct": false
+          },
+          {
+            "text": "améliorer.",
+            "correct": true
+          },
+          {
+            "text": "empirer.",
+            "correct": false
+          },
+          {
+            "text": "modifier.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le verbe « stoop » au paragraphe 4 indique qu’un propriétaire de chien ou chat pourrait, entre autres, mieux…",
+        "answers": [
+          {
+            "text": "guérir.",
+            "correct": false
+          },
+          {
+            "text": "réfléchir.",
+            "correct": false
+          },
+          {
+            "text": "s’alimenter.",
+            "correct": false
+          },
+          {
+            "text": "se pencher.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "D’après le paragraphe 4, quel facteur peut améliorer la capacité de propriétaires d’animaux domestiques à effectuer certaines activités quotidiennes ?",
+        "answers": [
+          {
+            "text": "Le fait d’avoir un chien plutôt qu’un chat.",
+            "correct": false
+          },
+          {
+            "text": "Le laps de temps depuis lequel on a un chien / chat.",
+            "correct": false
+          },
+          {
+            "text": "Le niveau d’attachement qu’on a par rapport à notre chien / chat.",
+            "correct": false
+          },
+          {
+            "text": "Aucun.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Concernant les allergies et l’asthme, le paragraphe 5 nous indique que la recherche est…",
+        "answers": [
+          {
+            "text": "déconcertante.",
+            "correct": false
+          },
+          {
+            "text": "complémentaire.",
+            "correct": false
+          },
+          {
+            "text": "variée.",
+            "correct": false
+          },
+          {
+            "text": "mitigée.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Le paragraphe 5 illustre la relation possible entre les allergies et la possession d’animaux de compagnie par différents exemples.<br/>Dans ces exemples, quels animaux sont les plus susceptibles de causer des allergies ? ",
+        "answers": [
+          {
+            "text": "Les chats.",
+            "correct": false
+          },
+          {
+            "text": "Les chiens.",
+            "correct": false
+          },
+          {
+            "text": "Les oiseaux.",
+            "correct": true
+          },
+          {
+            "text": "Les souris.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon le paragraphe 5, l’influence des animaux domestiques sur les allergies dépend, entre autres…",
+        "answers": [
+          {
+            "text": "de ces trois facteurs.",
+            "correct": false
+          },
+          {
+            "text": "de notre âge.",
+            "correct": false
+          },
+          {
+            "text": "des maladies respiratoires développées dans la première année de la vie.",
+            "correct": false
+          },
+          {
+            "text": "du type d’animal que l’on possède.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Le sens de « Likewise » au paragraphe 5 est le plus proche de…",
+        "answers": [
+          {
+            "text": "apparemment.",
+            "correct": false
+          },
+          {
+            "text": "de même.",
+            "correct": true
+          },
+          {
+            "text": "par comparaison.",
+            "correct": false
+          },
+          {
+            "text": "sans doute.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le paragraphe 6 nous informe qu’ (que)...",
+        "answers": [
+          {
+            "text": "à la différence des relations humaines, certaines relations homme-animal sont gratifiantes.",
+            "correct": false
+          },
+          {
+            "text": "à la différence des relations humaines, certaines relations homme-animal sont contraignantes.",
+            "correct": false
+          },
+          {
+            "text": "tout comme pour n’importe quelle relation, certaines relations entre l’homme et l’animal peuvent être plus gratifiantes que d’autres.",
+            "correct": true
+          },
+          {
+            "text": "tout comme pour n’importe quelle relation, certaines relations entre l’homme et l’animal peuvent être plus contraignantes que d’autres.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "D’après l’étude citée dans le paragraphe 6, qui est moins susceptible de souffrir de dépression ?",
+        "answers": [
+          {
+            "text": "Les femmes célibataires qui possèdent un chien.",
+            "correct": true
+          },
+          {
+            "text": "Les femmes mariées qui possèdent un chien.",
+            "correct": false
+          },
+          {
+            "text": "Les hommes célibataires qui possèdent un chien. ",
+            "correct": false
+          },
+          {
+            "text": "Les hommes mariés qui possèdent un chien.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans la dernière phrase du paragraphe 6, « while » peut être traduit par…",
+        "answers": [
+          {
+            "text": "à condition que.",
+            "correct": false
+          },
+          {
+            "text": "aussi longtemps que.",
+            "correct": false
+          },
+          {
+            "text": "bien que.",
+            "correct": true
+          },
+          {
+            "text": "pendant que.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Laquelle de ces informations n’est pas fournie dans l’article ?<br/>Certaines études ont montré que…",
+        "answers": [
+          {
+            "text": "la présence d’un animal peut diminuer le stress de son propriétaire. ",
+            "correct": false
+          },
+          {
+            "text": "les animaux domestiques peuvent aider à réduire le sentiment d’isolement de certaines personnes. ",
+            "correct": false
+          },
+          {
+            "text": "les chats augmentent la sensibilité aux allergènes de leur propriétaire. ",
+            "correct": false
+          },
+          {
+            "text": "les chiens causent plus d’allergies que les chats.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Après avoir lu l’article, quelle est la réponse qu’il apporte à la question posée à la fin du\npremier paragraphe : « Is that companionship beneficial to our health ? »",
+        "answers": [
+          {
+            "text": "Certains animaux de compagnie ont un effet bénéfique sur notre santé.",
+            "correct": false
+          },
+          {
+            "text": "Les animaux de compagnie ont certains effets bénéfiques sur notre santé, mais ils ont aussi des effets négatifs. ",
+            "correct": false
+          },
+          {
+            "text": "Les animaux de compagnie peuvent avoir un effet bénéfique variable sur notre santé.",
+            "correct": true
+          },
+          {
+            "text": "Les animaux de compagnie pourraient avoir un effet bénéfique sur la santé de certaines personnes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quel message l’auteur de l’article essaie-t-il de faire passer ?",
+        "answers": [
+          {
+            "text": "Les animaux domestiques peuvent avoir de nombreux impacts positifs sur la santé et le bien-être de leurs propriétaires.",
+            "correct": true
+          },
+          {
+            "text": "Les bienfaits des animaux domestiques sur la santé et sur le quotidien de leurs propriétaires pourraient être complémentaires.",
+            "correct": false
+          },
+          {
+            "text": "Les malades et les personnes âgées devraient être obligés de posséder un animal domestique.",
+            "correct": false
+          },
+          {
+            "text": "Tous les propriétaires d’animaux de compagnie sont en meilleure santé que les personnes ne possédant aucun animal domestique.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Biologie",
+    "session": "TOSS Septembre 2019",
+    "pretext": null,
+    "questions": [
+      {
+        "text": "Un virus est…",
+        "answers": [
+          {
+            "text": "un champignon.",
+            "correct": false
+          },
+          {
+            "text": "une cellule procaryote.",
+            "correct": false
+          },
+          {
+            "text": "une cellule eucaryote.",
+            "correct": false
+          },
+          {
+            "text": "un parasite.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "La transcription chez les Eucaryotes fait intervenir…",
+        "answers": [
+          {
+            "text": "de l’ADN.",
+            "correct": true
+          },
+          {
+            "text": "de l’ADN polymérase.",
+            "correct": false
+          },
+          {
+            "text": "de l’ARNt.",
+            "correct": false
+          },
+          {
+            "text": "des ribosomes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les propositions suivantes sur l’organisation des êtres vivants pluricellulaires, quelle est la suite logique <b>erronée</b> ?<br/>Les êtres vivants pluricellulaires s’organisent en cellules formant…",
+        "answers": [
+          {
+            "text": "des organes constituant des systèmes.",
+            "correct": false
+          },
+          {
+            "text": "des tissus constituant des organes.",
+            "correct": false
+          },
+          {
+            "text": "des tissus constituant des systèmes",
+            "correct": false
+          },
+          {
+            "text": "des tissus constituant des organites.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Parmi les propositions sur les transports membranaires, laquelle est <b>erronée</b> ?",
+        "answers": [
+          {
+            "text": "L’eau est une molécule qui diffuse d’un milieu hypotonique vers un milieu hypertonique.",
+            "correct": false
+          },
+          {
+            "text": "La diffusion simple se fait selon un gradient de concentration.",
+            "correct": false
+          },
+          {
+            "text": "La diffusion facilitée nécessite l’intervention d’une protéine transporteuse.",
+            "correct": false
+          },
+          {
+            "text": "L’osmose concerne le transport de molécules d’oxygène.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Le graphique ci-dessous représente l’évolution au cours du temps (en heures) de la masse d’ADN d’une cellule eucaryote.<br/><img src=\"images/Toss/Q201909/Biologie/Capture5.PNG\" alt=\"Capture5\" width=\"300px\"/><br/>On peut en déduire que l’étape 5 illustrée, dans le cycle de vie de cette cellule, correspond à…",
+        "answers": [
+          {
+            "text": "une méiose 1.",
+            "correct": false
+          },
+          {
+            "text": "une méiose 2.",
+            "correct": true
+          },
+          {
+            "text": "la phase G2.",
+            "correct": false
+          },
+          {
+            "text": "la phase S.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La synthèse de protéines à partir d’ARNm fait intervenir…",
+        "answers": [
+          {
+            "text": "l’ARN polymérase.",
+            "correct": false
+          },
+          {
+            "text": "les centrosomes.",
+            "correct": false
+          },
+          {
+            "text": "les ribosomes.",
+            "correct": true
+          },
+          {
+            "text": "les vésicules de sécrétion.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Les premiers vertébrés à quitter l’eau pour coloniser le milieu terrestre ont été…",
+        "answers": [
+          {
+            "text": "les amphibiens.",
+            "correct": false
+          },
+          {
+            "text": "les insectes.",
+            "correct": false
+          },
+          {
+            "text": "les reptiles",
+            "correct": false
+          },
+          {
+            "text": "les poissons.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "La nageoire caudale des cétacés est horizontale et ondule verticalement, contrairement à celle des poissons qui est verticale et ondule horizontalement.<br/>Cela s’explique par…",
+        "answers": [
+          {
+            "text": "l’évolution divergente de deux sortes d’espèces à partir d’un ancêtre commun",
+            "correct": false
+          },
+          {
+            "text": "le simple fait du hasard, les cétacés auraient pu tout aussi bien acquérir une nageoire verticale",
+            "correct": false
+          },
+          {
+            "text": "des ancêtres terrestres aux muscles adaptés à une ondulation verticale de la colonne vertébrale.",
+            "correct": true
+          },
+          {
+            "text": "une plus grande facilité pour remonter en surface afin de respirer de l’air.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Repérer la proposition <b>fausse</b>.<br/>Sur le plan botanique...",
+        "answers": [
+          {
+            "text": "la grappe de raisin est un ensemble de fruits.",
+            "correct": false
+          },
+          {
+            "text": "la fève de haricot est une graine.",
+            "correct": false
+          },
+          {
+            "text": "la pomme de terre est une racine.",
+            "correct": true
+          },
+          {
+            "text": "la tomate est un fruit.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Les descendants actuels des dinosaures carnivores, tels que le tyrannosaure, sont…",
+        "answers": [
+          {
+            "text": "les oiseaux.",
+            "correct": true
+          },
+          {
+            "text": "les lézards.",
+            "correct": false
+          },
+          {
+            "text": "les mammifères carnivores",
+            "correct": false
+          },
+          {
+            "text": "les amphibiens urodèles (salamandres, tritons…).",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un globule rouge placé dans un liquide hypotonique…",
+        "answers": [
+          {
+            "text": "se contracte.",
+            "correct": false
+          },
+          {
+            "text": "gonfle et peut éclater.",
+            "correct": true
+          },
+          {
+            "text": "flotte à la surface.",
+            "correct": false
+          },
+          {
+            "text": "ralentit son rythme de prolifération.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le diagramme suivant présente un arbre généalogique humain.<br/><img src=\"images/Toss/Q201909/Biologie/Capture12.PNG\" alt=\"Capture12\" /><br/>Les carrés représentent les hommes, les cercles les femmes. Les symboles noirs indiquent les personnes présentant une pathologie héréditaire, les symboles blancs, celles qui ne présentent pas cette pathologie.<br/>Au vu de cet arbre généalogique, la pathologie considérée <b>ne peut pas être due</b> à un allèle de gène de type…",
+        "answers": [
+          {
+            "text": "autosomique récessif.",
+            "correct": false
+          },
+          {
+            "text": "autosomique dominant.",
+            "correct": false
+          },
+          {
+            "text": "hétérosomique récessif.",
+            "correct": false
+          },
+          {
+            "text": "hétérosomique dominant.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Si 35 % des bases d’un ADN double-brin donné sont de la thymine, alors cet ADN contient forcément…",
+        "answers": [
+          {
+            "text": "30 % d’adénine.",
+            "correct": false
+          },
+          {
+            "text": "30 % de cytosine",
+            "correct": false
+          },
+          {
+            "text": "15 % de guanine",
+            "correct": true
+          },
+          {
+            "text": "15 % d’adénine.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Si la séquence d’un brin d’une molécule d’ADN est 5’-AGGTTA-3’, celle du brin complémentaire sera…",
+        "answers": [
+          {
+            "text": "5’-AGGTTA-3’.",
+            "correct": false
+          },
+          {
+            "text": "5’-TCCAAT-3’.",
+            "correct": false
+          },
+          {
+            "text": "5’-ATTGGA-3’",
+            "correct": false
+          },
+          {
+            "text": "5’-TAACCT-3’",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Lorsque le mode de transmission d’un gène montre une hérédité liée au sexe…",
+        "answers": [
+          {
+            "text": "le gène est situé sur un chromosome sexuel.",
+            "correct": true
+          },
+          {
+            "text": "le gène est situé sur un autosome, mais n’est exprimé que chez les femelles.",
+            "correct": false
+          },
+          {
+            "text": "le gène est situé sur un autosome, mais n’est exprimé que chez les mâles.",
+            "correct": false
+          },
+          {
+            "text": "le gène est muté chez les mâles uniquement.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Lors de la traduction, l’information génétique est codée…",
+        "answers": [
+          {
+            "text": "nucléotide par nucléotide.",
+            "correct": false
+          },
+          {
+            "text": "par deux nucléotides.",
+            "correct": false
+          },
+          {
+            "text": "par trois nucléotides",
+            "correct": true
+          },
+          {
+            "text": "par quatre nucléotides.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La drosophile est une petite mouche très utilisée dans les expériences de génétique. La taille des ailes dépend des allèles d’un gène, l’allèle A dominant correspondant à des ailes normales, tandis que l’allèle a correspond à des ailes vestigiales. Un gène situé sur un autre chromosome détermine la longueur des antennes. L’allèle P dominant correspond à des antennes normales, tandis que l’allèle p récessif correspond à des antennes poilues. Aucun des deux gènes n’est lié au sexe. Un individu mâle de génotype AAPp est croisé avec un individu femelle de génotype AaPp.<br/>Quelle proportion de la descendance aura des ailes et des antennes normales ?",
+        "answers": [
+          {
+            "text": "0",
+            "correct": false
+          },
+          {
+            "text": "0,25",
+            "correct": false
+          },
+          {
+            "text": "0,50",
+            "correct": false
+          },
+          {
+            "text": "0,75",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Un couple a un enfant de groupe sanguin AB et un autre de groupe sanguin 0. La mère est du groupe A.<br/>Quel est le génotype du père pour ce caractère ?",
+        "answers": [
+          {
+            "text": "I<super>A</super>I<super>B</super>",
+            "correct": false
+          },
+          {
+            "text": "I<super>O</super>I<super>O</super>",
+            "correct": false
+          },
+          {
+            "text": "I<super>B</super>I<super>B</super>",
+            "correct": false
+          },
+          {
+            "text": "I<super>B</super>I<super>O</super>",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Dans cette famille, le grand-père maternel de Jacques est atteint d’une maladie récessive, liée au chromosome X, extrêmement rare.<br/><img src=\"images/Toss/Q201909/Biologie/Capture19.PNG\" alt=\"Capture19\" /><br/>Quelle est la probabilité que Jacques soit atteint ?",
+        "answers": [
+          {
+            "text": "25 %",
+            "correct": false
+          },
+          {
+            "text": "50 %",
+            "correct": true
+          },
+          {
+            "text": "75 %",
+            "correct": false
+          },
+          {
+            "text": "100 %",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Marc est de groupe sanguin B. Il épouse Annette qui a déjà donné son sang à un malade de groupe sanguin A. Marc et Annette ont un enfant.<br/>Parmi les propositions suivantes, laquelle est correcte ?",
+        "answers": [
+          {
+            "text": "Il pourrait être donneur universel.",
+            "correct": true
+          },
+          {
+            "text": "Il ne pourrait pas être receveur universel.",
+            "correct": false
+          },
+          {
+            "text": "Il est obligatoirement de groupe sanguin AB.",
+            "correct": false
+          },
+          {
+            "text": "Dans tous les cas, il pourra donner son sang à son père et à sa mère.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Des nodules contenant des bactéries appartenant au genre Rhizobium se développent dans le réseau racinaire d’une plante légumineuse. Les Rhizobium sont des bactéries qui fixent l’azote atmosphérique et le convertissent en une forme assimilable par la plante.<br/>Comment se nomme cette relation interspécifique ?",
+        "answers": [
+          {
+            "text": "Compétition par interférence.",
+            "correct": false
+          },
+          {
+            "text": "Co-évolution.",
+            "correct": false
+          },
+          {
+            "text": "Compétition d’exploitation.",
+            "correct": false
+          },
+          {
+            "text": "Symbiose.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Parmi les couples de réactions ci-dessous, lequel contient deux phénomènes contribuant à diminuer la concentration en CO2 dans l’atmosphère ?",
+        "answers": [
+          {
+            "text": "Fermentation – respiration.",
+            "correct": false
+          },
+          {
+            "text": "Fermentation – photosynthèse.",
+            "correct": false
+          },
+          {
+            "text": "Dissolution – photosynthèse",
+            "correct": true
+          },
+          {
+            "text": "Combustion – photosynthèse.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi ces substances, laquelle <b>ne contribue pas</b> à l’effet de serre ?",
+        "answers": [
+          {
+            "text": "Le diazote.",
+            "correct": true
+          },
+          {
+            "text": "Le chlorofluorocarbone.",
+            "correct": false
+          },
+          {
+            "text": "Le méthane.",
+            "correct": false
+          },
+          {
+            "text": "Le dioxyde de carbone.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le lierre est une plante grimpante qui s’accroche grâce à des crampons. Il s’agit d’une plante photosynthétique autotrophe, qui ne tire pas sa nourriture de l’arbre qui lui sert de support.<br/>Sur base de cette description, le lierre est appelé une plante…",
+        "answers": [
+          {
+            "text": "saprophyte.",
+            "correct": false
+          },
+          {
+            "text": "épiphyte.",
+            "correct": true
+          },
+          {
+            "text": "parasite.",
+            "correct": false
+          },
+          {
+            "text": "mutualiste.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "L’isotope 131 de l’iode (<super>131</super>I) est un des éléments radioactifs rejetés lors des accidents nucléaires. L’utilisation privilégiée de l’iode par une glande endocrine explique l’augmentation de cas de cancer suite aux accidents nucléaires.<br/>De quelle glande s’agit-il ?",
+        "answers": [
+          {
+            "text": "L’hypophyse.",
+            "correct": false
+          },
+          {
+            "text": "L’ovaire.",
+            "correct": false
+          },
+          {
+            "text": "La glande surrénale.",
+            "correct": false
+          },
+          {
+            "text": "La thyroïde.",
+            "correct": true
+          }
+        ]
+      }
+    ]
   }
 ]

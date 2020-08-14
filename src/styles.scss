@@ -37,3 +37,40 @@ html, body {
 .question-title > i {
   padding-right: 10px;
 }
+
+.frac {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  letter-spacing: 0.001em;
+  text-align: center;
+}
+
+.frac > span {
+  display: block;
+  padding: 0.1em;
+}
+
+.frac span.bottom {
+  border-top: thin solid black;
+}
+
+.frac span.symbol {
+  display: none;
+}
+
+var.vector {
+ font-style : normal;
+}
+
+var.vector span {
+  margin-left: -.55em;   /* shift the arrow back over the letter */
+  vertical-align : .2em; /* tune the arrow vertical position */
+  padding-right: 9px;
+}
+
+var.vector.single span {
+  margin-left: -0.3em;
+  vertical-align : .2em; /* tune the arrow vertical position */
+  padding-right: 9px;
+}

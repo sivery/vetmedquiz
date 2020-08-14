@@ -37,6 +37,7 @@ export class FormComponent implements OnInit {
   public selectedTopics: string[];
 
   public sessions: SelectItem[] = [
+    {label: Constants.TOSSSSEP2019, value: Constants.TOSSSSEP2019},
     {label: Constants.GFORM2018, value: Constants.GFORM2018},
     {label: Constants.GFORM2017, value: Constants.GFORM2017},
     {label: 'Septembre 2017 (' +  Constants.SEP2017 + ')' , value: Constants.SEP2017},

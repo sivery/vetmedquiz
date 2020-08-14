@@ -13,7 +13,7 @@
       </div>
     </p-header>
     <div [innerHTML]="questionForm.question.text"></div>
-    <div class="ui-fluid p-formgrid p-grid">
+    <div class="ui-fluid p-formgrid p-grid answers">
       <div *ngFor="let answer of questionForm.question.answers; let i = index" class="p-field p-col-12 answer">
         <p-radioButton *ngIf="!questionForm.validated" [value]="i" [(ngModel)]="questionForm.selectedAnswer" (onClick)="saveQuestionForms()"></p-radioButton>
         <i *ngIf="questionForm.validated && answer.correct" class="pi pi-check" style="font-size: 1.2em"></i>

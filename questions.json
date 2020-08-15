@@ -26021,6 +26021,7 @@
   {
     "topic": "Français",
     "session": "201709",
+    "pretext": "Veuillez lire attentivement le texte intitulé <a href=\"/images/Toss/Q201709/Français/20170906_PM_texte_francais.pdf\" target=\"_blank\">\"Révélations sur l'homme : Comment la course de fond a fait de nous une espèce à part\" de L. Barnéoud et C. Tourbe</a>&nbsp;et répondez aux questions suivantes.",
     "questions": [
       {
         "text": "<span style=\"font-size: 12pt;\">Le genre Homo</span>",
@@ -29562,7 +29563,6 @@
   {
     "topic": "Biologie",
     "session": "Google Form 2017",
-    "pretext": null,
     "questions": [
       {
         "text": "<img src=\"images/googleForms/2017/biologie08.PNG\" />",
@@ -30290,7 +30290,6 @@
   {
     "topic": "Mathématiques",
     "session": "Google Form 2017",
-    "pretext": null,
     "questions": [
       {
         "text": "<img src=\"images/googleForms/2017/maths06.PNG\" />",
@@ -30570,7 +30569,6 @@
   {
     "topic": "Physique",
     "session": "Google Form 2017",
-    "pretext": null,
     "questions": [
       {
         "text": "<img src=\"images/googleForms/2017/physique13.PNG\" />",
@@ -30850,7 +30848,6 @@
   {
     "topic": "Biologie",
     "session": "Google Form 2018",
-    "pretext": null,
     "questions": [
       {
         "text": "<img src=\"images/googleForms/2018/biologie1_04.PNG\" />",
@@ -31424,7 +31421,6 @@
   {
     "topic": "Chimie",
     "session": "Google Form 2018",
-    "pretext": null,
     "questions": [
       {
         "text": "<img src=\"images/googleForms/2018/chimie2_06.PNG\" />",
@@ -32061,7 +32057,6 @@
   {
     "topic": "Mathématiques",
     "session": "Google Form 2018",
-    "pretext": null,
     "questions": [
       {
         "text": "<img src=\"images/googleForms/2018/maths1_01.PNG\" />",
@@ -32698,7 +32693,6 @@
   {
     "topic": "Physique",
     "session": "Google Form 2018",
-    "pretext": null,
     "questions": [
       {
         "text": "<img src=\"images/googleForms/2018/physique2_02.PNG\" />",
@@ -33314,7 +33308,6 @@
   {
     "topic": "Communication",
     "session": "Google Form 2018",
-    "pretext": null,
     "questions": [
       {
         "text": "Vous faites un stage au service des urgences. Il y a beaucoup de monde et les gens s’impatientent. Un patient qui a un bras en écharpe tente de remonter la file et exige qu’un médecin le voit immédiatement.Que faites-vous pour gérer au mieux la situation ?",
@@ -33412,7 +33405,6 @@
   {
     "topic": "Éthique",
     "session": "Google Form 2018",
-    "pretext": null,
     "questions": [
       {
         "text": "Une jeune fille de 17 ans, enceinte, se présente dans un centre de planning familial pour se faire avorter. Elle ne souhaite pas que ses parents soient mis au courant. Quelle doit être l’attitude du médecin et de l’équipe qui l’accueillent ?",
@@ -33461,7 +33453,6 @@
   {
     "topic": "Raisonnement",
     "session": "Google Form 2018",
-    "pretext": null,
     "questions": [
       {
         "text": "<img src=\"images/googleForms/2018/raisonnement1_06_graphiques.PNG\" /><br/>Parmi les propositions suivantes, laquelle résume le plus précisément et fidèlement l’ensemble des graphiques ?",
@@ -33501,6 +33492,2733 @@
           },
           {
             "text": "Les homosexuels portent moins facilement plainte que les hétérosexuels pour des raisons essentiellement culturelles.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Mathématiques",
+    "session": "TOSS Septembre 2019",
+    "questions": [
+      {
+        "text": "Sachant que (2<sup>x</sup>)<sup>y</sup> = 64 et que 2<sup>y</sup> = 4, que vaut <i>x</i> ?",
+        "answers": [
+          {
+            "text": "√6",
+            "correct": false
+          },
+          {
+            "text": "3",
+            "correct": true
+          },
+          {
+            "text": "4",
+            "correct": false
+          },
+          {
+            "text": "12",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "J'ai 3 chiens et 2 lapins. Le coût total mensuel pour les nourrir est de 240 €. Le budget nourriture mensuel total pour les 3 chiens est le double du budget pour les 2 lapins. Déterminer le budget mensuel total pour les 2 lapins.",
+        "answers": [
+          {
+            "text": "40 €",
+            "correct": false
+          },
+          {
+            "text": "80 €",
+            "correct": true
+          },
+          {
+            "text": "90 €",
+            "correct": false
+          },
+          {
+            "text": "120 €",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans une école, on a relevé la taille en cm de 200 élèves agés de 16 ans. Les classes suivantes ont été utilisées pour ranger les résultats obtenus : [150, 160[, [160, 170[, [170, 180[, [180, 190[ et [190, 200[. Le diagramme des fréquences cumulées présente les résultats obtenus. <br/><img src=\"images/Toss/Q201909/Maths/Capture3.PNG\" alt=\"Capture3\" width=\"400px\"/><br/>Dans cette école, combien d'élèves ont une taille dont la valeur est située dans l'intervalle [170, 180[ ?\n",
+        "answers": [
+          {
+            "text": "29",
+            "correct": false
+          },
+          {
+            "text": "58",
+            "correct": true
+          },
+          {
+            "text": "86",
+            "correct": false
+          },
+          {
+            "text": "114",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Après avoir corrigé les copies d'un examen noté sur 20 points, un professeur désire remonter les résultats de tous ses éleves en ajoutant 5 points à toutes les copies. Parmi les affirmations suivantes, une seule est correcte, laquelle ?",
+        "answers": [
+          {
+            "text": "L'écart-type des résultats ne change pas.",
+            "correct": true
+          },
+          {
+            "text": "L'écart-tvpe des résultats augmente de <div class=\"frac\">\n<span>5</span>\n<span class=\"symbol\">/</span>\n<span class=\"bottom\">20</span>\n    \n</div> = 0,25 points.",
+            "correct": false
+          },
+          {
+            "text": "L'écart-tvpe des résultats augmente de √5 ≈ 2,24 points.",
+            "correct": false
+          },
+          {
+            "text": "L'écart-tvpe des résultats augmente de 5 points.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Pour assumer ses dépenses, Julien dispose sur l'année d'un budget de 2000 €. Ses dépenses se répartissent en cinq postes comme le montre le diagramme en secteurs circulaires suivant : <br/><img src=\"images/Toss/Q201909/Maths/Capture5.PNG\" alt=\"Capture5\" width=\"300px\"/><br/>Pour pour aller plus souvent au cinéma, Julien décide de diviser par deux le budget alloué au sport. Déterminer la somme annuelle qu'il va désormais consacrer au cinéma.",
+        "answers": [
+          {
+            "text": "150 €",
+            "correct": false
+          },
+          {
+            "text": "250 €",
+            "correct": false
+          },
+          {
+            "text": "300 €",
+            "correct": false
+          },
+          {
+            "text": "500 €",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Combien mesure le côté [A, C] du triangle ABC si les côtés [A, B] et [B, C] mesurent tous deux 10 cm et si l'angle ABC mesure 120° ?<br/><img src=\"images/Toss/Q201909/Maths/Capture6.PNG\" alt=\"Capture6\" />",
+        "answers": [
+          {
+            "text": "15 cm",
+            "correct": false
+          },
+          {
+            "text": "17 cm",
+            "correct": false
+          },
+          {
+            "text": "10√2 cm",
+            "correct": false
+          },
+          {
+            "text": "10√3 cm",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Soit <i>x</i> un nombre réel tel que 0 ≤ <i>x</i> ≤ <div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div> et cos(2<i>x</i>) = 1/2. Que vaut <i>x</i> ?",
+        "answers": [
+          {
+            "text": "<div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">6</span></div>",
+            "correct": true
+          },
+          {
+            "text": "<div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">4</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">3</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelle est l'égalité correcte pour toutes les valeurs de α et β ?",
+        "answers": [
+          {
+            "text": "sin(α + β) = sin(α)cos(β) + cos(α)sin(β)",
+            "correct": true
+          },
+          {
+            "text": "sin(α + β) = sin(α)cos(β) - cos(α)sin(β)",
+            "correct": false
+          },
+          {
+            "text": "sin(α + β) = sin(α)sin(β) + cos(α)cos(β)",
+            "correct": false
+          },
+          {
+            "text": "sin(α + β) = cos(α)cos(β) - sin(α)sin(β)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soit le triangle ABC dont les sommets ont pour coordonnées dans un repère cartésien orthonormé : A : (18; 10), B : (7; 4), C : (3; 2). Parmi les propositions suivantes, laquelle est une équation cartésienne de la hauteur issue de A dans ce triangle ?",
+        "answers": [
+          {
+            "text": "-<i>x</i> + 2<i>y</i> - 2 = 0",
+            "correct": false
+          },
+          {
+            "text": "2<i>x</i> - <i>y</i> - 26 = 0",
+            "correct": false
+          },
+          {
+            "text": "2<i>x</i> + <i>y</i> - 46 = 0",
+            "correct": true
+          },
+          {
+            "text": "<i>x</i> + 2<i>y</i> - 28 = 0",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soit <i>k</i> un paramètre réel. Dans le plan muni d'un repère orthonormé, on se donne la droite <i>d</i> ≡ <i>y</i> = -2<i>kx</i> + 4<i>k</i> et la droite <i>d'</i> qui passe par les points A : (5;7) et B : (3; <i>k</i>). Pour quelle valeur de <i>k</i> les droites <i>d</i> et <i>d'</i> sont-elles parallèles ?",
+        "answers": [
+          {
+            "text": "<i>k</i> = - <div class=\"frac\"><span>7</span><span class=\"symbol\">/</span><span class=\"bottom\">3</span></div>",
+            "correct": true
+          },
+          {
+            "text": "<i>k</i> = <div class=\"frac\"><span>3</span><span class=\"symbol\">/</span><span class=\"bottom\">7</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<i>k</i> = <div class=\"frac\"><span>7</span><span class=\"symbol\">/</span><span class=\"bottom\">3</span></div>",
+            "correct": false
+          },
+          {
+            "text": "une autre valeur de <i>k</i>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans un système d'axes orthonormé du plan, on considère la droite <i>AB</i> où <i>A</i> a pour coordonnées (2; —1) et <i>B</i> a pour coordonnées (3; 3). Déterminer l'unique proposition correcte parmi les suivantes.",
+        "answers": [
+          {
+            "text": "<i>AB</i> est parallèle à la droite d<sub>1</sub> ayant pour équation 2<i>x</i> - <i>y</i> = 3",
+            "correct": false
+          },
+          {
+            "text": "<i>AB</i> est perpendiculaire à la droite d<sub>2</sub> ayant pour équation <i>x</i> + 4<i>y</i> = 7",
+            "correct": true
+          },
+          {
+            "text": "<i>AB</i> contient le point <i>C</i> ayant pour coordonnées (8; 22)",
+            "correct": false
+          },
+          {
+            "text": "<i>AB</i> coupe l'axe des coordonnées au point d'ordonnée -8",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soient les points A, B , C définis par leurs coordonnées dans un repère cartésien du plan : A : (0; 2), B : (4; 4), C : (5; 3). Le point <i>X</i> est tel que 4<var class=\"vector\"><i>AX</i><span>&#8407;</span></var> + 3<var class=\"vector\"><i>BX</i><span>&#8407;</span></var> - 6<var class=\"vector\"><i>CX</i><span>&#8407;</span></var> = <var class=\"vector single\">0<span>&#8407;</span></var>. Quelle est la somme des coordonnées de <i>X</i> dans ce repère ?",
+        "answers": [
+          {
+            "text": "-16",
+            "correct": true
+          },
+          {
+            "text": "-15",
+            "correct": false
+          },
+          {
+            "text": "80",
+            "correct": false
+          },
+          {
+            "text": "une autre réponse",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelle est la limite en +∞ de la fonction <i>f(x)</i> = <div class=\"frac\"><span><i>x</i></span><span class=\"symbol\">/</span><span class=\"bottom\">2<i>x</i>+<i>e</i><sup>     -<i>x</i></span></div>",
+        "answers": [
+          {
+            "text": "0",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\">1<span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": true
+          },
+          {
+            "text": "+∞",
+            "correct": false
+          },
+          {
+            "text": "Cette limite n'existe pas",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La figure suivante donne une partie de la représentation graphique de la dérivée <i>f'</i> d'une fonction <i>f</i>, définie sur ℝ. Que peut-on nécessairement déduire sur <i>f</i> ?<br/><img src=\"images/Toss/Q201909/Maths/Capture14.PNG\" alt=\"Capture14\" />",
+        "answers": [
+          {
+            "text": "La fonction <i>f</i> est croissante sur ]0, 2[.",
+            "correct": false
+          },
+          {
+            "text": "La fonction <i>f</i> admet un minimum local en x = 1.",
+            "correct": true
+          },
+          {
+            "text": "La fonction <i>f</i> admet un maximum local en x = 2.",
+            "correct": false
+          },
+          {
+            "text": "La fonction <i>f</i> est décroissante sur ]2, 3[.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soient les fonctions <i>f(x)</i> = <i>x</i> ² - 2|<i>x</i>| et <i>g(x)</i> = <i>x</i> ² + 1. Calculez <i>f(g</i>(-2)).",
+        "answers": [
+          {
+            "text": "1",
+            "correct": false
+          },
+          {
+            "text": "3",
+            "correct": false
+          },
+          {
+            "text": "15",
+            "correct": true
+          },
+          {
+            "text": "65",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Deux nombres naturels consécutifs on un produit qui excède leur somme de 55 unités. Quelle est la somme de leurs carrés ?",
+        "answers": [
+          {
+            "text": "34",
+            "correct": false
+          },
+          {
+            "text": "85",
+            "correct": false
+          },
+          {
+            "text": "113",
+            "correct": false
+          },
+          {
+            "text": "145",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une équation du second degré <i>ax</i> ² + <i>bx</i> + <i>c</i> = 0 (a ≠ 0) admet pour solutions -2 et 4. Que vaut le nombre <div class=\"frac\"><i>b</i> + <i>c</i><span class=\"symbol\">/</span><span class=\"bottom\"><i>a</i></span></div> ?",
+        "answers": [
+          {
+            "text": "-12",
+            "correct": false
+          },
+          {
+            "text": "-10",
+            "correct": true
+          },
+          {
+            "text": "-6",
+            "correct": false
+          },
+          {
+            "text": "L'énoncé ne permet pas de le déterminer.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La moyenne arithmétique des nombres 20, 40 et 60 est 5 fois plus élevée que la moyenne arithmétique de 4, 10 et <i>x</i>. Quelle est la valeur de <i>x</i>",
+        "answers": [
+          {
+            "text": "10",
+            "correct": true
+          },
+          {
+            "text": "20",
+            "correct": false
+          },
+          {
+            "text": "30",
+            "correct": false
+          },
+          {
+            "text": "40",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les expressions suivantes, quelle est celle qui est égale à cos(- <div class=\"frac\">11π<span class=\"symbol\">/</span><span class=\"bottom\">2</span></div> - <i>x</i>), quel que soit le nombre réel?",
+        "answers": [
+          {
+            "text": "cos(<i>x</i>)",
+            "correct": false
+          },
+          {
+            "text": "-cos(<i>x</i>)",
+            "correct": false
+          },
+          {
+            "text": "sin(<i>x</i>)",
+            "correct": true
+          },
+          {
+            "text": "-sin(<i>x</i>)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Que vaut l'intégrale &int;<sub>2</sub><sup>7</sup> <div class=\"frac\">1<span class=\"symbol\">/</span><span class=\"bottom\"><i>x</i></span></div> <i>dx</i> ?",
+        "answers": [
+          {
+            "text": "ln(<div class=\"frac\">7<span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>)",
+            "correct": true
+          },
+          {
+            "text": "ln(5)",
+            "correct": false
+          },
+          {
+            "text": "ln(14)",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\">ln(7)<span class=\"symbol\">/</span><span class=\"bottom\">ln(2)</span></div>",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Anglais",
+    "session": "TOSS Septembre 2019",
+    "pretext": "Veuillez lire attentivement le texte intitulé <a href=\"images/Toss/Q201909/Anglais/TOSS_2019_septembre_AM_texte_anglais.pdf\" target=\"_blank\">The benefits of pets for human health</a> et répondez aux questions suivantes.",
+    "questions": [
+      {
+        "text": "Dans le paragraphe 1, « occupational therapy » pourrait se traduire par...",
+        "answers": [
+          {
+            "text": "l'ergothérapie.",
+            "correct": true
+          },
+          {
+            "text": "la kinésithérapie.",
+            "correct": false
+          },
+          {
+            "text": "la mésothérapie.",
+            "correct": false
+          },
+          {
+            "text": "la psychothérapie.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le paragraphe 2 explique notamment qu’entre le fait d’avoir un animal de compagnie et le fait de souffrir de problèmes de santé comme des allergies et de l’asthme…",
+        "answers": [
+          {
+            "text": "il pourrait y avoir une forte corrélation.",
+            "correct": true
+          },
+          {
+            "text": "il pourrait y avoir une légère corrélation",
+            "correct": false
+          },
+          {
+            "text": "il y a une forte corrélation. ",
+            "correct": false
+          },
+          {
+            "text": "il y a une légère corrélation.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon le paragraphe 2, aux Etats-Unis, il y a plus de 71 millions…",
+        "answers": [
+          {
+            "text": "d’animaux domestiques.",
+            "correct": false
+          },
+          {
+            "text": "de foyers qui possèdent un animal domestique qu’ils considèrent comme un membre de la famille.",
+            "correct": false
+          },
+          {
+            "text": "de foyers possédant un animal domestique.",
+            "correct": true
+          },
+          {
+            "text": "de personnes qui considèrent les animaux domestiques comme un membre de la famille.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon les informations contenues dans le paragraphe 2, les propriétaires d’animaux domestiques…",
+        "answers": [
+          {
+            "text": "consultent moins souvent un médecin.",
+            "correct": true
+          },
+          {
+            "text": "ont des arrêts maladies plus courts.",
+            "correct": false
+          },
+          {
+            "text": "sont moins souvent victimes de crises cardiaques.",
+            "correct": false
+          },
+          {
+            "text": "tombent moins souvent gravement malades.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Au paragraphe 3, « Findings » pourrait être traduit par…",
+        "answers": [
+          {
+            "text": "chercheurs.",
+            "correct": false
+          },
+          {
+            "text": "conclusions.",
+            "correct": true
+          },
+          {
+            "text": "facteurs.",
+            "correct": false
+          },
+          {
+            "text": "recommandations.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans le paragraphe 3, il est expliqué que les animaux de compagnie peuvent aider le propriétaire à se sentir plus détendu…",
+        "answers": [
+          {
+            "text": "au même titre que les amis et la famille.",
+            "correct": true
+          },
+          {
+            "text": "et remplacer les relations interpersonnelles.",
+            "correct": false
+          },
+          {
+            "text": "mais peuvent aussi être source de stress.",
+            "correct": false
+          },
+          {
+            "text": "seulement s’ils encouragent les interactions sociales.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La comparaison faite au paragraphe 3 entre l’impact sur la santé des relations humaines et de la relation entre un maître et son animal de compagnie est…",
+        "answers": [
+          {
+            "text": "en faveur de la relation maître-animal.",
+            "correct": true
+          },
+          {
+            "text": "en faveur des relations humaines",
+            "correct": false
+          },
+          {
+            "text": "neutre ; les deux relations ont le même effet positif.",
+            "correct": false
+          },
+          {
+            "text": "sans objet ; l’effet sur la santé varie au cas par cas.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le verbe « enhance » au paragraphe 4 peut se traduire par…",
+        "answers": [
+          {
+            "text": "ajouter.",
+            "correct": false
+          },
+          {
+            "text": "améliorer.",
+            "correct": true
+          },
+          {
+            "text": "empirer.",
+            "correct": false
+          },
+          {
+            "text": "modifier.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le verbe « stoop » au paragraphe 4 indique qu’un propriétaire de chien ou chat pourrait, entre autres, mieux…",
+        "answers": [
+          {
+            "text": "guérir.",
+            "correct": false
+          },
+          {
+            "text": "réfléchir.",
+            "correct": false
+          },
+          {
+            "text": "s’alimenter.",
+            "correct": false
+          },
+          {
+            "text": "se pencher.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "D’après le paragraphe 4, quel facteur peut améliorer la capacité de propriétaires d’animaux domestiques à effectuer certaines activités quotidiennes ?",
+        "answers": [
+          {
+            "text": "Le fait d’avoir un chien plutôt qu’un chat.",
+            "correct": false
+          },
+          {
+            "text": "Le laps de temps depuis lequel on a un chien / chat.",
+            "correct": false
+          },
+          {
+            "text": "Le niveau d’attachement qu’on a par rapport à notre chien / chat.",
+            "correct": false
+          },
+          {
+            "text": "Aucun.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Concernant les allergies et l’asthme, le paragraphe 5 nous indique que la recherche est…",
+        "answers": [
+          {
+            "text": "déconcertante.",
+            "correct": false
+          },
+          {
+            "text": "complémentaire.",
+            "correct": false
+          },
+          {
+            "text": "variée.",
+            "correct": false
+          },
+          {
+            "text": "mitigée.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Le paragraphe 5 illustre la relation possible entre les allergies et la possession d’animaux de compagnie par différents exemples.<br/>Dans ces exemples, quels animaux sont les plus susceptibles de causer des allergies ? ",
+        "answers": [
+          {
+            "text": "Les chats.",
+            "correct": false
+          },
+          {
+            "text": "Les chiens.",
+            "correct": false
+          },
+          {
+            "text": "Les oiseaux.",
+            "correct": true
+          },
+          {
+            "text": "Les souris.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon le paragraphe 5, l’influence des animaux domestiques sur les allergies dépend, entre autres…",
+        "answers": [
+          {
+            "text": "de ces trois facteurs.",
+            "correct": false
+          },
+          {
+            "text": "de notre âge.",
+            "correct": false
+          },
+          {
+            "text": "des maladies respiratoires développées dans la première année de la vie.",
+            "correct": false
+          },
+          {
+            "text": "du type d’animal que l’on possède.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Le sens de « Likewise » au paragraphe 5 est le plus proche de…",
+        "answers": [
+          {
+            "text": "apparemment.",
+            "correct": false
+          },
+          {
+            "text": "de même.",
+            "correct": true
+          },
+          {
+            "text": "par comparaison.",
+            "correct": false
+          },
+          {
+            "text": "sans doute.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le paragraphe 6 nous informe qu’ (que)...",
+        "answers": [
+          {
+            "text": "à la différence des relations humaines, certaines relations homme-animal sont gratifiantes.",
+            "correct": false
+          },
+          {
+            "text": "à la différence des relations humaines, certaines relations homme-animal sont contraignantes.",
+            "correct": false
+          },
+          {
+            "text": "tout comme pour n’importe quelle relation, certaines relations entre l’homme et l’animal peuvent être plus gratifiantes que d’autres.",
+            "correct": true
+          },
+          {
+            "text": "tout comme pour n’importe quelle relation, certaines relations entre l’homme et l’animal peuvent être plus contraignantes que d’autres.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "D’après l’étude citée dans le paragraphe 6, qui est moins susceptible de souffrir de dépression ?",
+        "answers": [
+          {
+            "text": "Les femmes célibataires qui possèdent un chien.",
+            "correct": true
+          },
+          {
+            "text": "Les femmes mariées qui possèdent un chien.",
+            "correct": false
+          },
+          {
+            "text": "Les hommes célibataires qui possèdent un chien. ",
+            "correct": false
+          },
+          {
+            "text": "Les hommes mariés qui possèdent un chien.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans la dernière phrase du paragraphe 6, « while » peut être traduit par…",
+        "answers": [
+          {
+            "text": "à condition que.",
+            "correct": false
+          },
+          {
+            "text": "aussi longtemps que.",
+            "correct": false
+          },
+          {
+            "text": "bien que.",
+            "correct": true
+          },
+          {
+            "text": "pendant que.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Laquelle de ces informations n’est pas fournie dans l’article ?<br/>Certaines études ont montré que…",
+        "answers": [
+          {
+            "text": "la présence d’un animal peut diminuer le stress de son propriétaire. ",
+            "correct": false
+          },
+          {
+            "text": "les animaux domestiques peuvent aider à réduire le sentiment d’isolement de certaines personnes. ",
+            "correct": false
+          },
+          {
+            "text": "les chats augmentent la sensibilité aux allergènes de leur propriétaire. ",
+            "correct": false
+          },
+          {
+            "text": "les chiens causent plus d’allergies que les chats.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Après avoir lu l’article, quelle est la réponse qu’il apporte à la question posée à la fin du\npremier paragraphe : « Is that companionship beneficial to our health ? »",
+        "answers": [
+          {
+            "text": "Certains animaux de compagnie ont un effet bénéfique sur notre santé.",
+            "correct": false
+          },
+          {
+            "text": "Les animaux de compagnie ont certains effets bénéfiques sur notre santé, mais ils ont aussi des effets négatifs. ",
+            "correct": false
+          },
+          {
+            "text": "Les animaux de compagnie peuvent avoir un effet bénéfique variable sur notre santé.",
+            "correct": true
+          },
+          {
+            "text": "Les animaux de compagnie pourraient avoir un effet bénéfique sur la santé de certaines personnes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quel message l’auteur de l’article essaie-t-il de faire passer ?",
+        "answers": [
+          {
+            "text": "Les animaux domestiques peuvent avoir de nombreux impacts positifs sur la santé et le bien-être de leurs propriétaires.",
+            "correct": true
+          },
+          {
+            "text": "Les bienfaits des animaux domestiques sur la santé et sur le quotidien de leurs propriétaires pourraient être complémentaires.",
+            "correct": false
+          },
+          {
+            "text": "Les malades et les personnes âgées devraient être obligés de posséder un animal domestique.",
+            "correct": false
+          },
+          {
+            "text": "Tous les propriétaires d’animaux de compagnie sont en meilleure santé que les personnes ne possédant aucun animal domestique.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Biologie",
+    "session": "TOSS Septembre 2019",
+    "questions": [
+      {
+        "text": "Un virus est…",
+        "answers": [
+          {
+            "text": "un champignon.",
+            "correct": false
+          },
+          {
+            "text": "une cellule procaryote.",
+            "correct": false
+          },
+          {
+            "text": "une cellule eucaryote.",
+            "correct": false
+          },
+          {
+            "text": "un parasite.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "La transcription chez les Eucaryotes fait intervenir…",
+        "answers": [
+          {
+            "text": "de l’ADN.",
+            "correct": true
+          },
+          {
+            "text": "de l’ADN polymérase.",
+            "correct": false
+          },
+          {
+            "text": "de l’ARNt.",
+            "correct": false
+          },
+          {
+            "text": "des ribosomes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les propositions suivantes sur l’organisation des êtres vivants pluricellulaires, quelle est la suite logique <b>erronée</b> ?<br/>Les êtres vivants pluricellulaires s’organisent en cellules formant…",
+        "answers": [
+          {
+            "text": "des organes constituant des systèmes.",
+            "correct": false
+          },
+          {
+            "text": "des tissus constituant des organes.",
+            "correct": false
+          },
+          {
+            "text": "des tissus constituant des systèmes",
+            "correct": false
+          },
+          {
+            "text": "des tissus constituant des organites.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Parmi les propositions sur les transports membranaires, laquelle est <b>erronée</b> ?",
+        "answers": [
+          {
+            "text": "L’eau est une molécule qui diffuse d’un milieu hypotonique vers un milieu hypertonique.",
+            "correct": false
+          },
+          {
+            "text": "La diffusion simple se fait selon un gradient de concentration.",
+            "correct": false
+          },
+          {
+            "text": "La diffusion facilitée nécessite l’intervention d’une protéine transporteuse.",
+            "correct": false
+          },
+          {
+            "text": "L’osmose concerne le transport de molécules d’oxygène.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Le graphique ci-dessous représente l’évolution au cours du temps (en heures) de la masse d’ADN d’une cellule eucaryote.<br/><img src=\"images/Toss/Q201909/Biologie/Capture5.PNG\" alt=\"Capture5\" width=\"300px\"/><br/>On peut en déduire que l’étape 5 illustrée, dans le cycle de vie de cette cellule, correspond à…",
+        "answers": [
+          {
+            "text": "une méiose 1.",
+            "correct": false
+          },
+          {
+            "text": "une méiose 2.",
+            "correct": true
+          },
+          {
+            "text": "la phase G2.",
+            "correct": false
+          },
+          {
+            "text": "la phase S.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La synthèse de protéines à partir d’ARNm fait intervenir…",
+        "answers": [
+          {
+            "text": "l’ARN polymérase.",
+            "correct": false
+          },
+          {
+            "text": "les centrosomes.",
+            "correct": false
+          },
+          {
+            "text": "les ribosomes.",
+            "correct": true
+          },
+          {
+            "text": "les vésicules de sécrétion.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Les premiers vertébrés à quitter l’eau pour coloniser le milieu terrestre ont été…",
+        "answers": [
+          {
+            "text": "les amphibiens.",
+            "correct": false
+          },
+          {
+            "text": "les insectes.",
+            "correct": false
+          },
+          {
+            "text": "les reptiles",
+            "correct": false
+          },
+          {
+            "text": "les poissons.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "La nageoire caudale des cétacés est horizontale et ondule verticalement, contrairement à celle des poissons qui est verticale et ondule horizontalement.<br/>Cela s’explique par…",
+        "answers": [
+          {
+            "text": "l’évolution divergente de deux sortes d’espèces à partir d’un ancêtre commun",
+            "correct": false
+          },
+          {
+            "text": "le simple fait du hasard, les cétacés auraient pu tout aussi bien acquérir une nageoire verticale",
+            "correct": false
+          },
+          {
+            "text": "des ancêtres terrestres aux muscles adaptés à une ondulation verticale de la colonne vertébrale.",
+            "correct": true
+          },
+          {
+            "text": "une plus grande facilité pour remonter en surface afin de respirer de l’air.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Repérer la proposition <b>fausse</b>.<br/>Sur le plan botanique...",
+        "answers": [
+          {
+            "text": "la grappe de raisin est un ensemble de fruits.",
+            "correct": false
+          },
+          {
+            "text": "la fève de haricot est une graine.",
+            "correct": false
+          },
+          {
+            "text": "la pomme de terre est une racine.",
+            "correct": true
+          },
+          {
+            "text": "la tomate est un fruit.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Les descendants actuels des dinosaures carnivores, tels que le tyrannosaure, sont…",
+        "answers": [
+          {
+            "text": "les oiseaux.",
+            "correct": true
+          },
+          {
+            "text": "les lézards.",
+            "correct": false
+          },
+          {
+            "text": "les mammifères carnivores",
+            "correct": false
+          },
+          {
+            "text": "les amphibiens urodèles (salamandres, tritons…).",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un globule rouge placé dans un liquide hypotonique…",
+        "answers": [
+          {
+            "text": "se contracte.",
+            "correct": false
+          },
+          {
+            "text": "gonfle et peut éclater.",
+            "correct": true
+          },
+          {
+            "text": "flotte à la surface.",
+            "correct": false
+          },
+          {
+            "text": "ralentit son rythme de prolifération.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le diagramme suivant présente un arbre généalogique humain.<br/><img src=\"images/Toss/Q201909/Biologie/Capture12.PNG\" alt=\"Capture12\" /><br/>Les carrés représentent les hommes, les cercles les femmes. Les symboles noirs indiquent les personnes présentant une pathologie héréditaire, les symboles blancs, celles qui ne présentent pas cette pathologie.<br/>Au vu de cet arbre généalogique, la pathologie considérée <b>ne peut pas être due</b> à un allèle de gène de type…",
+        "answers": [
+          {
+            "text": "autosomique récessif.",
+            "correct": false
+          },
+          {
+            "text": "autosomique dominant.",
+            "correct": false
+          },
+          {
+            "text": "hétérosomique récessif.",
+            "correct": false
+          },
+          {
+            "text": "hétérosomique dominant.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Si 35 % des bases d’un ADN double-brin donné sont de la thymine, alors cet ADN contient forcément…",
+        "answers": [
+          {
+            "text": "30 % d’adénine.",
+            "correct": false
+          },
+          {
+            "text": "30 % de cytosine",
+            "correct": false
+          },
+          {
+            "text": "15 % de guanine",
+            "correct": true
+          },
+          {
+            "text": "15 % d’adénine.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Si la séquence d’un brin d’une molécule d’ADN est 5’-AGGTTA-3’, celle du brin complémentaire sera…",
+        "answers": [
+          {
+            "text": "5’-AGGTTA-3’.",
+            "correct": false
+          },
+          {
+            "text": "5’-TCCAAT-3’.",
+            "correct": false
+          },
+          {
+            "text": "5’-ATTGGA-3’",
+            "correct": false
+          },
+          {
+            "text": "5’-TAACCT-3’",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Lorsque le mode de transmission d’un gène montre une hérédité liée au sexe…",
+        "answers": [
+          {
+            "text": "le gène est situé sur un chromosome sexuel.",
+            "correct": true
+          },
+          {
+            "text": "le gène est situé sur un autosome, mais n’est exprimé que chez les femelles.",
+            "correct": false
+          },
+          {
+            "text": "le gène est situé sur un autosome, mais n’est exprimé que chez les mâles.",
+            "correct": false
+          },
+          {
+            "text": "le gène est muté chez les mâles uniquement.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Lors de la traduction, l’information génétique est codée…",
+        "answers": [
+          {
+            "text": "nucléotide par nucléotide.",
+            "correct": false
+          },
+          {
+            "text": "par deux nucléotides.",
+            "correct": false
+          },
+          {
+            "text": "par trois nucléotides",
+            "correct": true
+          },
+          {
+            "text": "par quatre nucléotides.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La drosophile est une petite mouche très utilisée dans les expériences de génétique. La taille des ailes dépend des allèles d’un gène, l’allèle A dominant correspondant à des ailes normales, tandis que l’allèle a correspond à des ailes vestigiales. Un gène situé sur un autre chromosome détermine la longueur des antennes. L’allèle P dominant correspond à des antennes normales, tandis que l’allèle p récessif correspond à des antennes poilues. Aucun des deux gènes n’est lié au sexe. Un individu mâle de génotype AAPp est croisé avec un individu femelle de génotype AaPp.<br/>Quelle proportion de la descendance aura des ailes et des antennes normales ?",
+        "answers": [
+          {
+            "text": "0",
+            "correct": false
+          },
+          {
+            "text": "0,25",
+            "correct": false
+          },
+          {
+            "text": "0,50",
+            "correct": false
+          },
+          {
+            "text": "0,75",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Un couple a un enfant de groupe sanguin AB et un autre de groupe sanguin 0. La mère est du groupe A.<br/>Quel est le génotype du père pour ce caractère ?",
+        "answers": [
+          {
+            "text": "I<sup>A</sup>I<sup>B</sup>",
+            "correct": false
+          },
+          {
+            "text": "I<sup>O</sup>I<sup>O</sup>",
+            "correct": false
+          },
+          {
+            "text": "I<sup>B</sup>I<sup>B</sup>",
+            "correct": false
+          },
+          {
+            "text": "I<sup>B</sup>I<sup>O</sup>",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Dans cette famille, le grand-père maternel de Jacques est atteint d’une maladie récessive, liée au chromosome X, extrêmement rare.<br/><img src=\"images/Toss/Q201909/Biologie/Capture19.PNG\" alt=\"Capture19\" /><br/>Quelle est la probabilité que Jacques soit atteint ?",
+        "answers": [
+          {
+            "text": "25 %",
+            "correct": false
+          },
+          {
+            "text": "50 %",
+            "correct": true
+          },
+          {
+            "text": "75 %",
+            "correct": false
+          },
+          {
+            "text": "100 %",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Marc est de groupe sanguin B. Il épouse Annette qui a déjà donné son sang à un malade de groupe sanguin A. Marc et Annette ont un enfant.<br/>Parmi les propositions suivantes, laquelle est correcte ?",
+        "answers": [
+          {
+            "text": "Il pourrait être donneur universel.",
+            "correct": true
+          },
+          {
+            "text": "Il ne pourrait pas être receveur universel.",
+            "correct": false
+          },
+          {
+            "text": "Il est obligatoirement de groupe sanguin AB.",
+            "correct": false
+          },
+          {
+            "text": "Dans tous les cas, il pourra donner son sang à son père et à sa mère.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Des nodules contenant des bactéries appartenant au genre Rhizobium se développent dans le réseau racinaire d’une plante légumineuse. Les Rhizobium sont des bactéries qui fixent l’azote atmosphérique et le convertissent en une forme assimilable par la plante.<br/>Comment se nomme cette relation interspécifique ?",
+        "answers": [
+          {
+            "text": "Compétition par interférence.",
+            "correct": false
+          },
+          {
+            "text": "Co-évolution.",
+            "correct": false
+          },
+          {
+            "text": "Compétition d’exploitation.",
+            "correct": false
+          },
+          {
+            "text": "Symbiose.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Parmi les couples de réactions ci-dessous, lequel contient deux phénomènes contribuant à diminuer la concentration en CO2 dans l’atmosphère ?",
+        "answers": [
+          {
+            "text": "Fermentation – respiration.",
+            "correct": false
+          },
+          {
+            "text": "Fermentation – photosynthèse.",
+            "correct": false
+          },
+          {
+            "text": "Dissolution – photosynthèse",
+            "correct": true
+          },
+          {
+            "text": "Combustion – photosynthèse.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi ces substances, laquelle <b>ne contribue pas</b> à l’effet de serre ?",
+        "answers": [
+          {
+            "text": "Le diazote.",
+            "correct": true
+          },
+          {
+            "text": "Le chlorofluorocarbone.",
+            "correct": false
+          },
+          {
+            "text": "Le méthane.",
+            "correct": false
+          },
+          {
+            "text": "Le dioxyde de carbone.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le lierre est une plante grimpante qui s’accroche grâce à des crampons. Il s’agit d’une plante photosynthétique autotrophe, qui ne tire pas sa nourriture de l’arbre qui lui sert de support.<br/>Sur base de cette description, le lierre est appelé une plante…",
+        "answers": [
+          {
+            "text": "saprophyte.",
+            "correct": false
+          },
+          {
+            "text": "épiphyte.",
+            "correct": true
+          },
+          {
+            "text": "parasite.",
+            "correct": false
+          },
+          {
+            "text": "mutualiste.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "L’isotope 131 de l’iode (<sup>131</sup>I) est un des éléments radioactifs rejetés lors des accidents nucléaires. L’utilisation privilégiée de l’iode par une glande endocrine explique l’augmentation de cas de cancer suite aux accidents nucléaires.<br/>De quelle glande s’agit-il ?",
+        "answers": [
+          {
+            "text": "L’hypophyse.",
+            "correct": false
+          },
+          {
+            "text": "L’ovaire.",
+            "correct": false
+          },
+          {
+            "text": "La glande surrénale.",
+            "correct": false
+          },
+          {
+            "text": "La thyroïde.",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Français",
+    "session": "TOSS Septembre 2019",
+    "pretext": "Veuillez lire attentivement le texte intitulé <a href=\"images/Toss/Q201909/Français/TOSS_2019_septembre_PM_texte_francais.pdf\" target=\"_blank\">Notes écologiques sur l’hibernation du lérot (eliomys quercinus l.)</a> et répondez aux questions suivantes.",
+    "questions": [
+      {
+        "text": "En vous fondant sur le texte fourni en annexe, complétez l’affirmation suivante. Les lérots…",
+        "answers": [
+          {
+            "text": "peuvent survivre aisément à des températures de -25°C.",
+            "correct": false
+          },
+          {
+            "text": "hibernent dans des nids sans protection.",
+            "correct": false
+          },
+          {
+            "text": "peuvent revenir à la vie, bien qu’ils aient été déclarés morts.",
+            "correct": false
+          },
+          {
+            "text": "se réveillent parfois pendant leur hibernation pour changer de nid.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Le réveil printanier du lérot…",
+        "answers": [
+          {
+            "text": "marque nettement la fin de la période d’hibernation.",
+            "correct": false
+          },
+          {
+            "text": "est influencé par la température et est complet pour la fin du mois d’avril.",
+            "correct": true
+          },
+          {
+            "text": "est influencé par le moment d’entrée en hibernation.",
+            "correct": false
+          },
+          {
+            "text": "a lieu à la fin du mois de février.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "L’estivation est…",
+        "answers": [
+          {
+            "text": "le contraire de l’hibernation.",
+            "correct": false
+          },
+          {
+            "text": "la période de réveil et d’activité du lérot, durant l’été.",
+            "correct": false
+          },
+          {
+            "text": "une forme d’hibernation, durant l’été.",
+            "correct": true
+          },
+          {
+            "text": "un état propre aux lérots vivant en captivité",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelles sont les conséquences d’une chute pour les lérots endormis ?",
+        "answers": [
+          {
+            "text": "La sortie de l’hibernation.",
+            "correct": false
+          },
+          {
+            "text": "Un décès presque certain.",
+            "correct": true
+          },
+          {
+            "text": "Un risque de blessure.",
+            "correct": false
+          },
+          {
+            "text": "Une prolongation de l’hibernation.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Les lérots meurent-ils souvent dans les nids à cause du froid ?",
+        "answers": [
+          {
+            "text": "Oui, lorsque les températures atteignent les -25°C.",
+            "correct": false
+          },
+          {
+            "text": "Oui, ils meurent étouffés par le nombre de lérots qui s’entassent dans le nid.",
+            "correct": false
+          },
+          {
+            "text": "Non, les décès sont rares.",
+            "correct": true
+          },
+          {
+            "text": "Non, les prédateurs des lérots hibernent également.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Comment les lérots se regroupent-ils ?",
+        "answers": [
+          {
+            "text": "Par poids.",
+            "correct": false
+          },
+          {
+            "text": "Par sexe.",
+            "correct": false
+          },
+          {
+            "text": "Par âge.",
+            "correct": false
+          },
+          {
+            "text": "L’article ne le précise pas.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "L’endormissement se fait…",
+        "answers": [
+          {
+            "text": "selon le poids.",
+            "correct": true
+          },
+          {
+            "text": "selon le sexe.",
+            "correct": false
+          },
+          {
+            "text": "selon l’âge.",
+            "correct": false
+          },
+          {
+            "text": "L’article ne le précise pas.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "D’après les observations de J. Bussy, la période d’endormissement des lérots dure…",
+        "answers": [
+          {
+            "text": "6 à 7 heures.",
+            "correct": false
+          },
+          {
+            "text": "2 semaines.",
+            "correct": true
+          },
+          {
+            "text": "toute la période hivernale.",
+            "correct": false
+          },
+          {
+            "text": "9 ans.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Pour des questions de température, le nid des lérots…",
+        "answers": [
+          {
+            "text": "doit nécessairement être clos.",
+            "correct": false
+          },
+          {
+            "text": "ne doit pas nécessairement être clos.",
+            "correct": true
+          },
+          {
+            "text": "doit être bouché par de la terre.",
+            "correct": false
+          },
+          {
+            "text": "ne doit pas être bouché par de la terre.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "En quoi consiste le dénichage ?",
+        "answers": [
+          {
+            "text": "Il s’agit de chercher les lérots.",
+            "correct": false
+          },
+          {
+            "text": "Il s’agit de changer les lérots d’habitation.",
+            "correct": false
+          },
+          {
+            "text": "Il s’agit de chasser les lérots de leur habitation.",
+            "correct": true
+          },
+          {
+            "text": "Il s’agit d’aider les lérots à hiberner.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Qu’indique la présence de crottes dans un nid ?",
+        "answers": [
+          {
+            "text": "La venue de rats ou de souris.",
+            "correct": false
+          },
+          {
+            "text": "Le nid n’a pas bien été clos.",
+            "correct": false
+          },
+          {
+            "text": "Un lérot reste éveillé pendant l’hibernation des autres.",
+            "correct": false
+          },
+          {
+            "text": "Des lérots se sont réveillés et ont mangé.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "D’après les observations de J. Bussy…",
+        "answers": [
+          {
+            "text": "il y a 7 000 lérots dans la région lyonnaise.",
+            "correct": false
+          },
+          {
+            "text": "les lérots ont vu leur nombre augmenter de 7 000 sur la période observée.",
+            "correct": false
+          },
+          {
+            "text": "7 000 lérots ont été sortis de leur nid pour effectuer les travaux de J. Bussy.",
+            "correct": true
+          },
+          {
+            "text": "les lérots sont passés de 7 000 à 960 individus au cours de l’hiver 1971-1972.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "D’après les observations de J. Bussy, la population de lérots dans la région lyonnaise a été plus élevée…",
+        "answers": [
+          {
+            "text": "en novembre 1965.",
+            "correct": false
+          },
+          {
+            "text": "en juin 1968.",
+            "correct": false
+          },
+          {
+            "text": "durant l’été 1970.",
+            "correct": true
+          },
+          {
+            "text": "durant l’hiver 1971-1972.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Pour construire leur nid, les lérots utilisent…",
+        "answers": [
+          {
+            "text": "du foin.",
+            "correct": true
+          },
+          {
+            "text": "du pisé.",
+            "correct": false
+          },
+          {
+            "text": "du papier.",
+            "correct": false
+          },
+          {
+            "text": "de la terre.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Pour effectuer ses observations, J. Bussy a…",
+        "answers": [
+          {
+            "text": "sorti des lérots de leur nid durant l’hiver.",
+            "correct": true
+          },
+          {
+            "text": "installé des nids pour les lérots.",
+            "correct": false
+          },
+          {
+            "text": "demandé que l’on n’utilise pas d’insecticide sur les arbres fruitiers.",
+            "correct": false
+          },
+          {
+            "text": "consolidé des nids de lérots existants.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Physique",
+    "session": "TOSS Septembre 2019",
+    "questions": [
+      {
+        "text": "Sur Terre, l’accélération gravitationnelle g vaut presque 10 m s<sup>-2</sup>. Sur une autre planète de masse M et de rayon R, on peut affirmer que…",
+        "answers": [
+          {
+            "text": "<i>g</i> = <div class=\"frac\"><span><i>G M</i></span><span class=\"symbol\">/</span><span class=\"bottom\"><i>R</i></span></div>",
+            "correct": false
+          },
+          {
+            "text": "<i>g</i> = <div class=\"frac\"><span><i>G M</i></span><span class=\"symbol\">/</span><span class=\"bottom\"><i>R²</i></span></div>",
+            "correct": true
+          },
+          {
+            "text": "<i>g</i> = <div class=\"frac\"><span><i>G M²</i></span><span class=\"symbol\">/</span><span class=\"bottom\"><i>R</i></span></div>",
+            "correct": false
+          },
+          {
+            "text": "<i>g</i> = <div class=\"frac\"><span><i>G R</i></span><span class=\"symbol\">/</span><span class=\"bottom\"><i>M</i></span></div>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Si une force F constante est opposée à la vitesse d’un corps en mouvement rectiligne, on peut affirmer que…",
+        "answers": [
+          {
+            "text": "le travail de cette force est positif.",
+            "correct": false
+          },
+          {
+            "text": "le travail de cette force est négatif.",
+            "correct": true
+          },
+          {
+            "text": "le travail de cette force est nul.",
+            "correct": false
+          },
+          {
+            "text": "on ne peut pas déterminer le travail de cette force.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un objet est placé à une distance p sur l’axe optique d’une lentille convergente de distance focale f.<br/>Parmi les propositions suivantes, laquelle et correcte ?",
+        "answers": [
+          {
+            "text": "L’image formée est toujours réelle.",
+            "correct": false
+          },
+          {
+            "text": "L’image formée est toujours virtuelle.",
+            "correct": false
+          },
+          {
+            "text": "L’image est réelle si p > f.",
+            "correct": true
+          },
+          {
+            "text": "L’image est virtuelle si p > f.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un rayon lumineux passe de l’air à un autre milieu. Son angle d’incidence dans l’air vaut i, son angle de réfraction dans le milieu vaut r, de plus nous savons que les sinus des angles sont reliés par 2 sin(i)=3 sin(r).<br/>On peut affirmer que l’indice de réfraction n du milieu vaut…",
+        "answers": [
+          {
+            "text": "n = <div class=\"frac\"><span>3</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": true
+          },
+          {
+            "text": "n = <div class=\"frac\"><span>2</span><span class=\"symbol\">/</span><span class=\"bottom\">3</span></div>",
+            "correct": false
+          },
+          {
+            "text": "n=3",
+            "correct": false
+          },
+          {
+            "text": "n=2",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Deux résistances identiques R sont mises en parallèle. La résistance totale vaut alors…",
+        "answers": [
+          {
+            "text": "R/2",
+            "correct": true
+          },
+          {
+            "text": "2 R",
+            "correct": false
+          },
+          {
+            "text": "R",
+            "correct": false
+          },
+          {
+            "text": "1/R",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Si on multiplie par 4 la rigidité k d’un ressort et que la masse m qui y est attachée ne change pas, la fréquence d’oscillation…",
+        "answers": [
+          {
+            "text": "ne change pas.",
+            "correct": false
+          },
+          {
+            "text": "est multipliée par 0,5.",
+            "correct": false
+          },
+          {
+            "text": "est multipliée par 2.",
+            "correct": true
+          },
+          {
+            "text": "est multipliée par 4.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Au moment où elle se fait dépasser par un coureur se déplaçant à la vitesse constante de 4 m/s, une conductrice de trottinette électrique, à l’arrêt, démarre avec une accélération constante de 2 m/s². La route est rectiligne.<br/>La conductrice va rattraper le coureur en…",
+        "answers": [
+          {
+            "text": "moins de 1 seconde.",
+            "correct": false
+          },
+          {
+            "text": "un temps compris entre 1 et 3 secondes.",
+            "correct": false
+          },
+          {
+            "text": "un temps compris entre 3 et 6 secondes.",
+            "correct": true
+          },
+          {
+            "text": "plus de 6 secondes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Sur une table horizontale, un bloc de 10 kg est tiré vers la droite avec une force constante de 20 N. Le coefficient de frottement cinétique est de 0,05.<br/>Dès lors, le bloc…",
+        "answers": [
+          {
+            "text": "freine et finit par s’arrêter.",
+            "correct": false
+          },
+          {
+            "text": "avance à vitesse constante.",
+            "correct": false
+          },
+          {
+            "text": "accélère avec une accélération inférieure à 1 m/s².",
+            "correct": false
+          },
+          {
+            "text": "effectue un mouvement qui n’est pas décrit dans les solutions précédentes.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Au cours d’une chute, l’effet de l’ouverture du parachute…",
+        "answers": [
+          {
+            "text": "fait repartir le parachutiste vers le haut.",
+            "correct": false
+          },
+          {
+            "text": "est sans incidence sur l’accélération.",
+            "correct": false
+          },
+          {
+            "text": "réduit l’accélération mais sans jamais l’annuler.",
+            "correct": false
+          },
+          {
+            "text": "peut inverser le sens de l’accélération.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une loupe est constituée d’une lentille…",
+        "answers": [
+          {
+            "text": "convergente utilisée pour produire une image virtuelle.",
+            "correct": true
+          },
+          {
+            "text": "convergente utilisée pour produire une image réelle.",
+            "correct": false
+          },
+          {
+            "text": "divergente utilisée pour produire une image virtuelle.",
+            "correct": false
+          },
+          {
+            "text": "divergente utilisée pour produire une image réelle.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "On considère le schéma électrique repris ci-dessous :<br/><img src=\"images/Toss/Q201909/Physique/Capture12.PNG\" alt=\"Capture12\" /><br/>Toutes les ampoules ont la même résistance. Dès lors…",
+        "answers": [
+          {
+            "text": "L1, L2, L3 brillent de la même façon.",
+            "correct": false
+          },
+          {
+            "text": "L1 brille moins intensément que L3.",
+            "correct": true
+          },
+          {
+            "text": "L1 brille plus intensément que L3.",
+            "correct": false
+          },
+          {
+            "text": "on ne peut pas se prononcer sur la manière dont les ampoules vont briller.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un électron se déplace à la verticale vers le haut. Il subit un champ magnétique horizontal dirigé vers le pôle nord géographique.<br/>Il est dévié vers…",
+        "answers": [
+          {
+            "text": "le nord géographique.",
+            "correct": false
+          },
+          {
+            "text": "le sud géographique.",
+            "correct": false
+          },
+          {
+            "text": "la gauche.",
+            "correct": false
+          },
+          {
+            "text": "la droite.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "La position x (en mètres) d’une voiture est donnée par la relation x(t) = t²+10t-2. Quelle est sa vitesse v au temps t = 3 secondes ?",
+        "answers": [
+          {
+            "text": "v = - 2 m/s",
+            "correct": false
+          },
+          {
+            "text": "v = 16 m/s",
+            "correct": true
+          },
+          {
+            "text": "v = 21 m/s",
+            "correct": false
+          },
+          {
+            "text": ". v = 37 m/s",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La position d’un coureur en fonction du temps est donnée par l’expression<br/><br/>x(t)=t<sup>3</sup> −4t<sup>2</sup> +2t+3<br/><br/>où x est exprimé en mètres et t en secondes.<br/>Quelle est l’accélération du coureur lorsque t = 5 s ?",
+        "answers": [
+          {
+            "text": "a(5) = 7 m/s²",
+            "correct": false
+          },
+          {
+            "text": "a(5) = 15 m/s²",
+            "correct": false
+          },
+          {
+            "text": "a(5) = 22 m/s²",
+            "correct": true
+          },
+          {
+            "text": "a(5) = 35 m/s²",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelles sont les unités du moment d’une force ?",
+        "answers": [
+          {
+            "text": "kgm²/s",
+            "correct": false
+          },
+          {
+            "text": "kg²m²/s²",
+            "correct": false
+          },
+          {
+            "text": "Nm",
+            "correct": true
+          },
+          {
+            "text": "Nm²",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Une particule tourne avec une vitesse angulaire constante le long d’un cercle. Les vecteurs vitesse et accélération instantanées sont notés v(t) et a(t) respectivement.",
+        "answers": [
+          {
+            "text": "Les deux vecteurs sont perpendiculaires à la trajectoire.",
+            "correct": false
+          },
+          {
+            "text": "Les deux vecteurs sont perpendiculaires entre eux.",
+            "correct": true
+          },
+          {
+            "text": "Les deux vecteurs sont opposés entre eux.",
+            "correct": false
+          },
+          {
+            "text": "Le vecteur accélération est nul car la vitesse est constante.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Une voiture roule à une vitesse constante de 144 km/h, tandis que son moteur développe une puissance de 60000 Watt.<br/>Quelle est la valeur de la force f (frottement au sol et trainée de l’air) s’opposant au déplacement de la voiture ?",
+        "answers": [
+          {
+            "text": "1000 N",
+            "correct": false
+          },
+          {
+            "text": "1500 N",
+            "correct": true
+          },
+          {
+            "text": "3000 N",
+            "correct": false
+          },
+          {
+            "text": "6000 N",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Une résistance électrique R=2 Ω est parcourue par un courant I. La puissance dissipée est de 200 W.<br/>On peut affirmer que le courant est égal à…",
+        "answers": [
+          {
+            "text": "1 A",
+            "correct": false
+          },
+          {
+            "text": "10 A",
+            "correct": true
+          },
+          {
+            "text": "20 A",
+            "correct": false
+          },
+          {
+            "text": "100 A",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un cycliste roule à une vitesse v = 10 m/s. Parmi les propositions suivantes, laquelle est correcte ?",
+        "answers": [
+          {
+            "text": "Sa vitesse est approximativement 3 km/h.",
+            "correct": false
+          },
+          {
+            "text": "Sa vitesse est approximativement 5 km/h.",
+            "correct": false
+          },
+          {
+            "text": "Sa vitesse est approximativement 36 km/h.",
+            "correct": true
+          },
+          {
+            "text": "Sa vitesse est approximativement 60 km/h.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La trajectoire d’une pierre lancée obliquement du point A est représentée ci-dessous.<br/><img src=\"images/Toss/Q201909/Physique/Capture21.PNG\" alt=\"Capture21\" /><br/>En l’absence de frottement, l’énergie mécanique de la pierre est…",
+        "answers": [
+          {
+            "text": "maximale au point A.",
+            "correct": false
+          },
+          {
+            "text": "maximale au point B.",
+            "correct": false
+          },
+          {
+            "text": "maximale au point C.",
+            "correct": false
+          },
+          {
+            "text": "la même en tous les points.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Lors de la phase « essorage » de la lessiveuse, le tambour tourne à 1200 tours/min. Quelle est la durée d’un tour de tambour ?",
+        "answers": [
+          {
+            "text": "0,02 s",
+            "correct": false
+          },
+          {
+            "text": "0,05 s",
+            "correct": true
+          },
+          {
+            "text": "0,12 s",
+            "correct": false
+          },
+          {
+            "text": "0,83 s",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le graphique ci-dessous représente l’élongation d’un mouvement vibratoire en fonction du temps.<br/><img src=\"images/Toss/Q201909/Physique/Capture23.PNG\" alt=\"Capture23\" /><br/>Parmi les propositions suivantes, laquelle est correcte ?",
+        "answers": [
+          {
+            "text": "La période est égale à 16 secondes.",
+            "correct": false
+          },
+          {
+            "text": "La vitesse est nulle à l’instant t = 4 secondes.",
+            "correct": false
+          },
+          {
+            "text": "L’amplitude est égale à 4 cm.",
+            "correct": false
+          },
+          {
+            "text": "La fréquence est égale à 0,125 seconde.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Sur la figure ci-dessous, on considère deux charges positives Q situées aux points se trouvant sur l’axe y.<br/><img src=\"images/Toss/Q201909/Physique/Capture24.PNG\" alt=\"Capture24\" /><br/>Quelle est l’orientation du champ électrique au point P ?",
+        "answers": [
+          {
+            "text": "Vers la droite le long de l’axe x.",
+            "correct": true
+          },
+          {
+            "text": "Vers la gauche le long de l’axe x.",
+            "correct": false
+          },
+          {
+            "text": "Verticalement vers le haut.",
+            "correct": false
+          },
+          {
+            "text": "Verticalement vers le bas.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Afin de pouvoir décoller, un avion partant du repos doit atteindre la vitesse de 360 km/h. Quelle doit-être la longueur minimale de la piste s’il faut 20 secondes à l’avion pour atteindre cette vitesse ?",
+        "answers": [
+          {
+            "text": "1 km",
+            "correct": true
+          },
+          {
+            "text": "2 km",
+            "correct": false
+          },
+          {
+            "text": "3 km",
+            "correct": false
+          },
+          {
+            "text": "4 km",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Chimie",
+    "session": "TOSS Septembre 2019",
+    "pretext": "Un <a target=\"_blank\" href=\"images/Toss/Q201909/Chimie/TOSS_2019_septembre_PM_vA_chimie_tableau.pdf\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition",
+    "questions": [
+      {
+        "text": "Le fer, sous la forme de Fe<sup>2+</sup>, est un ion essentiel pour l’organisme. En cas de carence, il est souvent administré sous forme de FeSO<sub>4</sub>.<br/>Combien d’atomes de Fe<sup>2+</sup> sont contenus dans un comprimé de 325 mg de FeSO<sub>4</sub> ?",
+        "answers": [
+          {
+            "text": "1,28.10<sup>21</sup> atomes",
+            "correct": true
+          },
+          {
+            "text": "3,50.10<sup>21</sup> atomes",
+            "correct": false
+          },
+          {
+            "text": "6,02.10<sup>23</sup> atomes",
+            "correct": false
+          },
+          {
+            "text": "1,28.10<sup>24</sup> atomes",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un gaz idéal est contenu dans un récipient à volume constant.<br/><img src=\"images/Toss/Q201909/Chimie/Capture2.PNG\" alt=\"Capture2\" /><br/>Laquelle des illustrations suivantes aura la pression de gaz la plus élevée ?",
+        "answers": [
+          {
+            "text": "L’illustration 1).",
+            "correct": false
+          },
+          {
+            "text": "L’illustration 2).",
+            "correct": false
+          },
+          {
+            "text": "L’illustration 3).",
+            "correct": true
+          },
+          {
+            "text": "L’illustration 4).",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le nombre total d'électrons de valence dans l'ion phosphate PO<sub>4</sub><sup>3−</sup> est de…",
+        "answers": [
+          {
+            "text": "26",
+            "correct": false
+          },
+          {
+            "text": "28",
+            "correct": false
+          },
+          {
+            "text": "30",
+            "correct": false
+          },
+          {
+            "text": "32",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Lorsqu'on fait réagir du trioxyde de diphosphore et du dioxygène…",
+        "answers": [
+          {
+            "text": "aucune réaction ne se produit.",
+            "correct": false
+          },
+          {
+            "text": "on produit du pentoxyde de diphosphore.",
+            "correct": true
+          },
+          {
+            "text": "on produit du phosphite d'hydrogène.",
+            "correct": false
+          },
+          {
+            "text": "on produit du phosphate d'hydrogène.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un échantillon de 80 g de Fe<sub>2</sub>O<sub>3</sub> impur, traité par un excès de HCl, conduit à la formation de 18mL d’eau liquide.<br/>Quelle est la pureté de l'échantillon initial ?",
+        "answers": [
+          {
+            "text": "25 %",
+            "correct": false
+          },
+          {
+            "text": "33 %",
+            "correct": false
+          },
+          {
+            "text": "67 %",
+            "correct": true
+          },
+          {
+            "text": "75 %",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Considérons la réaction suivante se déroulant à 900 K :<br/><br/>2 S (g) + C (s) ⇌ CS<sub>2</sub> (g)<br/><br/>Un récipient hermétique de 2,0 litres contient, au départ, 2,0 moles de soufre en présence d’un excès de carbone. A l’équilibre, 0,80 mole de CS<sub>2</sub> est formée.<br/>Quelle est la valeur numérique du Kc de cette réaction ?",
+        "answers": [
+          {
+            "text": "0,40",
+            "correct": false
+          },
+          {
+            "text": "2,0",
+            "correct": false
+          },
+          {
+            "text": "5,0",
+            "correct": false
+          },
+          {
+            "text": "10",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "On ajoute 10,0 mL d'une solution aqueuse d'hydroxyde de sodium 0,500 mol/L à 10,0 mL d'une solution aqueuse de sulfate de cuivre(II) 0,500 mol/L.<br/>Quel réactif est en excès et en quelle quantité ?",
+        "answers": [
+          {
+            "text": "CuSO<sub>4</sub> ; 5,00.10<sup>-3</sup> mol",
+            "correct": false
+          },
+          {
+            "text": "CuSO<sub>4</sub> ; 2,50.10<sup>-3</sup> mol",
+            "correct": true
+          },
+          {
+            "text": "NaOH ; 1,25.10<sup>-3</sup> mol",
+            "correct": false
+          },
+          {
+            "text": "Aucun réactif n'est en excès.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quel volume d’acétone présente la même masse que 10 mL d’eau en sachant que la masse volumique de l’acétone est de 0,800 g/mL ?",
+        "answers": [
+          {
+            "text": "0,0125 L",
+            "correct": true
+          },
+          {
+            "text": "0,0800 mL",
+            "correct": false
+          },
+          {
+            "text": "8,00 mL",
+            "correct": false
+          },
+          {
+            "text": "12,5 L",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un ion <sup>207</sup>Pb <sup>2+</sup> renferme…",
+        "answers": [
+          {
+            "text": "80 protons, 207 neutrons, 82 électrons.",
+            "correct": false
+          },
+          {
+            "text": "82 protons, 207 neutrons, 84 électrons.",
+            "correct": false
+          },
+          {
+            "text": "82 protons, 125 neutrons, 80 électrons.",
+            "correct": true
+          },
+          {
+            "text": "207 protons, 125 neutrons, 82 électrons.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": " Considérons la réaction décrite ci-dessous :<br/><img src=\"images/Toss/Q201909/Chimie/Capture11.PNG\" alt=\"Capture11\" /><br/>Parmi les propositions suivantes la concernant, laquelle est <b>incorrecte</b> ?",
+        "answers": [
+          {
+            "text": "La molécule de CH<sub>2</sub>=CH<sub>2</sub> contient une fonction alcool.",
+            "correct": true
+          },
+          {
+            "text": "La molécule de HOCH<sub>2</sub>-CH<sub>2</sub>OH contient deux fonctions alcool.",
+            "correct": false
+          },
+          {
+            "text": "La molécule de CH<sub>2</sub>=CH<sub>2</sub> est oxydée en HOCH<sub>2</sub>-CH<sub>2</sub>OH.",
+            "correct": false
+          },
+          {
+            "text": "La molécule de KMnO<sub>4</sub> est un oxydant.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "On ajoute 200 mL d’une solution aqueuse de HCl (0,1 mol/L) à 50 mL d’une solution aqueuse de Na<sub>2</sub>HP0<sub>4</sub> (0,1 mol/L).<br/>Quel est le pH de la solution après réaction ?",
+        "answers": [
+          {
+            "text": "pH < 3",
+            "correct": true
+          },
+          {
+            "text": "3 < pH < 5",
+            "correct": false
+          },
+          {
+            "text": "5 < pH < 9",
+            "correct": false
+          },
+          {
+            "text": "pH > 9",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les réactions suivantes, quelle est celle dont le K<sub>c</sub> est égal au K<sub>p</sub> ?",
+        "answers": [
+          {
+            "text": "CO(g) + Cl<sub>2</sub> (g) ⇌ COCl<sub>2</sub> (g)",
+            "correct": false
+          },
+          {
+            "text": "C (s) + 2 H<sub>2</sub>O (g) ⇌ CO<sub>2</sub> (g) + 2 H<sub>2</sub> (g)",
+            "correct": false
+          },
+          {
+            "text": "N<sub>2</sub> (g) + O<sub>2</sub> (g) ⇌ 2 NO (g)",
+            "correct": true
+          },
+          {
+            "text": "3 O<sub>2</sub> (g) ⇌ 2 O<sub>3</sub> (g)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le bronze est formé de 12 % (en masse) d’étain, le reste étant du cuivre. Quelle quantité d’étain contient un échantillon de 100 g de cet alliage ?",
+        "answers": [
+          {
+            "text": "0,1 mol",
+            "correct": true
+          },
+          {
+            "text": "0,4 mol",
+            "correct": false
+          },
+          {
+            "text": "0,5 mol",
+            "correct": false
+          },
+          {
+            "text": "1,0 mol",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelle est la masse molaire du sulfate de magnésium heptahydraté ?",
+        "answers": [
+          {
+            "text": "104 g/mol",
+            "correct": false
+          },
+          {
+            "text": "120 g/mol",
+            "correct": false
+          },
+          {
+            "text": "150 g/mol",
+            "correct": false
+          },
+          {
+            "text": "246 g/mol",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une tasse de café contient approximativement 250 mg de caféine (C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>). Calculez la concentration molaire de caféine si l’on considère que le volume de café dans la tasse est de 150 mL.",
+        "answers": [
+          {
+            "text": "8,59.10<sup>-2</sup> mol/L",
+            "correct": false
+          },
+          {
+            "text": "8,59.10<sup>-3</sup> mol/L",
+            "correct": true
+          },
+          {
+            "text": "8,59.10<sup>-5</sup> mol/L",
+            "correct": false
+          },
+          {
+            "text": "8,59.10<sup>-6</sup> mol/L",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les propositions suivantes, laquelle est correcte ?",
+        "answers": [
+          {
+            "text": "Les éléments de la quatrième période des familles principales ont tous le même nombre d'électrons de valence.",
+            "correct": false
+          },
+          {
+            "text": "Les éléments de la famille des halogènes ont tous un caractère métallique.",
+            "correct": false
+          },
+          {
+            "text": "De manière générale, le rayon atomique tend à croître lorsqu'on parcourt une famille de haut en bas.",
+            "correct": true
+          },
+          {
+            "text": "De manière générale, l'électronégativité tend à décroître lorsqu'on parcourt une période de gauche à droite.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "On fait réagir des ions fer(II) et des ions Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> en milieu acide selon l’équation non pondérée suivante :<br/><br/>Fe<sup>2+</sup> (aq) + Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(aq) + H<sup>+</sup> (aq)→ Fe<sup>3+</sup> (aq) + Cr<sup>3+</sup> (aq) + H<sub>2</sub>O<br/><br/>Parmi les propositions suivantes, laquelle est <b>incorrecte</b> ?",
+        "answers": [
+          {
+            "text": "Le coefficient stoechiométrique des ions Fe(II) est 6.",
+            "correct": false
+          },
+          {
+            "text": "Le coefficient stoechiométrique des ions Fe(III) est 6.",
+            "correct": false
+          },
+          {
+            "text": "Le coefficient stoechiométrique des ions Cr(III) est 2.",
+            "correct": false
+          },
+          {
+            "text": "Le coefficient stoechiométrique des protons est 12.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Soit la réaction à l’équilibre <br/><br/>A (aq) + B (aq) ⇌ C (s) + 2 D (aq) <br/><br/>dont la valeur de la constante d’équilibre K<sub>c</sub> est égale à 4.<br/>Si, à l’équilibre, [B] = 1 mol/L et [D] = 2 mol/L, quelle est la valeur de [A] ?",
+        "answers": [
+          {
+            "text": "1 mol/L",
+            "correct": true
+          },
+          {
+            "text": "2 mol/L",
+            "correct": false
+          },
+          {
+            "text": "0,5 mol/L",
+            "correct": false
+          },
+          {
+            "text": "Il manque une donnée pour calculer K<sub>c</sub>.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soit l’équilibre chimique<br/><br/>C (s) + 2 H<sub>2</sub> (g) ⇌ CH<sub>4</sub> (g)<br/>ΔH° = - 75 kJ<br/><br/>Le rendement de cette réaction augmentera si…",
+        "answers": [
+          {
+            "text": "la température augmente.",
+            "correct": false
+          },
+          {
+            "text": "la quantité de dihydrogène diminue.",
+            "correct": false
+          },
+          {
+            "text": "la pression totale augmente.",
+            "correct": true
+          },
+          {
+            "text": "le volume disponible augmente.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Si les électronégativités du sodium et de l’oxygène sont respectivement de 0,9 et de 3,5, la liaison entre les atomes O et Na dans la molécule de CH<sub>3</sub>ONa est…",
+        "answers": [
+          {
+            "text": "covalente pure.",
+            "correct": false
+          },
+          {
+            "text": "covalente polarisée.",
+            "correct": false
+          },
+          {
+            "text": "ionique.",
+            "correct": true
+          },
+          {
+            "text": "Aucune de ces propositions n’est correcte.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Si l’électronégativité du fluor et de l’hydrogène est respectivement de 4,0 et de 2,1, la liaison dans une molécule de fluorure d’hydrogène est…",
+        "answers": [
+          {
+            "text": "covalente pure.",
+            "correct": false
+          },
+          {
+            "text": "covalente polarisée.",
+            "correct": false
+          },
+          {
+            "text": "à caractère majoritairement ionique.",
+            "correct": true
+          },
+          {
+            "text": "Aucune de ces propositions n’est correcte.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La dissociation d’une molécule diatomique X<sub>2</sub> (g) ⇋ 2 X (g) est étudiée dans un ballon rigide de 1 litre. Le ballon de gauche montre une situation d’équilibre à 500 K. Le ballon de droite montre une autre situation d’équilibre après une perturbation.<br/><img src=\"images/Toss/Q201909/Chimie/Capture23.PNG\" alt=\"Capture23\" /><br/>Laquelle de ces perturbations est susceptible de produire le changement observé ?",
+        "answers": [
+          {
+            "text": "L’ajout d’atomes X.",
+            "correct": false
+          },
+          {
+            "text": "L’augmentation de la pression partielle de X2.",
+            "correct": false
+          },
+          {
+            "text": "L’ajout d’un catalyseur.",
+            "correct": false
+          },
+          {
+            "text": "L’augmentation de la température.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "La neutralisation totale de 50 mL d’une solution aqueuse de NaOH (0,1 mol/L) se fait au moyen de 50 mL d’une solution aqueuse de HCl (0,1 mol/L).<br/>Quel est le pH de la solution après réaction ?",
+        "answers": [
+          {
+            "text": "pH < 5",
+            "correct": false
+          },
+          {
+            "text": "5 < pH < 8",
+            "correct": true
+          },
+          {
+            "text": "8 < pH <10",
+            "correct": false
+          },
+          {
+            "text": "pH > 10",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Considérons la réaction<br/><br/>2 NO (g) ⇌ N<sub>2</sub> (g) + O<sub>2</sub> (g)<br/><br/>Si, au départ, il n'y a que du NO (g) dont la pression initiale est de 1,0 atm et si <i>x</i> représente la pression à l’équilibre de N<sub>2</sub>, quelle est la relation d’équilibre correcte ?",
+        "answers": [
+          {
+            "text": "K<sub>p</sub> = <div class=\"frac\"><span>2<i>x</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(1,0−<i>x</i>)²</span></div>",
+            "correct": false
+          },
+          {
+            "text": "K<sub>p</sub> = <div class=\"frac\"><span><i>x²</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(2,0−<i>x</i>)</span></div>",
+            "correct": false
+          },
+          {
+            "text": "K<sub>p</sub> = <div class=\"frac\"><span><i>x²</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(1,0−2<i>x</i>)²</span></div>",
+            "correct": true
+          },
+          {
+            "text": "K<sub>p</sub> = <div class=\"frac\"><span>2<i>x²</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(1,0−2<i>x</i>)</span></div>",
             "correct": false
           }
         ]

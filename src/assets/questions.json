@@ -33587,7 +33587,7 @@
         ]
       },
       {
-        "text": "Pour assumer ses dépenses, Julien dispose sur l'année d'un budget de 2000 €. Ses dépenses se répartissent en cinq postes comme le montre le diagramme en secteurs circulaires suivant : Pour pour aller plus souvent au cinéma, Julien décide de diviser par deux le budget alloué au sport. <br/><img src=\"images/Toss/Q201909/Maths/Capture5.PNG\" alt=\"Capture5\" width=\"300px\"/><br/>Déterminer la somme annuelle qu'il va désormais consacrer au cinéma.",
+        "text": "Pour assumer ses dépenses, Julien dispose sur l'année d'un budget de 2000 €. Ses dépenses se répartissent en cinq postes comme le montre le diagramme en secteurs circulaires suivant : <br/><img src=\"images/Toss/Q201909/Maths/Capture5.PNG\" alt=\"Capture5\" width=\"300px\"/><br/>Pour pour aller plus souvent au cinéma, Julien décide de diviser par deux le budget alloué au sport. Déterminer la somme annuelle qu'il va désormais consacrer au cinéma.",
         "answers": [
           {
             "text": "150 €",
@@ -34716,19 +34716,19 @@
         "text": "Un couple a un enfant de groupe sanguin AB et un autre de groupe sanguin 0. La mère est du groupe A.<br/>Quel est le génotype du père pour ce caractère ?",
         "answers": [
           {
-            "text": "I<super>A</super>I<super>B</super>",
+            "text": "I<sup>A</sup>I<sup>B</sup>",
             "correct": false
           },
           {
-            "text": "I<super>O</super>I<super>O</super>",
+            "text": "I<sup>O</sup>I<sup>O</sup>",
             "correct": false
           },
           {
-            "text": "I<super>B</super>I<super>B</super>",
+            "text": "I<sup>B</sup>I<sup>B</sup>",
             "correct": false
           },
           {
-            "text": "I<super>B</super>I<super>O</super>",
+            "text": "I<sup>B</sup>I<sup>O</sup>",
             "correct": true
           }
         ]
@@ -34860,7 +34860,7 @@
         ]
       },
       {
-        "text": "L’isotope 131 de l’iode (<super>131</super>I) est un des éléments radioactifs rejetés lors des accidents nucléaires. L’utilisation privilégiée de l’iode par une glande endocrine explique l’augmentation de cas de cancer suite aux accidents nucléaires.<br/>De quelle glande s’agit-il ?",
+        "text": "L’isotope 131 de l’iode (<sup>131</sup>I) est un des éléments radioactifs rejetés lors des accidents nucléaires. L’utilisation privilégiée de l’iode par une glande endocrine explique l’augmentation de cas de cancer suite aux accidents nucléaires.<br/>De quelle glande s’agit-il ?",
         "answers": [
           {
             "text": "L’hypophyse.",
@@ -35482,7 +35482,7 @@
         ]
       },
       {
-        "text": "La position d’un coureur en fonction du temps est donnée par l’expression<br/><br/>x(t)=t3 −4t2 +2t+3<br/><br/>où x est exprimé en mètres et t en secondes.<br/>Quelle est l’accélération du coureur lorsque t = 5 s ?",
+        "text": "La position d’un coureur en fonction du temps est donnée par l’expression<br/><br/>x(t)=t<sup>3</sup> −4t<sup>2</sup> +2t+3<br/><br/>où x est exprimé en mètres et t en secondes.<br/>Quelle est l’accélération du coureur lorsque t = 5 s ?",
         "answers": [
           {
             "text": "a(5) = 7 m/s²",
@@ -35566,7 +35566,7 @@
         ]
       },
       {
-        "text": "Une résistance électrique R=2 \uF057 est parcourue par un courant I. La puissance dissipée est de 200 W.<br/>On peut affirmer que le courant est égal à…",
+        "text": "Une résistance électrique R=2 Ω est parcourue par un courant I. La puissance dissipée est de 200 W.<br/>On peut affirmer que le courant est égal à…",
         "answers": [
           {
             "text": "1 A",
@@ -35717,7 +35717,7 @@
   {
     "topic": "Chimie",
     "session": "TOSS Septembre 2019",
-    "pretext": "Un <a target=\"_blank\" href=\"images/Toss/Q201909/TOSS_2019_septembre_PM_vA_chimie_tableau.pdf\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition",
+    "pretext": "Un <a target=\"_blank\" href=\"images/Toss/Q201909/Chimie/TOSS_2019_septembre_PM_vA_chimie_tableau.pdf\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition",
     "questions": [
       {
         "text": "Le fer, sous la forme de Fe<sup>2+</sup>, est un ion essentiel pour l’organisme. En cas de carence, il est souvent administré sous forme de FeSO<sub>4</sub>.<br/>Combien d’atomes de Fe<sup>2+</sup> sont contenus dans un comprimé de 325 mg de FeSO<sub>4</sub> ?",
@@ -35825,7 +35825,7 @@
         ]
       },
       {
-        "text": "Considérons la réaction suivante se déroulant à 900 K :<br/><br/>2 S (g) + C (s) ⇌ CS2 (g)<br/><br/>Un récipient hermétique de 2,0 litres contient, au départ, 2,0 moles de soufre en présence d’un excès de carbone. A l’équilibre, 0,80 mole de CS<sub>2</sub> est formée.<br/>Quelle est la valeur numérique du Kc de cette réaction ?",
+        "text": "Considérons la réaction suivante se déroulant à 900 K :<br/><br/>2 S (g) + C (s) ⇌ CS<sub>2</sub> (g)<br/><br/>Un récipient hermétique de 2,0 litres contient, au départ, 2,0 moles de soufre en présence d’un excès de carbone. A l’équilibre, 0,80 mole de CS<sub>2</sub> est formée.<br/>Quelle est la valeur numérique du Kc de cette réaction ?",
         "answers": [
           {
             "text": "0,40",
@@ -35913,7 +35913,7 @@
         "answers": [
           {
             "text": "La molécule de CH<sub>2</sub>=CH<sub>2</sub> contient une fonction alcool.",
-            "correct": false
+            "correct": true
           },
           {
             "text": "La molécule de HOCH<sub>2</sub>-CH<sub>2</sub>OH contient deux fonctions alcool.",
@@ -35921,7 +35921,7 @@
           },
           {
             "text": "La molécule de CH<sub>2</sub>=CH<sub>2</sub> est oxydée en HOCH<sub>2</sub>-CH<sub>2</sub>OH.",
-            "correct": true
+            "correct": false
           },
           {
             "text": "La molécule de KMnO<sub>4</sub> est un oxydant.",
@@ -35997,7 +35997,7 @@
         "answers": [
           {
             "text": "104 g/mol",
-            "correct": true
+            "correct": false
           },
           {
             "text": "120 g/mol",
@@ -36009,7 +36009,7 @@
           },
           {
             "text": "246 g/mol",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -36018,11 +36018,11 @@
         "answers": [
           {
             "text": "8,59.10<sup>-2</sup> mol/L",
-            "correct": true
+            "correct": false
           },
           {
             "text": "8,59.10<sup>-3</sup> mol/L",
-            "correct": false
+            "correct": true
           },
           {
             "text": "8,59.10<sup>-5</sup> mol/L",
@@ -36098,7 +36098,7 @@
         ]
       },
       {
-        "text": "Soit l’équilibre chimique<br/><br/>C (s) + 2 H<sub>2</sub> (g) ⇌ CH<sub>4</sub>             (g) \uF044H° = - 75 kJ<br/><br/>Le rendement de cette réaction augmentera si…",
+        "text": "Soit l’équilibre chimique<br/><br/>C (s) + 2 H<sub>2</sub> (g) ⇌ CH<sub>4</sub> (g)<br/>ΔH° = - 75 kJ<br/><br/>Le rendement de cette réaction augmentera si…",
         "answers": [
           {
             "text": "la température augmente.",
@@ -36211,11 +36211,11 @@
           },
           {
             "text": "K<sub>p</sub> = <div class=\"frac\"><span><i>x²</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(2,0−<i>x</i>)</span></div>",
-            "correct": true
+            "correct": false
           },
           {
             "text": "K<sub>p</sub> = <div class=\"frac\"><span><i>x²</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(1,0−2<i>x</i>)²</span></div>",
-            "correct": false
+            "correct": true
           },
           {
             "text": "K<sub>p</sub> = <div class=\"frac\"><span>2<i>x²</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(1,0−2<i>x</i>)</span></div>",

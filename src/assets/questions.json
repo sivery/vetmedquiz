@@ -36207,7 +36207,7 @@
   {
     "topic": "Raisonnement",
     "session": "EXMD Juillet 2019",
-    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/EXMD/Q201907/Raisonnement/text.pdf\">le texte</a> avant de répondre aux questions.",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/EXMD/Q201907/Raisonnement/text.pdf\">le texte</a> pour répondre aux questions 1 à 6.",
     "questions": [
       {
         "text": "Quel titre serait le plus approprié pour ce texte ?",
@@ -36332,6 +36332,111 @@
           {
             "text": "l’asservissement de l’Homme est un élément fondamental de la condition humaine.",
             "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Sauf exception, pour qu’un patient soit partiellement remboursé par sa mutuelle des frais que lui occasionnent ses problèmes de santé, il faut et il suffit qu’il soit en ordre de cotisation et fasse parvenir à sa mutualité les documents attestant des soins qu’il a reçus. Mais voici que j’attends depuis des mois que ma mutuelle me rembourse les frais que m’ont occasionnés mes dernières visites chez le dentiste. Or ceux-ci n’avaient rien d’exceptionnel.<br/>Quelle est l’explication la plus probable ?",
+        "answers": [
+          {
+            "text": "J’ai oublié de payer ma cotisation.",
+            "correct": false
+          },
+          {
+            "text": "J’ai oublié d’envoyer mes attestations de soin.",
+            "correct": false
+          },
+          {
+            "text": "J’ai oublié de payer ma cotisation et d’envoyer mes attestations de soin.",
+            "correct": false
+          },
+          {
+            "text": "J’ai oublié de payer ma cotisation ou d’envoyer mes attestations de soin.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une équipe de chercheurs s’est penchée sur la question de la détection précoce du cancer de la prostate (soit par toucher de la prostate soit par dosage sanguin, PSA). Deux groupes d’hommes de 50 ans et plus ont été testés ; 1000 appartiennent au groupe contrôle sans détection précoce, 1000 appartiennent au groupe avec détection précoce. Soit le tableau suivant (Ilic et al. 2013) :<br/><img src=\"images/EXMD/Q201907/Raisonnement/Capture10.PNG\" alt=\"Capture10\" /><br/>Quelles sont les conclusions que l’on peut tirer du texte et du tableau ci-dessus ?",
+        "answers": [
+          {
+            "text": "7 personnes sont décédées malgré la détection précoce du cancer de la prostate, mais 20 personnes ont été sauvées grâce à cette détection.",
+            "correct": false
+          },
+          {
+            "text": "La détection précoce du cancer de la prostate ne semble pas utile.",
+            "correct": true
+          },
+          {
+            "text": "La détection précoce du cancer de la prostate permet de traiter de nombreuses personnes, y compris des gens qui avaient une plus grande probabilité de développer un cancer ultérieurement.",
+            "correct": false
+          },
+          {
+            "text": "Il faut commencer la détection précoce du cancer de la prostate bien avant l’âge de 50 ans.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Veuillez lire attentivement le texte ci-dessous. Répondez ensuite à la question suivante.<br/><br/>Les bactéries peuvent se diviser de façon binaire (en donnant deux bactéries) en un intervalle de temps donné appelé « temps de génération ».<br/>Le temps de génération dépend de l’espèce de bactérie en question et des conditions de culture.<br/>Le temps de génération d’une bactérie du genre <i>Escherichia</i> est de 30 minutes lorsque cette bactérie se trouve dans un environnement favorable et est cultivée à 37°C.<br/>Le temps de génération de <i>Mycobacterium tuberculosis</i>, la bactérie responsable de la tuberculose, est de six heures.<br/>Le temps de génération d’un spirochète est quatre fois plus important que celui de <i>Mycobacterium tuberculosis</i>.<br/>Le temps de génération de ces différentes bactéries est au moins deux fois plus important lorsque ces bactéries sont cultivées dans le même milieu mais à une température de 3°C plus haute ou plus basse que la température optimale.<br/><br/>Laquelle des propositions suivantes est correcte ?",
+        "answers": [
+          {
+            "text": "S’il faut une semaine pour obtenir une culture contenant 1 million de spirochètes dans des conditions de croissance optimales (milieu et température), il faudra au maximum 2 fois plus de temps pour obtenir 1 million de spirochètes dans une culture identique (même nombre de bactéries de départ et même composition du milieu) réalisée 3° plus haut.",
+            "correct": false
+          },
+          {
+            "text": "Si la bactérie <i>Escherichia</i> est cultivée à 37°C dans un milieu et des conditions favorables, il y aura au moins 50 fois plus de bactéries dans la culture, après 3 heures de culture.",
+            "correct": true
+          },
+          {
+            "text": "Si une culture contient 10 fois plus de spirochètes que de bactéries du genre <i>Escherichia</i> après 1 heure de culture, cette culture contiendra au moins autant de bactéries <i>Escherichia</i> que de spirochètes après 2 heures de culture dans des conditions favorables à la croissance des 2 bactéries.",
+            "correct": false
+          },
+          {
+            "text": "Une culture contient, au départ, un même nombre de spirochètes et de mycobactéries. Après 3 jours de culture dans un environnement favorable, cette culture comportera moins de 12 fois plus de mycobactéries que de spirochètes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon un rapport de l’Institut de santé publique, la répartition par mode probable de transmission (du virus du SIDA) des patients atteints du SIDA était la suivante :<br/><img src=\"images/EXMD/Q201907/Raisonnement/Capture13.PNG\" alt=\"Capture13\" /><br/>Le diagramme du dessus indique les pourcentages pour l’ensemble des patients répertoriés (belges et non-belges). Les diagrammes du bas détaillent le cas des patients belges (à gauche) et non-belges (à droite) de la même cohorte.<br/>Selon les diagrammes présentés…",
+        "answers": [
+          {
+            "text": "2% des personnes qui ont recours à l’injection intraveineuse de drogues se contaminent par le virus du SIDA.",
+            "correct": false
+          },
+          {
+            "text": "la transmission du virus du SIDA se fait le plus souvent par contact homosexuel.",
+            "correct": false
+          },
+          {
+            "text": "la transmission du virus du SIDA se fait toujours, soit par contact sexuel, soit par injection intraveineuse de drogues.",
+            "correct": false
+          },
+          {
+            "text": "la transmission du virus du SIDA est plus souvent liée aux contacts sexuels en général chez les Belges que chez les non-Belges.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "422 millions d’adultes souffraient du diabète en 2014, soit un adulte sur 11. Le nombre de diabétiques augmente : il a été multiplié par 4 depuis 1990. Le diabète entraîne fréquemment des conséquences graves comme la cécité, les accidents vasculaires cérébraux, l’insuffisance rénale et l’amputation des membres inférieurs.<br/>L’OMS (Organisation Mondiale de la Santé) et la FID (Fédération Internationale du Diabète) préconisent que les états mènent des campagnes promouvant une alimentation saine et la pratique de l’exercice physique qui réduisent les risques de diabète. Ces mêmes organisations recommandent que les états investissent dans le dépistage précoce qui réduit les risques de conséquences graves. Le tableau ci-dessous (source : FID, 2013) donne les estimations du nombre de personnes atteintes par région et les projections pour 2035. Il donne également des estimations de la prévalence relative de la maladie, i.e., le pourcentage de la population adulte atteinte de diabète.<br/><img src=\"images/EXMD/Q201907/Raisonnement/Capture14.PNG\" alt=\"Capture14\" /><br/>Abréviations :<br/>AFR : Afrique subsaharienne ; EUR : Europe ; MENA : Moyen-Orient et Afrique du Nord ; NAC : Amérique du Nord ; SACA : Amérique centrale et du Sud ; SEA : Asie du Sud-Est ; WP : Pacifique occidental.<br/><br/>Dans les pays pauvres le dépistage précoce est généralement insuffisant de sorte que le diabète n’est souvent découvert que lors de complications. En Côte d’Ivoire, par exemple, 70% des cas sont découverts lors de complications. Lorsque ces complications entraînent des conséquences graves, le patient devient une charge pour sa famille en l’absence d’un système de sécurité sociale développé. Par ailleurs, même en cas de dépistage précoce, le coût du traitement par l’insuline n’est pas supportable par les familles pauvres. En Afrique, il représente 17% du budget annuel moyen d’une famille.<br/><br/>Un article du journal Le Monde est daté du 6 mars 2019 titre « Le diabète, bombe à retardement pour l’Afrique ». Au vu des informations contenues dans le texte et le tableau ci-dessus, ce titre est…",
+        "answers": [
+          {
+            "text": "exagéré car l’Afrique est la région où la prévalence du diabète est la plus faible : elle ne compte « que » 19,8 millions de diabétiques en 2013.",
+            "correct": false
+          },
+          {
+            "text": "exagéré car, même si l’augmentation du nombre de personnes atteintes est rapide, ce nombre devrait rester inférieur à celui de presque toutes les autres régions du monde jusqu’en 2035. Et il en va de même de la prévalence de la maladie.",
+            "correct": false
+          },
+          {
+            "text": "justifié car les coûts humains, sociaux et financiers de la maladie vont inévitablement plus que doubler dans les 20 prochaines années, suite à l’évolution du nombre de patients.",
+            "correct": false
+          },
+          {
+            "text": "justifié car la situation, déjà préoccupante, va aller en s’aggravant rapidement, à moins que l’aide internationale et l’implication des états concernés ne permettent une détection et un traitement précoces des patients, ainsi que la mise en place de politiques de prévention efficaces.",
+            "correct": true
           }
         ]
       }

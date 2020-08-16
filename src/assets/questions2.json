@@ -1,0 +1,27 @@
+{
+  "topic": "Physique",
+  "session": "201307",
+  "questions": [
+    {
+      "text": "Sur la figure ci-dessous, le champ électrique  qui règne au point P est orienté:",
+      "answers": [
+        {
+          "text": "vers la gauche",
+          "correct": false
+        },
+        {
+          "text": "vers le bas",
+          "correct": true
+        },
+        {
+          "text": "vers la droite",
+          "correct": false
+        },
+        {
+          "text": "vers le haut",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -6,13 +6,13 @@ import { AppComponent } from './app.component';
 import {CoreModule} from "./core";
 import { QuizComponent } from './quiz/quiz.component';
 import {
-  AccordionModule,
-  ButtonModule, ConfirmationService,
-  ConfirmDialogModule,
-  DeferModule, InputNumberModule, InputTextModule,
-  MultiSelectModule,
-  PanelModule,
-  RadioButtonModule, TableModule
+    AccordionModule,
+    ButtonModule, ConfirmationService,
+    ConfirmDialogModule,
+    DeferModule, InputNumberModule, InputTextModule, MessagesModule,
+    MultiSelectModule,
+    PanelModule,
+    RadioButtonModule, TableModule
 } from "primeng";
 import {FormsModule} from "@angular/forms";
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
@@ -34,23 +34,24 @@ import { ContactComponent } from './contact/contact.component';
     SourcesComponent,
     ContactComponent
   ],
-  imports: [
-    FormsModule,
-    BrowserModule,
-    CoreModule,
-    AppRoutingModule,
-    ButtonModule,
-    MultiSelectModule,
-    AccordionModule,
-    PanelModule,
-    BrowserAnimationsModule,
-    RadioButtonModule,
-    DeferModule,
-    ConfirmDialogModule,
-    InputTextModule,
-    InputNumberModule,
-    TableModule
-  ],
+    imports: [
+        FormsModule,
+        BrowserModule,
+        CoreModule,
+        AppRoutingModule,
+        ButtonModule,
+        MultiSelectModule,
+        AccordionModule,
+        PanelModule,
+        BrowserAnimationsModule,
+        RadioButtonModule,
+        DeferModule,
+        ConfirmDialogModule,
+        InputTextModule,
+        InputNumberModule,
+        TableModule,
+        MessagesModule
+    ],
   providers: [ConfirmationService],
   bootstrap: [AppComponent]
 })

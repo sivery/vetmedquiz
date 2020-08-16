@@ -4636,27 +4636,6 @@
         ]
       },
       {
-        "text": "Sur la figure ci-dessous, le champ électrique  qui règne au point P est orienté:",
-        "answers": [
-          {
-            "text": "vers la gauche",
-            "correct": false
-          },
-          {
-            "text": "vers le bas",
-            "correct": true
-          },
-          {
-            "text": "vers la droite",
-            "correct": false
-          },
-          {
-            "text": "vers le haut",
-            "correct": false
-          }
-        ]
-      },
-      {
         "text": "Deux charges électriques de 1 C et de 4 C sont distantes de 1 m. A quelle distance de la charge de 1 C a-t-on un champ électrique nul ?",
         "answers": [
           {
@@ -36219,6 +36198,139 @@
           },
           {
             "text": "K<sub>p</sub> = <div class=\"frac\"><span>2<i>x²</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(1,0−2<i>x</i>)</span></div>",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Raisonnement",
+    "session": "EXMD Juillet 2019",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/EXMD/Q201907/Raisonnement/text.pdf\">le texte</a> avant de répondre aux questions.",
+    "questions": [
+      {
+        "text": "Quel titre serait le plus approprié pour ce texte ?",
+        "answers": [
+          {
+            "text": "Critique des sciences européennes.",
+            "correct": false
+          },
+          {
+            "text": "L’apologie du temps libre.",
+            "correct": false
+          },
+          {
+            "text": "La crise du travail.",
+            "correct": true
+          },
+          {
+            "text": "Ode à Heidegger.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon Hannah Arendt…",
+        "answers": [
+          {
+            "text": "la conception moderne du travail inclut en son sein toutes les tâches y compris celles qui pourraient être qualifiées autrement, comme l’activité intellectuelle ou la politique.",
+            "correct": true
+          },
+          {
+            "text": "la technologie moderne a fait émerger l’idée de l’abolition du travail pour l’Homme.",
+            "correct": false
+          },
+          {
+            "text": "la <i>skholè</i> représente l’horreur économique vers laquelle l’Homme se dirige inéluctablement.",
+            "correct": false
+          },
+          {
+            "text": "la technologie libérera l’Homme des contraintes du travail, lui permettant ainsi une vie nonchalante d’inactivité, ce qu’elle perçoit comme positif.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les phrases suivantes, laquelle rend le mieux compte de la pensée de Hannah Arendt ?",
+        "answers": [
+          {
+            "text": "Pour Hannah Arendt, il existe actuellement une glorification du travail qui implique que tout le monde désire travailler, peu importe la difficulté ou l’inconfort que le travail peut générer.",
+            "correct": false
+          },
+          {
+            "text": "Pour Hannah Arendt, la <i>skholè</i> pour tous est impossible car il faudra toujours un grand nombre d’êtres humains pour s’occuper des machines.",
+            "correct": false
+          },
+          {
+            "text": "Pour Hannah Arendt, il y a de quoi se réjouir : la <i>skholè</i> n’était que le privilège d’une minorité qui demandait une société esclavagiste alors que bientôt elle sera accessible à tous car la technique permet l’abolition de la classe des esclaves.",
+            "correct": false
+          },
+          {
+            "text": "Bien que la <i>skholè</i> soit initialement différente de l’inactivité en ce qu’elle représente l’ensemble des activités nobles mais hors travail, H. Arendt postule que, compte tenu des conceptions actuelles du travail, l’abolition du travail n’aboutira pas à la <i>skholè</i> pour tous",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Dans ce texte, il est suggéré que…",
+        "answers": [
+          {
+            "text": "Marx voit dans la technologie moderne un moyen d’accéder à l’abolition du travail pour l’Homme et à une plus grande égalité.",
+            "correct": true
+          },
+          {
+            "text": "le concept de la table rase a été utilisé pour la première fois par Karl Marx.",
+            "correct": false
+          },
+          {
+            "text": "les travaux de Galilée, Newton et Descartes sont remis en cause par les « <i>sciences européennes</i> ».",
+            "correct": false
+          },
+          {
+            "text": "Nietzsche reproche à la rationalité technicienne d’empêcher le modèle de société de la Grèce antique de ré-émerger de nos jours.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans ce texte, il est suggéré que…",
+        "answers": [
+          {
+            "text": "les présidents, les rois, les premiers ministres voient souvent leurs fonctions comme une forme de <i>skholè</i>.",
+            "correct": false
+          },
+          {
+            "text": "les minorités ethniques étaient beaucoup plus privilégiées qu’actuellement, n’étant pas contraintes de travailler.",
+            "correct": false
+          },
+          {
+            "text": "Aristote était un grand défenseur de la libération des esclaves.",
+            "correct": false
+          },
+          {
+            "text": "pour H. Arendt, le développement sous le mode de production capitaliste constitue une crise de la vie humaine.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Dans ce texte, il est suggéré que, pour H. Arendt,…",
+        "answers": [
+          {
+            "text": "au travers de l’histoire, l’Homme a toujours désiré ne pas avoir à travailler.",
+            "correct": true
+          },
+          {
+            "text": "la conquête de l’espace et l’automatisation partagent des causes communes.",
+            "correct": false
+          },
+          {
+            "text": "la conquête de l’espace et l’automatisation partagent des conséquences communes.",
+            "correct": false
+          },
+          {
+            "text": "l’asservissement de l’Homme est un élément fondamental de la condition humaine.",
             "correct": false
           }
         ]

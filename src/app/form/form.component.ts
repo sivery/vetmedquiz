@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {SelectItem} from "primeng";
+import {SelectItem, Message} from "primeng";
 import {Constants} from "@app/data/constants";
 import {QuestionForm, QuestionSet} from "@app/data/questions";
 import {HttpClient} from "@angular/common/http";
@@ -14,6 +14,8 @@ import {QuizUtils} from "@app/utils/quiz-utils";
 export class FormComponent implements OnInit {
 
   public Math = Math;
+
+  public msgs: Message[] = [];
 
   public nbrQuestions: number = 0;
 
@@ -76,6 +78,12 @@ export class FormComponent implements OnInit {
       self.selectedQuestionSets = self.selectedQuestionSets.concat(self.questionSets);
       self.countQuestions();
     });
+
+    self.showMessage();
+  }
+
+  private showMessage() {
+    this.msgs.push({severity:'info', summary:'Nouveau (15/08)', detail:'Ajout du TOSS de Septembre 2019 (128 questions)'});
   }
 
   public selectQuestionSets() {

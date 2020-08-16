@@ -1,4 +1,8 @@
 <div class="ui-fluid p-formgrid p-grid">
+
+  <div class="p-col-12">
+    <p-messages [(value)]="msgs" [closable]="false"></p-messages>
+  </div>
   <div class="p-field p-col-12 p-md-6">
     <label for="topics">Matière(s)</label>
     <p-multiSelect id="topics" [options]="topics" [(ngModel)]="selectedTopics" (onChange)="selectQuestionSets()">

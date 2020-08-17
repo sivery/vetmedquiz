@@ -4636,27 +4636,6 @@
         ]
       },
       {
-        "text": "Sur la figure ci-dessous, le champ électrique  qui règne au point P est orienté:",
-        "answers": [
-          {
-            "text": "vers la gauche",
-            "correct": false
-          },
-          {
-            "text": "vers le bas",
-            "correct": true
-          },
-          {
-            "text": "vers la droite",
-            "correct": false
-          },
-          {
-            "text": "vers le haut",
-            "correct": false
-          }
-        ]
-      },
-      {
         "text": "Deux charges électriques de 1 C et de 4 C sont distantes de 1 m. A quelle distance de la charge de 1 C a-t-on un champ électrique nul ?",
         "answers": [
           {
@@ -36219,6 +36198,439 @@
           },
           {
             "text": "K<sub>p</sub> = <div class=\"frac\"><span>2<i>x²</i></span><span class=\"symbol\">/</span><span class=\"bottom\">(1,0−2<i>x</i>)</span></div>",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Raisonnement",
+    "session": "EXMD Juillet 2019",
+    "pretext": "Veuillez lire attentivement <a target=\"_blank\" href=\"images/EXMD/Q201907/Raisonnement/text.pdf\">le texte</a> pour répondre aux questions 1 à 6.",
+    "questions": [
+      {
+        "text": "Quel titre serait le plus approprié pour ce texte ?",
+        "answers": [
+          {
+            "text": "Critique des sciences européennes.",
+            "correct": false
+          },
+          {
+            "text": "L’apologie du temps libre.",
+            "correct": false
+          },
+          {
+            "text": "La crise du travail.",
+            "correct": true
+          },
+          {
+            "text": "Ode à Heidegger.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon Hannah Arendt…",
+        "answers": [
+          {
+            "text": "la conception moderne du travail inclut en son sein toutes les tâches y compris celles qui pourraient être qualifiées autrement, comme l’activité intellectuelle ou la politique.",
+            "correct": true
+          },
+          {
+            "text": "la technologie moderne a fait émerger l’idée de l’abolition du travail pour l’Homme.",
+            "correct": false
+          },
+          {
+            "text": "la <i>skholè</i> représente l’horreur économique vers laquelle l’Homme se dirige inéluctablement.",
+            "correct": false
+          },
+          {
+            "text": "la technologie libérera l’Homme des contraintes du travail, lui permettant ainsi une vie nonchalante d’inactivité, ce qu’elle perçoit comme positif.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les phrases suivantes, laquelle rend le mieux compte de la pensée de Hannah Arendt ?",
+        "answers": [
+          {
+            "text": "Pour Hannah Arendt, il existe actuellement une glorification du travail qui implique que tout le monde désire travailler, peu importe la difficulté ou l’inconfort que le travail peut générer.",
+            "correct": false
+          },
+          {
+            "text": "Pour Hannah Arendt, la <i>skholè</i> pour tous est impossible car il faudra toujours un grand nombre d’êtres humains pour s’occuper des machines.",
+            "correct": false
+          },
+          {
+            "text": "Pour Hannah Arendt, il y a de quoi se réjouir : la <i>skholè</i> n’était que le privilège d’une minorité qui demandait une société esclavagiste alors que bientôt elle sera accessible à tous car la technique permet l’abolition de la classe des esclaves.",
+            "correct": false
+          },
+          {
+            "text": "Bien que la <i>skholè</i> soit initialement différente de l’inactivité en ce qu’elle représente l’ensemble des activités nobles mais hors travail, H. Arendt postule que, compte tenu des conceptions actuelles du travail, l’abolition du travail n’aboutira pas à la <i>skholè</i> pour tous",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Dans ce texte, il est suggéré que…",
+        "answers": [
+          {
+            "text": "Marx voit dans la technologie moderne un moyen d’accéder à l’abolition du travail pour l’Homme et à une plus grande égalité.",
+            "correct": true
+          },
+          {
+            "text": "le concept de la table rase a été utilisé pour la première fois par Karl Marx.",
+            "correct": false
+          },
+          {
+            "text": "les travaux de Galilée, Newton et Descartes sont remis en cause par les « <i>sciences européennes</i> ».",
+            "correct": false
+          },
+          {
+            "text": "Nietzsche reproche à la rationalité technicienne d’empêcher le modèle de société de la Grèce antique de ré-émerger de nos jours.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans ce texte, il est suggéré que…",
+        "answers": [
+          {
+            "text": "les présidents, les rois, les premiers ministres voient souvent leurs fonctions comme une forme de <i>skholè</i>.",
+            "correct": false
+          },
+          {
+            "text": "les minorités ethniques étaient beaucoup plus privilégiées qu’actuellement, n’étant pas contraintes de travailler.",
+            "correct": false
+          },
+          {
+            "text": "Aristote était un grand défenseur de la libération des esclaves.",
+            "correct": false
+          },
+          {
+            "text": "pour H. Arendt, le développement sous le mode de production capitaliste constitue une crise de la vie humaine.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Dans ce texte, il est suggéré que, pour H. Arendt,…",
+        "answers": [
+          {
+            "text": "au travers de l’histoire, l’Homme a toujours désiré ne pas avoir à travailler.",
+            "correct": true
+          },
+          {
+            "text": "la conquête de l’espace et l’automatisation partagent des causes communes.",
+            "correct": false
+          },
+          {
+            "text": "la conquête de l’espace et l’automatisation partagent des conséquences communes.",
+            "correct": false
+          },
+          {
+            "text": "l’asservissement de l’Homme est un élément fondamental de la condition humaine.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Sauf exception, pour qu’un patient soit partiellement remboursé par sa mutuelle des frais que lui occasionnent ses problèmes de santé, il faut et il suffit qu’il soit en ordre de cotisation et fasse parvenir à sa mutualité les documents attestant des soins qu’il a reçus. Mais voici que j’attends depuis des mois que ma mutuelle me rembourse les frais que m’ont occasionnés mes dernières visites chez le dentiste. Or ceux-ci n’avaient rien d’exceptionnel.<br/>Quelle est l’explication la plus probable ?",
+        "answers": [
+          {
+            "text": "J’ai oublié de payer ma cotisation.",
+            "correct": false
+          },
+          {
+            "text": "J’ai oublié d’envoyer mes attestations de soin.",
+            "correct": false
+          },
+          {
+            "text": "J’ai oublié de payer ma cotisation et d’envoyer mes attestations de soin.",
+            "correct": false
+          },
+          {
+            "text": "J’ai oublié de payer ma cotisation ou d’envoyer mes attestations de soin.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une équipe de chercheurs s’est penchée sur la question de la détection précoce du cancer de la prostate (soit par toucher de la prostate soit par dosage sanguin, PSA). Deux groupes d’hommes de 50 ans et plus ont été testés ; 1000 appartiennent au groupe contrôle sans détection précoce, 1000 appartiennent au groupe avec détection précoce. Soit le tableau suivant (Ilic et al. 2013) :<br/><img src=\"images/EXMD/Q201907/Raisonnement/Capture10.PNG\" alt=\"Capture10\" /><br/>Quelles sont les conclusions que l’on peut tirer du texte et du tableau ci-dessus ?",
+        "answers": [
+          {
+            "text": "7 personnes sont décédées malgré la détection précoce du cancer de la prostate, mais 20 personnes ont été sauvées grâce à cette détection.",
+            "correct": false
+          },
+          {
+            "text": "La détection précoce du cancer de la prostate ne semble pas utile.",
+            "correct": true
+          },
+          {
+            "text": "La détection précoce du cancer de la prostate permet de traiter de nombreuses personnes, y compris des gens qui avaient une plus grande probabilité de développer un cancer ultérieurement.",
+            "correct": false
+          },
+          {
+            "text": "Il faut commencer la détection précoce du cancer de la prostate bien avant l’âge de 50 ans.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Veuillez lire attentivement le texte ci-dessous. Répondez ensuite à la question suivante.<br/><br/>Les bactéries peuvent se diviser de façon binaire (en donnant deux bactéries) en un intervalle de temps donné appelé « temps de génération ».<br/>Le temps de génération dépend de l’espèce de bactérie en question et des conditions de culture.<br/>Le temps de génération d’une bactérie du genre <i>Escherichia</i> est de 30 minutes lorsque cette bactérie se trouve dans un environnement favorable et est cultivée à 37°C.<br/>Le temps de génération de <i>Mycobacterium tuberculosis</i>, la bactérie responsable de la tuberculose, est de six heures.<br/>Le temps de génération d’un spirochète est quatre fois plus important que celui de <i>Mycobacterium tuberculosis</i>.<br/>Le temps de génération de ces différentes bactéries est au moins deux fois plus important lorsque ces bactéries sont cultivées dans le même milieu mais à une température de 3°C plus haute ou plus basse que la température optimale.<br/><br/>Laquelle des propositions suivantes est correcte ?",
+        "answers": [
+          {
+            "text": "S’il faut une semaine pour obtenir une culture contenant 1 million de spirochètes dans des conditions de croissance optimales (milieu et température), il faudra au maximum 2 fois plus de temps pour obtenir 1 million de spirochètes dans une culture identique (même nombre de bactéries de départ et même composition du milieu) réalisée 3° plus haut.",
+            "correct": false
+          },
+          {
+            "text": "Si la bactérie <i>Escherichia</i> est cultivée à 37°C dans un milieu et des conditions favorables, il y aura au moins 50 fois plus de bactéries dans la culture, après 3 heures de culture.",
+            "correct": true
+          },
+          {
+            "text": "Si une culture contient 10 fois plus de spirochètes que de bactéries du genre <i>Escherichia</i> après 1 heure de culture, cette culture contiendra au moins autant de bactéries <i>Escherichia</i> que de spirochètes après 2 heures de culture dans des conditions favorables à la croissance des 2 bactéries.",
+            "correct": false
+          },
+          {
+            "text": "Une culture contient, au départ, un même nombre de spirochètes et de mycobactéries. Après 3 jours de culture dans un environnement favorable, cette culture comportera moins de 12 fois plus de mycobactéries que de spirochètes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Selon un rapport de l’Institut de santé publique, la répartition par mode probable de transmission (du virus du SIDA) des patients atteints du SIDA était la suivante :<br/><img src=\"images/EXMD/Q201907/Raisonnement/Capture13.PNG\" alt=\"Capture13\" /><br/>Le diagramme du dessus indique les pourcentages pour l’ensemble des patients répertoriés (belges et non-belges). Les diagrammes du bas détaillent le cas des patients belges (à gauche) et non-belges (à droite) de la même cohorte.<br/>Selon les diagrammes présentés…",
+        "answers": [
+          {
+            "text": "2% des personnes qui ont recours à l’injection intraveineuse de drogues se contaminent par le virus du SIDA.",
+            "correct": false
+          },
+          {
+            "text": "la transmission du virus du SIDA se fait le plus souvent par contact homosexuel.",
+            "correct": false
+          },
+          {
+            "text": "la transmission du virus du SIDA se fait toujours, soit par contact sexuel, soit par injection intraveineuse de drogues.",
+            "correct": false
+          },
+          {
+            "text": "la transmission du virus du SIDA est plus souvent liée aux contacts sexuels en général chez les Belges que chez les non-Belges.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "422 millions d’adultes souffraient du diabète en 2014, soit un adulte sur 11. Le nombre de diabétiques augmente : il a été multiplié par 4 depuis 1990. Le diabète entraîne fréquemment des conséquences graves comme la cécité, les accidents vasculaires cérébraux, l’insuffisance rénale et l’amputation des membres inférieurs.<br/>L’OMS (Organisation Mondiale de la Santé) et la FID (Fédération Internationale du Diabète) préconisent que les états mènent des campagnes promouvant une alimentation saine et la pratique de l’exercice physique qui réduisent les risques de diabète. Ces mêmes organisations recommandent que les états investissent dans le dépistage précoce qui réduit les risques de conséquences graves. Le tableau ci-dessous (source : FID, 2013) donne les estimations du nombre de personnes atteintes par région et les projections pour 2035. Il donne également des estimations de la prévalence relative de la maladie, i.e., le pourcentage de la population adulte atteinte de diabète.<br/><img src=\"images/EXMD/Q201907/Raisonnement/Capture14.PNG\" alt=\"Capture14\" /><br/>Abréviations :<br/>AFR : Afrique subsaharienne ; EUR : Europe ; MENA : Moyen-Orient et Afrique du Nord ; NAC : Amérique du Nord ; SACA : Amérique centrale et du Sud ; SEA : Asie du Sud-Est ; WP : Pacifique occidental.<br/><br/>Dans les pays pauvres le dépistage précoce est généralement insuffisant de sorte que le diabète n’est souvent découvert que lors de complications. En Côte d’Ivoire, par exemple, 70% des cas sont découverts lors de complications. Lorsque ces complications entraînent des conséquences graves, le patient devient une charge pour sa famille en l’absence d’un système de sécurité sociale développé. Par ailleurs, même en cas de dépistage précoce, le coût du traitement par l’insuline n’est pas supportable par les familles pauvres. En Afrique, il représente 17% du budget annuel moyen d’une famille.<br/><br/>Un article du journal Le Monde est daté du 6 mars 2019 titre « Le diabète, bombe à retardement pour l’Afrique ». Au vu des informations contenues dans le texte et le tableau ci-dessus, ce titre est…",
+        "answers": [
+          {
+            "text": "exagéré car l’Afrique est la région où la prévalence du diabète est la plus faible : elle ne compte « que » 19,8 millions de diabétiques en 2013.",
+            "correct": false
+          },
+          {
+            "text": "exagéré car, même si l’augmentation du nombre de personnes atteintes est rapide, ce nombre devrait rester inférieur à celui de presque toutes les autres régions du monde jusqu’en 2035. Et il en va de même de la prévalence de la maladie.",
+            "correct": false
+          },
+          {
+            "text": "justifié car les coûts humains, sociaux et financiers de la maladie vont inévitablement plus que doubler dans les 20 prochaines années, suite à l’évolution du nombre de patients.",
+            "correct": false
+          },
+          {
+            "text": "justifié car la situation, déjà préoccupante, va aller en s’aggravant rapidement, à moins que l’aide internationale et l’implication des états concernés ne permettent une détection et un traitement précoces des patients, ainsi que la mise en place de politiques de prévention efficaces.",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Communication",
+    "session": "EXMD Juillet 2019",
+    "questions": [
+      {
+        "text": "Vous êtes médecin généraliste et vous recevez Madame D. en consultation. Elle est votre patiente depuis de nombreuses années. Elle souffre d’hypertension et prend des médicaments pour cela. Elle vous rend régulièrement visite uniquement pour se procurer une ordonnance. Aujourd’hui, elle est de retour en consultation.<br/>Quelle est la meilleure phrase d’ouverture de cette consultation ?",
+        "answers": [
+          {
+            "text": "Bonjour, Madame D. Je vérifie votre dossier et rédige votre ordonnance.",
+            "correct": false
+          },
+          {
+            "text": "Et alors, comment va votre tension depuis la dernière fois ?",
+            "correct": false
+          },
+          {
+            "text": "Ah, vous venez pour une nouvelle ordonnance pour votre tension !",
+            "correct": false
+          },
+          {
+            "text": "Madame D., que puis-je faire pour vous aujourd’hui ?",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Vous rendez visite à un ami qui va devenir bientôt père. Il vous raconte que depuis son mariage, ses rapports avec son père se sont détériorés. D’une part, il aimerait lui proposer de devenir parrain mais d’autre part, il craint que son père ne trouve pas le temps pour donner de l’attention à son enfant. Il vous demande donc de devenir parrain.<br/>Comment pouvez-vous entamer au mieux une conversation constructive et franche avec votre ami ?",
+        "answers": [
+          {
+            "text": "Je me rends compte que tu attends beaucoup d’un parrain, et je ne vais pas te décevoir. Je serai de toute façon plus disponible que ton père.",
+            "correct": false
+          },
+          {
+            "text": "Je serais heureux d’être parrain mais n’attendrais-tu pas d’avoir eu d’abord une conversation avec ton père ?",
+            "correct": true
+          },
+          {
+            "text": "Je crois que ton père préférera devenir lui-même le parrain et t’en voudra si tu ne lui donnes pas la possibilité de choisir.",
+            "correct": false
+          },
+          {
+            "text": "Cela est et reste ton père et tu dois prendre cette occasion unique pour rétablir la relation avec lui. Les petits-enfants rapprochent souvent les générations.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Votre petit frère de 13 ans a eu plusieurs évaluations inférieures à 5/10 ces derniers temps à l’école, alors que c’est en général un bon élève. Vous avez remarqué qu’il semblait se désintéresser de son travail scolaire et n’essayait pas d’appliquer les recommandations de vos parents.<br/>Que pourriez-vous lui dire ?",
+        "answers": [
+          {
+            "text": "Que t’arrive-t-il ? Est-ce un problème avec les parents ? Est-ce que tu as un problème avec ta copine en ce moment ? Ou est-ce que tu te fais racketter à l’école ?",
+            "correct": false
+          },
+          {
+            "text": "Tu avais de très bons points auparavant. Qu’est-ce qui se passe ? Il faudrait que tu te reprennes rapidement.",
+            "correct": false
+          },
+          {
+            "text": "Est-il possible que tu essaies d’améliorer certaines matières ? Je comprends bien que tout ne soit pas facile, mais les maths étaient ton point fort, non ?",
+            "correct": false
+          },
+          {
+            "text": "J’ai remarqué que tu semblais te désintéresser de ton travail à l’école. Cela me préoccupe pour le reste de l’année. Qu’en penses-tu ?",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Vous avez tout essayé mais votre ami R., qui a trop bu, ne veut rien entendre. Il monte dans sa voiture et démarre.<br/>Que faites-vous ?",
+        "answers": [
+          {
+            "text": "Demain matin, vous lui téléphonerez pour lui dire qu’il devrait consulter un médecin ou les alcooliques anonymes.",
+            "correct": false
+          },
+          {
+            "text": "Vous ne faites rien : il est majeur et sain d’esprit ; sans consentement de sa part, vous ne pouvez pas agir.",
+            "correct": false
+          },
+          {
+            "text": "Vous le prévenez que vous allez appeler la police et s’il s’obstine, vous le faites vraiment.",
+            "correct": true
+          },
+          {
+            "text": "Vous décidez de respecter son libre-arbitre, quoi qu’il fasse.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Vous sortez prendre l’air et vous voyez votre belle-sœur, M., qui fume une cigarette en cachette alors qu’elle est enceinte.<br/>Quelle est votre réaction ?",
+        "answers": [
+          {
+            "text": "Vous dites, avec tact, à M. que ce n’est pas bon pour le bébé.",
+            "correct": false
+          },
+          {
+            "text": "Vous faites semblant de n’avoir rien vu.",
+            "correct": false
+          },
+          {
+            "text": "Vous le dites à votre frère, son mari.",
+            "correct": false
+          },
+          {
+            "text": "Vous demandez à M. comment elle se sent.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Ce soir, c’est la soirée annuelle de la société où votre père travaille depuis plus de 20 ans. Comme chaque année, E., le patron de votre père, incite tout le monde à boire. E. se décrit comme un bon vivant et pousse assez lourdement à la consommation. Votre père n’a pas envie de boire. Il vous demande conseil.<br/>Que lui suggérez-vous ?",
+        "answers": [
+          {
+            "text": "De dire à E. : « Je suis très heureux d’être ici à cette fête mais je ne vais pas boire aujourd’hui ; ça ne vous gêne pas, j’espère ? »",
+            "correct": true
+          },
+          {
+            "text": "De se taire et de simplement boire une bière comme tout le monde.",
+            "correct": false
+          },
+          {
+            "text": "D’user d’un prétexte fallacieux et de dire à E. : « J’aimerais bien boire un coup avec vous, mais je suis sous antibiotiques et je ne peux hélas pas boire. »",
+            "correct": false
+          },
+          {
+            "text": "D’accepter une boisson alcoolisée sans rien dire, mais de ne pas la consommer.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Il est 8 h 30. Votre agenda de consultation est rempli jusqu’à 12 h. Une patiente très anxieuse fait irruption dans votre salle d’attente. Elle n’a pas pris rendez-vous et exige de voir un médecin sur le champ. Vous n’avez plus de place pour la moindre consultation aujourd’hui.<br/>Comment réagissez-vous ?",
+        "answers": [
+          {
+            "text": "Vous lui proposez de la recevoir sur le temps de midi.",
+            "correct": true
+          },
+          {
+            "text": "Vous envoyez votre secrétaire qui lui donnera un rendez-vous.",
+            "correct": false
+          },
+          {
+            "text": "Vous lui expliquez qu’elle n’a pas rendez-vous mais qu’elle peut en prendre un auprès de votre secrétaire pour un autre jour.",
+            "correct": false
+          },
+          {
+            "text": "Vous la recevez immédiatement, car vous craignez qu’il y ait urgence.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Comme médecin, si vous deviez aborder des questions délicates avec vos patients (sexualité, drogue, mort, violence conjugale...), comment vous y prendriez-vous ?",
+        "answers": [
+          {
+            "text": "Vous attendrez que les patients en parlent d’eux-mêmes tout en étant ouvert(e) d’esprit et réceptif(ve) aux questions.",
+            "correct": false
+          },
+          {
+            "text": "Vous les glisserez parmi d’autres questions médicales.",
+            "correct": false
+          },
+          {
+            "text": "Vous demanderez la permission au patient.",
+            "correct": true
+          },
+          {
+            "text": "Vous donnerez un questionnaire écrit aux patients.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Pour assurer une bonne efficacité de la communication médecin/patient, comment faut-il voir la consultation ?",
+        "answers": [
+          {
+            "text": "Comme une relation professionnelle au service de la santé du patient.",
+            "correct": true
+          },
+          {
+            "text": "Comme une rencontre chaleureuse sur le mode amical.",
+            "correct": false
+          },
+          {
+            "text": "Comme une relation humaine bienveillante.",
+            "correct": false
+          },
+          {
+            "text": "Comme une éducation des patients face aux maladies et à leurs facteurs de risque (tabac, alimentation équilibrée, cancer...).",
             "correct": false
           }
         ]

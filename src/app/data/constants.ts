@@ -24,4 +24,6 @@ export class Constants {
   public static GFORM2017: string = 'Google Form 2017';
   public static GFORM2018: string = 'Google Form 2018';
   public static TOSSSSEP2019: string = 'TOSS Septembre 2019';
+  public static EXMDJUL2019: string = 'EXMD Juillet 2019';
+
 }

@@ -39,6 +39,7 @@ export class FormComponent implements OnInit {
   public selectedTopics: string[];
 
   public sessions: SelectItem[] = [
+    {label: Constants.EXMDJUL2019, value: Constants.EXMDJUL2019},
     {label: Constants.TOSSSSEP2019, value: Constants.TOSSSSEP2019},
     {label: Constants.GFORM2018, value: Constants.GFORM2018},
     {label: Constants.GFORM2017, value: Constants.GFORM2017},
@@ -84,6 +85,7 @@ export class FormComponent implements OnInit {
 
   private showMessage() {
     this.msgs.push({severity:'info', summary:'Nouveau (15/08)', detail:'Ajout du TOSS de Septembre 2019 (128 questions)'});
+    this.msgs.push({severity:'info', summary:'Nouveau (17/08)', detail:"Ajout de l'EXMD de Juillet 2019 (parties Raisonnement et Communication) (20 questions)"});
   }
 
   public selectQuestionSets() {

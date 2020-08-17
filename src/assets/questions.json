@@ -36441,5 +36441,200 @@
         ]
       }
     ]
+  },
+  {
+    "topic": "Communication",
+    "session": "EXMD Juillet 2019",
+    "questions": [
+      {
+        "text": "Vous êtes médecin généraliste et vous recevez Madame D. en consultation. Elle est votre patiente depuis de nombreuses années. Elle souffre d’hypertension et prend des médicaments pour cela. Elle vous rend régulièrement visite uniquement pour se procurer une ordonnance. Aujourd’hui, elle est de retour en consultation.<br/>Quelle est la meilleure phrase d’ouverture de cette consultation ?",
+        "answers": [
+          {
+            "text": "Bonjour, Madame D. Je vérifie votre dossier et rédige votre ordonnance.",
+            "correct": false
+          },
+          {
+            "text": "Et alors, comment va votre tension depuis la dernière fois ?",
+            "correct": false
+          },
+          {
+            "text": "Ah, vous venez pour une nouvelle ordonnance pour votre tension !",
+            "correct": false
+          },
+          {
+            "text": "Madame D., que puis-je faire pour vous aujourd’hui ?",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Vous rendez visite à un ami qui va devenir bientôt père. Il vous raconte que depuis son mariage, ses rapports avec son père se sont détériorés. D’une part, il aimerait lui proposer de devenir parrain mais d’autre part, il craint que son père ne trouve pas le temps pour donner de l’attention à son enfant. Il vous demande donc de devenir parrain.<br/>Comment pouvez-vous entamer au mieux une conversation constructive et franche avec votre ami ?",
+        "answers": [
+          {
+            "text": "Je me rends compte que tu attends beaucoup d’un parrain, et je ne vais pas te décevoir. Je serai de toute façon plus disponible que ton père.",
+            "correct": false
+          },
+          {
+            "text": "Je serais heureux d’être parrain mais n’attendrais-tu pas d’avoir eu d’abord une conversation avec ton père ?",
+            "correct": true
+          },
+          {
+            "text": "Je crois que ton père préférera devenir lui-même le parrain et t’en voudra si tu ne lui donnes pas la possibilité de choisir.",
+            "correct": false
+          },
+          {
+            "text": "Cela est et reste ton père et tu dois prendre cette occasion unique pour rétablir la relation avec lui. Les petits-enfants rapprochent souvent les générations.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Votre petit frère de 13 ans a eu plusieurs évaluations inférieures à 5/10 ces derniers temps à l’école, alors que c’est en général un bon élève. Vous avez remarqué qu’il semblait se désintéresser de son travail scolaire et n’essayait pas d’appliquer les recommandations de vos parents.<br/>Que pourriez-vous lui dire ?",
+        "answers": [
+          {
+            "text": "Que t’arrive-t-il ? Est-ce un problème avec les parents ? Est-ce que tu as un problème avec ta copine en ce moment ? Ou est-ce que tu te fais racketter à l’école ?",
+            "correct": false
+          },
+          {
+            "text": "Tu avais de très bons points auparavant. Qu’est-ce qui se passe ? Il faudrait que tu te reprennes rapidement.",
+            "correct": false
+          },
+          {
+            "text": "Est-il possible que tu essaies d’améliorer certaines matières ? Je comprends bien que tout ne soit pas facile, mais les maths étaient ton point fort, non ?",
+            "correct": false
+          },
+          {
+            "text": "J’ai remarqué que tu semblais te désintéresser de ton travail à l’école. Cela me préoccupe pour le reste de l’année. Qu’en penses-tu ?",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Vous avez tout essayé mais votre ami R., qui a trop bu, ne veut rien entendre. Il monte dans sa voiture et démarre.<br/>Que faites-vous ?",
+        "answers": [
+          {
+            "text": "Demain matin, vous lui téléphonerez pour lui dire qu’il devrait consulter un médecin ou les alcooliques anonymes.",
+            "correct": false
+          },
+          {
+            "text": "Vous ne faites rien : il est majeur et sain d’esprit ; sans consentement de sa part, vous ne pouvez pas agir.",
+            "correct": false
+          },
+          {
+            "text": "Vous le prévenez que vous allez appeler la police et s’il s’obstine, vous le faites vraiment.",
+            "correct": true
+          },
+          {
+            "text": "Vous décidez de respecter son libre-arbitre, quoi qu’il fasse.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Vous sortez prendre l’air et vous voyez votre belle-sœur, M., qui fume une cigarette en cachette alors qu’elle est enceinte.<br/>Quelle est votre réaction ?",
+        "answers": [
+          {
+            "text": "Vous dites, avec tact, à M. que ce n’est pas bon pour le bébé.",
+            "correct": false
+          },
+          {
+            "text": "Vous faites semblant de n’avoir rien vu.",
+            "correct": false
+          },
+          {
+            "text": "Vous le dites à votre frère, son mari.",
+            "correct": false
+          },
+          {
+            "text": "Vous demandez à M. comment elle se sent.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Ce soir, c’est la soirée annuelle de la société où votre père travaille depuis plus de 20 ans. Comme chaque année, E., le patron de votre père, incite tout le monde à boire. E. se décrit comme un bon vivant et pousse assez lourdement à la consommation. Votre père n’a pas envie de boire. Il vous demande conseil.<br/>Que lui suggérez-vous ?",
+        "answers": [
+          {
+            "text": "De dire à E. : « Je suis très heureux d’être ici à cette fête mais je ne vais pas boire aujourd’hui ; ça ne vous gêne pas, j’espère ? »",
+            "correct": true
+          },
+          {
+            "text": "De se taire et de simplement boire une bière comme tout le monde.",
+            "correct": false
+          },
+          {
+            "text": "D’user d’un prétexte fallacieux et de dire à E. : « J’aimerais bien boire un coup avec vous, mais je suis sous antibiotiques et je ne peux hélas pas boire. »",
+            "correct": false
+          },
+          {
+            "text": "D’accepter une boisson alcoolisée sans rien dire, mais de ne pas la consommer.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Il est 8 h 30. Votre agenda de consultation est rempli jusqu’à 12 h. Une patiente très anxieuse fait irruption dans votre salle d’attente. Elle n’a pas pris rendez-vous et exige de voir un médecin sur le champ. Vous n’avez plus de place pour la moindre consultation aujourd’hui.<br/>Comment réagissez-vous ?",
+        "answers": [
+          {
+            "text": "Vous lui proposez de la recevoir sur le temps de midi.",
+            "correct": true
+          },
+          {
+            "text": "Vous envoyez votre secrétaire qui lui donnera un rendez-vous.",
+            "correct": false
+          },
+          {
+            "text": "Vous lui expliquez qu’elle n’a pas rendez-vous mais qu’elle peut en prendre un auprès de votre secrétaire pour un autre jour.",
+            "correct": false
+          },
+          {
+            "text": "Vous la recevez immédiatement, car vous craignez qu’il y ait urgence.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Comme médecin, si vous deviez aborder des questions délicates avec vos patients (sexualité, drogue, mort, violence conjugale...), comment vous y prendriez-vous ?",
+        "answers": [
+          {
+            "text": "Vous attendrez que les patients en parlent d’eux-mêmes tout en étant ouvert(e) d’esprit et réceptif(ve) aux questions.",
+            "correct": false
+          },
+          {
+            "text": "Vous les glisserez parmi d’autres questions médicales.",
+            "correct": false
+          },
+          {
+            "text": "Vous demanderez la permission au patient.",
+            "correct": true
+          },
+          {
+            "text": "Vous donnerez un questionnaire écrit aux patients.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Pour assurer une bonne efficacité de la communication médecin/patient, comment faut-il voir la consultation ?",
+        "answers": [
+          {
+            "text": "Comme une relation professionnelle au service de la santé du patient.",
+            "correct": true
+          },
+          {
+            "text": "Comme une rencontre chaleureuse sur le mode amical.",
+            "correct": false
+          },
+          {
+            "text": "Comme une relation humaine bienveillante.",
+            "correct": false
+          },
+          {
+            "text": "Comme une éducation des patients face aux maladies et à leurs facteurs de risque (tabac, alimentation équilibrée, cancer...).",
+            "correct": false
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -14637,27 +14637,6 @@
         ]
       },
       {
-        "text": "Quel est le numéro atomique, le nombre de masse et le nombre de neutrons de ?",
-        "answers": [
-          {
-            "text": "28, 60, 32",
-            "correct": true
-          },
-          {
-            "text": "28, 60, 88",
-            "correct": false
-          },
-          {
-            "text": "60, 28, 32",
-            "correct": false
-          },
-          {
-            "text": "60, 28, 88",
-            "correct": false
-          }
-        ]
-      },
-      {
         "text": "Quelle est l’équation de formation de l’ion sulfure à partir du soufre ?",
         "answers": [
           {

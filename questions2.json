@@ -24,4 +24,32 @@
       ]
     }
   ]
+},
+{
+  "topic": "Chimie",
+  "session": "201309",
+  "pretext": "Un <a target=\"_blank\" href=\"images/Toss/QZMedia/qz_chim_1309_tableau_ok.jpg\">tableau périodique</a> reprenant les masses atomiques relatives est à votre disposition.",
+  "questions": [
+    {
+      "text": "Quel est le numéro atomique, le nombre de masse et le nombre de neutrons de ?",
+      "answers": [
+        {
+          "text": "28, 60, 32",
+          "correct": true
+        },
+        {
+          "text": "28, 60, 88",
+          "correct": false
+        },
+        {
+          "text": "60, 28, 32",
+          "correct": false
+        },
+        {
+          "text": "60, 28, 88",
+          "correct": false
+        }
+      ]
+    }
+  ]
 }

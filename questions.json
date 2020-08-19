@@ -36615,5 +36615,479 @@
         ]
       }
     ]
+  },
+  {
+    "topic": "Éthique",
+    "session": "EXMD Juillet 2019",
+    "questions": [
+      {
+        "text": "Les expériences utilisant des animaux de laboratoire réalisées dans des conditions contrôlées optimalisées et en accord avec la réglementation sur le bien-être animal peuvent être défendues.<br/>Sur le plan éthique, quelle est leur meilleure justification ?",
+        "answers": [
+          {
+            "text": "Le bilan en termes de souffrance animale demeure très inférieur à celui de l’alimentation.",
+            "correct": false
+          },
+          {
+            "text": "Le nombre d’êtres humains en souffrance sur la planète est en incessante croissance.",
+            "correct": false
+          },
+          {
+            "text": "Le développement économique de l’industrie pharmaceutique est une nécessité.",
+            "correct": false
+          },
+          {
+            "text": "Dans certains cas, il n’existe aucune autre solution technique praticable.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une équipe de recherche a découvert une nouvelle technique de modification du génome humain peu coûteuse et aisément praticable. Cette technique est très prometteuse pour un grand nombre de maladies héréditaires mais soulève également d’importantes questions d’ordre éthique.<br/>Laquelle des quatre affirmations suivantes est la plus acceptable sur le plan éthique ?",
+        "answers": [
+          {
+            "text": "Comme des techniques similaires ont déjà été utilisées ailleurs, il n’est pas nécessaire de s’inquiéter.",
+            "correct": false
+          },
+          {
+            "text": "Il s’agit de démarches purement technologiques qui ne posent donc pas de questions d'ordre éthique.",
+            "correct": false
+          },
+          {
+            "text": "La société a tout intérêt à ce que diminue le nombre d’individus fragiles qui lui coûtent cher",
+            "correct": false
+          },
+          {
+            "text": "Son utilisation doit faire l’objet d’un contrôle rigoureux afin d’éviter des dérives dommageables.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une dame âgée de 86 ans consulte pour des douleurs chroniques à l’abdomen. Elle est accompagnée de ses deux filles qui expliquent au médecin responsable que leur mère est très fragile psychologiquement et qu’il est préférable que les informations sur sa santé ne lui soient pas communiquées directement. Les examens révèlent que la patiente est atteinte d’un cancer du côlo nessaimé. La patiente ne pose aucune question.<br/>Quelle est la meilleure attitude de la part du médecin spécialiste ?",
+        "answers": [
+          {
+            "text": "Sachant que tout patient a le droit d’être informé de sa situation médicale, mais soucieux de minimiser les risques psychologiques, il l’adresse au médecin traitant.",
+            "correct": true
+          },
+          {
+            "text": "Il informe les filles de la patiente qui choisiront elles-mêmes l’attitude à adopter à l’égard de leur mère, vu sa fragilité psychologique.",
+            "correct": false
+          },
+          {
+            "text": "Il n’informe ni la patiente ni ses filles pour éviter une crispation du contexte psychologique totalement inutile.",
+            "correct": false
+          },
+          {
+            "text": "Il fixe un nouveau rendez-vous à la patiente en vue de l’informer en toute sérénité du résultat des examens.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La loi belge sur la procréation médicalement assistée (PMA) ne dit rien de l’orientation sexuelle des personnes susceptibles d’en bénéficier. Deux femmes en couple d’une trentaine d’années se présentent chez un gynécologue. Elles souhaitent recourir à une PMA pour avoir un enfant ensemble. Cependant, étant donné ses convictions personnelles, le gynécologue estime qu’il n’est pas acceptable de permettre à un couple homosexuel d’avoir accès à la PMA. Il explique ce point de vue aux deux patientes.<br/>Ensuite que fait-il ? Parmi les quatre possibilités exposées ci-après, identifiez la plus conforme à l’éthique.",
+        "answers": [
+          {
+            "text": "Il argumente pour tenter de persuader le couple de renoncer à leur projet de PMA.",
+            "correct": false
+          },
+          {
+            "text": "Il met fin à la consultation après avoir perçu les honoraires.",
+            "correct": false
+          },
+          {
+            "text": "Il met fin à l’entretien et dit aux patientes qu’il leur offre la consultation.",
+            "correct": false
+          },
+          {
+            "text": "Il clôture la consultation et oriente le couple vers un confrère.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "L’autonomie est un des principes essentiels de la bioéthique. Il y est souvent fait allusion dans les discussions et les débats.<br/>Selon vous, quelle est la proposition ci-après qui correspond le mieux au principe d’autonomie ?",
+        "answers": [
+          {
+            "text": "L’autonomie correspond au fait qu’une personne reste indépendante vis-à-vis des décisions médicales qui la concernent.",
+            "correct": false
+          },
+          {
+            "text": "L’autonomie correspond en premier lieu au fait qu’une personne a les capacités pour se déplacer sans contrainte.",
+            "correct": false
+          },
+          {
+            "text": "L’autonomie correspond au fait qu’une personne a le droit d’être informée et peut de la sorte prendre une décision plus appropriée à propos d’un traitement ou d’une intervention.",
+            "correct": true
+          },
+          {
+            "text": "L’autonomie correspond au fait qu’une personne peut exiger un traitement même si le médecin estime qu’il ne sera pas utile ou qu’il pourrait être dangereux.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Madame X., veuve de 83 ans, est admise dans une unité spécialisée pour les personnes présentant des troubles cognitifs au sein d’une maison de retraite. Madame X. a commencé à négliger son hygiène et a développé une irritation cutanée importante. Cependant, elle refuse d’être aidée pour sa toilette.<br/>Que faites-vous ?",
+        "answers": [
+          {
+            "text": "Vous ordonnez de faire procéder aux soins hygiéniques même si Madame X. fait part de sa désapprobation",
+            "correct": false
+          },
+          {
+            "text": "Vous respectez le choix de Madame X. : si elle ne souhaite pas se laver, on ne peut l’y contraindre par la force.",
+            "correct": false
+          },
+          {
+            "text": "Vous consultez la famille de Madame X. pour trouver une solution, en collaboration avec le personnel de la maison de retraite.",
+            "correct": true
+          },
+          {
+            "text": "Vous demandez à la famille de Madame X. de procéder elle-même aux soins hygiéniques.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un de vos amis souhaite se lancer en politique et en fait part sur les réseaux sociaux. Il est membre d’un parti qui lui propose de se mettre sur les listes électorales. Dans le cadre de sa campagne, il demande à ses patients de poser avec lui, dans leurs lieux de vie, sur les photos destinées à la promotion de sa candidature. Il est clairement indiqué qu’il s’agit de vrais patients et non d’acteurs ou de figurants. Les visages sont aisément reconnaissables. Votre ami reçoit quelques réactions négatives sur les réseaux sociaux et vous demande conseil.<br/>Que lui recommandez-vous ?",
+        "answers": [
+          {
+            "text": "Vous lui suggérez, afin qu’on voie bien que les patients sont d’accord, de recourir à des clips vidéos plutôt qu’à des photos.",
+            "correct": false
+          },
+          {
+            "text": "Vous lui suggérez de ne rien changer car il est normal que des patients soutiennent leur médecin. Il leur consacre beaucoup de temps. C’est une bonne façon de le remercier.",
+            "correct": false
+          },
+          {
+            "text": "Vous lui suggérez d’arrêter car le fait d’exposer des patients dans un but politique est à la fois une atteinte à la confidentialité et une instrumentalisation des patients.",
+            "correct": true
+          },
+          {
+            "text": "Vous lui suggérez de poursuivre car comme les patients sont d’accord, il n’y a pas d’atteinte à leur vie privée.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans une école secondaire, un des jeunes élèves est porteur du virus du VIH. Le personnel de la structure a été informé de la situation sans que soit révélée l’identité du jeune. Il leur est rappelé le protocole de gestion des risques en cas d’exposition au sang. Le personnel inquiet souhaite qu’on lui transmette l’identité du jeune.<br/>Quelle est l’attitude que le directeur devrait adopter ?",
+        "answers": [
+          {
+            "text": "Il accueille l’élève.",
+            "correct": true
+          },
+          {
+            "text": "Il informe le personnel et les autres élèves de l’identité du jeune séropositif.",
+            "correct": false
+          },
+          {
+            "text": "Il tente de faire en sorte que l’école ne doive pas accueillir un élève porteur du VIH.",
+            "correct": false
+          },
+          {
+            "text": "Il informe les parents des élèves de la classe de l'identité de l’enfant séropositif.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Madame X., une jeune femme de 26 ans souffrant d’un handicap mental, vit en couple avec son ami de 24 ans, souffrant également d’un handicap mental. Ils font part à leur famille de leur souhait d’avoir un enfant. Le couple fait face à la résistance des familles qui craignent que les deux jeunes ne soient pas en mesure d’assumer l’éducation d’un enfant. Devant cette situation, plusieurs positions peuvent être défendues.<br/>Dans les affirmations ci-dessous, laquelle est la plus acceptable sur le plan éthique ?",
+        "answers": [
+          {
+            "text": "La société doit interdire que des personnes souffrant d’un handicap mental puissent avoir un enfant.",
+            "correct": false
+          },
+          {
+            "text": "Les parents de personnes souffrant d’un handicap mental doivent faire opérer leurs enfants afin qu’il ne puisse pas avoir d’enfants.",
+            "correct": false
+          },
+          {
+            "text": "Le désir d’enfant de personnes souffrant d’un handicap mental est légitime mais doit être accompagné.",
+            "correct": true
+          },
+          {
+            "text": "Le désir d’enfant de personnes souffrant d’un handicap mental est inacceptable sur le plan moral.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": " Madame X., patiente Alzheimer, demande régulièrement des nouvelles de son fils auprès du personnel de la maison de soins. Son fils est décédé depuis plusieurs mois et lors de l’annonce de sa mort, Madame X. avait manifesté un grand désarroi.<br/>Pour faire face à cette situation, le personnel devrait…",
+        "answers": [
+          {
+            "text": "ignorer les questions de Madame X. à propos de son fils et continuer comme si de rien n’était.",
+            "correct": false
+          },
+          {
+            "text": "veiller au bien-être de Madame X. en lui parlant de son fils de manière générale, sans évoquer son décès",
+            "correct": true
+          },
+          {
+            "text": "laisser entendre à Madame X. que son fils va bientôt venir la voir.",
+            "correct": false
+          },
+          {
+            "text": "dire la vérité à Madame X",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Vous travaillez dans une entreprise et un de vos collègues vous téléphone en vous expliquant que depuis plusieurs mois il est victime de remarques méprisantes quant à la qualité de son travail de la part de plusieurs membres de son équipe.<br/>Quelle est la réaction la plus éthique ?",
+        "answers": [
+          {
+            "text": "Vous contactez son épouse afin qu’elle soit sensibilisée à la nécessité, pour son mari, d’être entouré dans cette situation délicate",
+            "correct": false
+          },
+          {
+            "text": "Vous lui conseillez de prendre contact avec le service juridique de l’entreprise car il pourrait s’agir de harcèlement.",
+            "correct": true
+          },
+          {
+            "text": "Vous tentez de le réconforter en lui indiquant qu’il s’agit hélas d’une pratique fréquente dans nombre d’entreprises.",
+            "correct": false
+          },
+          {
+            "text": "Vous attirez son attention sur l’éventuelle perspective d’un changement d’entreprise.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Il existe un cadre légal autorisant l’acte d’euthanasie en Belgique. A l’heure actuelle, cependant, d’aucuns s’opposent à la pratique de cet acte, alors que d’autres en sont des fervents défenseurs au nom de la dignité humaine. Devant cette situation, diverses positions peuvent être avancées.<br/>Parmi celles décrites ci-dessous, laquelle est la plus acceptable sur le plan éthique ?",
+        "answers": [
+          {
+            "text": "Il est bon d’avoir rédigé des lois qui minimisent les risques pour la qualité de vie.",
+            "correct": true
+          },
+          {
+            "text": "L’euthanasie existe depuis toujours, il n’y avait pas besoin de lois pour réglementer l’acte.",
+            "correct": false
+          },
+          {
+            "text": "Quelles que soient les règles strictes qui régissent l’euthanasie, cette pratique reste un échec.",
+            "correct": false
+          },
+          {
+            "text": "L’euthanasie est un suicide assisté pour celui qui n’a pas le courage de se donner lui-même la mort.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Empathie",
+    "session": "EXMD Juillet 2019",
+    "questions": [
+      {
+        "text": "Vous recevez un de vos patients, J., 15 ans. A trois reprises, son téléphone sonne. Il s’excuse et y répond à chaque fois. Ses appels sont assez brefs (2 minutes). Après avoir raccroché la dernière fois, il vous dit que c’était un appel important. Vous n’avez rien dit les deux premières fois.<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Vous êtes en colère !",
+            "correct": false
+          },
+          {
+            "text": "Vous semblez stressé.",
+            "correct": true
+          },
+          {
+            "text": "Pourriez-vous attendre que nous ayons fini avant de répondre au téléphone ?",
+            "correct": false
+          },
+          {
+            "text": "Maintenant que vous avez eu cet appel important, pourriez-vous couper votre téléphone ?",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Clara, votre patiente, vous annonce : « J’ai bu deux bières hier soir et je suis vraiment contente parce j’ai su m’arrêter, c’est bien la preuve que je ne suis plus alcoolique. C’est vraiment une super nouvelle hein, ça veut dire que je vais pouvoir reprendre quelques bières de temps en temps maintenant que je sais me contrôler. »<br/>En tant que médecin, vous savez qu’une personne ayant souffert d’alcoolisme doit rester abstinente et qu’un verre peut faire replonger le patient. Cependant, vous savez aussi qu’il est primordial de lui témoigner votre empathie.<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Je ne comprends pas bien pourquoi vous pensez cela.",
+            "correct": false
+          },
+          {
+            "text": "Attention, Clara, reprendre un verre de temps en temps va vous faire replonger",
+            "correct": false
+          },
+          {
+            "text": "Mais qu’est-ce qui vous a fait boire ces verres alors que vous aviez arrêté ?",
+            "correct": false
+          },
+          {
+            "text": "Vous êtes satisfaite d’avoir bu de l’alcool et d’avoir pu vous arrêter sans être saoule.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Une adolescente de 14 ans, M., vient à votre consultation avec sa mère qui s’inquiète pour sa santé. M. mange uniquement des légumes et des féculents, mais ni viande, ni poisson. Elle est devenue végétalienne. Elle a peur de grossir et ne veut pas contribuer à la maltraitance des animaux. Elle pèse 35 kg pour 1m64. Elle vous dit que si elle veut rester en bonne santé, il lui suffit de continuer à faire de la course à pied tous les jours. Vous trouvez cela aussi inquiétant mais souhaitez maintenir un bon contact avec elle.<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "En fait, tu penses que tu pourras rester en bonne santé et bien dans ta peau en mangeant uniquement des légumes et en faisant du sport.",
+            "correct": true
+          },
+          {
+            "text": "En fait, tu mets ta santé en danger pour ne pas faire souffrir les animaux.",
+            "correct": false
+          },
+          {
+            "text": "Si je comprends bien, tu es anorexique.",
+            "correct": false
+          },
+          {
+            "text": "Comme ta maman, je suis très inquiet(e) pour ta santé.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un enfant de 5 ans, par son comportement, empêche l’intervenant(e) de mener à bien son entretien et le rend même impossible. Son instabilité motrice est importante : il bouge, s’agite dans tous les sens, grimpe partout, entre et sort de la pièce, prend le matériel qu’il trouve et le jette. Au niveau verbal, la même agitation se retrouve : il sollicite sans cesse ses parents, leur coupe la parole, fait la liste des « gros mots » qu’il connaît, interpelle l’intervenant(e) et commente le moindre de ses propos…<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Je constate que votre enfant souffre de troubles de l’hyperactivité et de l’attention et peutêtre est-il en opposition par rapport à ce rendez-vous.",
+            "correct": false
+          },
+          {
+            "text": "Depuis tout à l’heure, tu sautes partout. Tu empêches tes parents de parler. Je pense que tu veux nous dire quelque chose mais dans ces conditions, il est difficile de te comprendre.",
+            "correct": true
+          },
+          {
+            "text": "Il me semble que cet entretien est difficile pour tout le monde, je vous propose que nous nous revoyions prochainement.",
+            "correct": false
+          },
+          {
+            "text": "Voudrais-tu rester un peu tranquille car on ne s’entend pas, tu perturbes tout l’entretien en t’agitant ainsi partout et en coupant tes parents qui essaient de t’aider.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un patient vous dit : « Docteur, ma femme vient de me quitter pour une autre femme. Je ne peux pas supporter cette idée. »<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Vous saviez qu’elle était homosexuelle ?",
+            "correct": false
+          },
+          {
+            "text": "Les personnes homosexuelles sont de plus en plus libres de vivre leurs désirs.",
+            "correct": false
+          },
+          {
+            "text": "Vous êtes abasourdi et lui en voulez.",
+            "correct": true
+          },
+          {
+            "text": "Quand elle se sera rendu compte que ce n’est que passager, elle reviendra.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Vous travaillez dans un service d’accueil pour femmes battues. Une nouvelle arrivée\nvous interpelle. Elle a reçu une lettre d’amour enflammée de son mari. Elle se dit prête à lui pardonner.<br/><b>Extraits des échanges</b><br/><i>Patiente : Sa lettre m’a vraiment touchée. Je sens qu’il regrette vraiment ce qu’il a fait.<br/>Thérapeute : Qu’a-t-il déjà fait exactement ?<br/>P. : Vous savez bien, ce fameux soir où je me suis retrouvée à l’hôpital.<br/>Th. : Oui, oui… Et comment s’explique-t-il ?<br/>P. : Ben… il dit qu’il a pété un plomb. Il était stressé avec son boulot, les enfants… Il a craqué.<br/>Th. : Le stress ne peut pas tout justifier.<br/>P. : Non, je sais, mais qu’est-ce que je peux faire… (pleurs)<br/>Th. : Ne vous inquiétez pas, d’autres femmes sont passées par là et s’en sont sorties.<br/>P. : Mais moi je n’y crois plus.<br/>Th : Qu’est-ce que vous ressentez pour l’instant ?<br/>P. : Je ne sais plus trop. C’est vrai que ça a été trop loin. Je n’en peux plus. Je n’ai plus du tout envie de continuer avec lui mais d’un autre côté, seule, c’est vraiment seule ! Je ne suis pas sûre de pouvoir me débrouiller sans lui. Même financièrement, je n’ai rien ! Pourtant, je sens que c’est maintenant qu’il faut le faire.<br/>Th. : …</i><br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Vous êtes tiraillée",
+            "correct": true
+          },
+          {
+            "text": "Je comprends.",
+            "correct": false
+          },
+          {
+            "text": "Ne retournez pas avec lui, vous savez qu’il n’arrêtera pas.",
+            "correct": false
+          },
+          {
+            "text": "Ça va aller.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "M., une patiente que vous connaissez bien, vous demande de lui rédiger un certificat d’absence au travail car elle se sent fatiguée et a besoin de vacances.<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Vous l’examinez afin de déterminer si une maladie peut expliquer ce sentiment de fatigue.",
+            "correct": false
+          },
+          {
+            "text": "Vous prenez le temps de vous intéresser à son parcours professionnel et à ses motivations avant de prendre votre décision.",
+            "correct": true
+          },
+          {
+            "text": "Vous lui expliquez que vos valeurs vous amènent à refuser de lui octroyer son certificat en l’absence de maladie.",
+            "correct": false
+          },
+          {
+            "text": "Vous lui accordez un certificat pour qu’elle puisse se reposer et lui proposer de la revoir dans une semaine",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un nouveau patient, M., vous expose ses griefs envers son ancien médecin, qui a refusé de le recevoir à la suite d’un retard de dix minutes. Cependant, vous accordez vous-même beaucoup d’importance aux horaires.<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Vous avez eu raison de changer de médecin si le vôtre ne vous convenait plus.",
+            "correct": false
+          },
+          {
+            "text": "Vous devez comprendre que la ponctualité est très importante dans notre profession.",
+            "correct": false
+          },
+          {
+            "text": "Je comprends votre colère quand il a refusé de vous ouvrir",
+            "correct": true
+          },
+          {
+            "text": "Vous pouvez avoir confiance en moi, je vous recevrai toujours en consultation.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Votre patiente, A., 75 ans, vous appelle très régulièrement à votre domicile privé pour des plaintes mineures. Vous la soupçonnez de se sentir seule et de recourir à des plaintes médicales pour vous faire vous déplacer à son propre domicile, ce qui vous agace légèrement.<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Vous expliquez à A. qu’elle peut recourir à une aide psychologique en cas de besoin.",
+            "correct": false
+          },
+          {
+            "text": "Vous signifiez gentiment à A. que vous ne pourrez plus lui rendre visite à domicile et qu’il faudra qu’elle se rende à votre cabinet.",
+            "correct": false
+          },
+          {
+            "text": "Vous faites comme si de rien était car tous les patients ont le droit au même traitement.",
+            "correct": false
+          },
+          {
+            "text": "Vous essayez de ressentir ce qu’A. peut éprouver au quotidien en mobilisant votre imagination.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Votre patiente de 15 ans vous raconte avoir été insultée par son frère à la suite d’un conflit familial. Elle semble choquée par les propos tenus et ne sait pas comment réagir.<br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "answers": [
+          {
+            "text": "Si je vous comprends bien, vous êtes choquée par les propos tenus par votre frère et ne savez que faire.",
+            "correct": true
+          },
+          {
+            "text": "Je n’en reviens pas qu’il vous ait insultée, c’est très dur à entendre.",
+            "correct": false
+          },
+          {
+            "text": "Il faut en parler à vos parents avant que la situation ne s’envenime.",
+            "correct": false
+          },
+          {
+            "text": "Pensez-vous qu’il serait utile que votre frère consulte ?",
+            "correct": false
+          }
+        ]
+      }
+    ]
   }
 ]

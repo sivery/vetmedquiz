@@ -85,7 +85,7 @@ export class FormComponent implements OnInit {
 
   private showMessage() {
     this.msgs.push({severity:'info', summary:'Nouveau (15/08)', detail:'Ajout du TOSS de Septembre 2019 (128 questions)'});
-    this.msgs.push({severity:'info', summary:'Nouveau (17/08)', detail:"Ajout de l'EXMD de Juillet 2019 (parties Raisonnement et Communication) (20 questions)"});
+    this.msgs.push({severity:'info', summary:'Nouveau (17/08 & 19/08)', detail:"Ajout de l'EXMD de Juillet 2019 (parties Raisonnement, Communication, Ethique et Empathie) (42 questions)"});
   }
 
   public selectQuestionSets() {

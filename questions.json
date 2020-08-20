@@ -28233,7 +28233,7 @@
   {
     "topic": "Français",
     "session": "201407",
-    "pretext": "Dans le but de reproduire les conditions réelles du test, veuillez <span style=\"text-decoration: underline;\"><strong>ne pas lire</strong></span> les questions avant d'avoir visionné la vidéo suivante. Préparez également une feuille de brouillon pour la prise de notes.&nbsp;Le jour du test, la vidéo n'est diffusée qu'une seule fois.\n<a href=\"https://drive.google.com/a/ares-ac.be/file/d/0B0eklYk3gGQpYTB3dm8wcjlhakU/preview\" target=\"_blank\">Vidéo</a>",
+    "pretext": "Dans le but de reproduire les conditions réelles du test, veuillez <span style=\"text-decoration: underline;\"><strong>ne pas lire</strong></span> les questions avant d'avoir visionné la vidéo suivante. Préparez également une feuille de brouillon pour la prise de notes.&nbsp;Le jour du test, la vidéo n'est diffusée qu'une seule fois.<a href=\"https://drive.google.com/a/ares-ac.be/file/d/0B0eklYk3gGQpYTB3dm8wcjlhakU/preview\" target=\"_blank\">Vidéo</a>",
     "questions": [
       {
         "text": "Pour traiter les maladies présentées dans l’exposé, la recherche s’oriente actuellement vers une action sur :",
@@ -33503,7 +33503,7 @@
         ]
       },
       {
-        "text": "Dans une école, on a relevé la taille en cm de 200 élèves agés de 16 ans. Les classes suivantes ont été utilisées pour ranger les résultats obtenus : [150, 160[, [160, 170[, [170, 180[, [180, 190[ et [190, 200[. Le diagramme des fréquences cumulées présente les résultats obtenus. <br/><img src=\"images/Toss/Q201909/Maths/Capture3.PNG\" alt=\"Capture3\" width=\"400px\"/><br/>Dans cette école, combien d'élèves ont une taille dont la valeur est située dans l'intervalle [170, 180[ ?\n",
+        "text": "Dans une école, on a relevé la taille en cm de 200 élèves agés de 16 ans. Les classes suivantes ont été utilisées pour ranger les résultats obtenus : [150, 160[, [160, 170[, [170, 180[, [180, 190[ et [190, 200[. Le diagramme des fréquences cumulées présente les résultats obtenus. <br/><img src=\"images/Toss/Q201909/Maths/Capture3.PNG\" alt=\"Capture3\" width=\"400px\"/><br/>Dans cette école, combien d'élèves ont une taille dont la valeur est située dans l'intervalle [170, 180[ ?",
         "answers": [
           {
             "text": "29",
@@ -33531,7 +33531,7 @@
             "correct": true
           },
           {
-            "text": "L'écart-tvpe des résultats augmente de <div class=\"frac\">\n<span>5</span>\n<span class=\"symbol\">/</span>\n<span class=\"bottom\">20</span>\n    \n</div> = 0,25 points.",
+            "text": "L'écart-tvpe des résultats augmente de <div class=\"frac\"><span>5</span><span class=\"symbol\">/</span><span class=\"bottom\">20</span></div> = 0,25 points.",
             "correct": false
           },
           {
@@ -34266,7 +34266,7 @@
         ]
       },
       {
-        "text": "Après avoir lu l’article, quelle est la réponse qu’il apporte à la question posée à la fin du\npremier paragraphe : « Is that companionship beneficial to our health ? »",
+        "text": "Après avoir lu l’article, quelle est la réponse qu’il apporte à la question posée à la fin du premier paragraphe : « Is that companionship beneficial to our health ? »",
         "answers": [
           {
             "text": "Certains animaux de compagnie ont un effet bénéfique sur notre santé.",
@@ -36984,7 +36984,7 @@
         ]
       },
       {
-        "text": "Vous travaillez dans un service d’accueil pour femmes battues. Une nouvelle arrivée\nvous interpelle. Elle a reçu une lettre d’amour enflammée de son mari. Elle se dit prête à lui pardonner.<br/><b>Extraits des échanges</b><br/><i>Patiente : Sa lettre m’a vraiment touchée. Je sens qu’il regrette vraiment ce qu’il a fait.<br/>Thérapeute : Qu’a-t-il déjà fait exactement ?<br/>P. : Vous savez bien, ce fameux soir où je me suis retrouvée à l’hôpital.<br/>Th. : Oui, oui… Et comment s’explique-t-il ?<br/>P. : Ben… il dit qu’il a pété un plomb. Il était stressé avec son boulot, les enfants… Il a craqué.<br/>Th. : Le stress ne peut pas tout justifier.<br/>P. : Non, je sais, mais qu’est-ce que je peux faire… (pleurs)<br/>Th. : Ne vous inquiétez pas, d’autres femmes sont passées par là et s’en sont sorties.<br/>P. : Mais moi je n’y crois plus.<br/>Th : Qu’est-ce que vous ressentez pour l’instant ?<br/>P. : Je ne sais plus trop. C’est vrai que ça a été trop loin. Je n’en peux plus. Je n’ai plus du tout envie de continuer avec lui mais d’un autre côté, seule, c’est vraiment seule ! Je ne suis pas sûre de pouvoir me débrouiller sans lui. Même financièrement, je n’ai rien ! Pourtant, je sens que c’est maintenant qu’il faut le faire.<br/>Th. : …</i><br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
+        "text": "Vous travaillez dans un service d’accueil pour femmes battues. Une nouvelle arrivée vous interpelle. Elle a reçu une lettre d’amour enflammée de son mari. Elle se dit prête à lui pardonner.<br/><b>Extraits des échanges</b><br/><i>Patiente : Sa lettre m’a vraiment touchée. Je sens qu’il regrette vraiment ce qu’il a fait.<br/>Thérapeute : Qu’a-t-il déjà fait exactement ?<br/>P. : Vous savez bien, ce fameux soir où je me suis retrouvée à l’hôpital.<br/>Th. : Oui, oui… Et comment s’explique-t-il ?<br/>P. : Ben… il dit qu’il a pété un plomb. Il était stressé avec son boulot, les enfants… Il a craqué.<br/>Th. : Le stress ne peut pas tout justifier.<br/>P. : Non, je sais, mais qu’est-ce que je peux faire… (pleurs)<br/>Th. : Ne vous inquiétez pas, d’autres femmes sont passées par là et s’en sont sorties.<br/>P. : Mais moi je n’y crois plus.<br/>Th : Qu’est-ce que vous ressentez pour l’instant ?<br/>P. : Je ne sais plus trop. C’est vrai que ça a été trop loin. Je n’en peux plus. Je n’ai plus du tout envie de continuer avec lui mais d’un autre côté, seule, c’est vraiment seule ! Je ne suis pas sûre de pouvoir me débrouiller sans lui. Même financièrement, je n’ai rien ! Pourtant, je sens que c’est maintenant qu’il faut le faire.<br/>Th. : …</i><br/>Parmi les propositions suivantes, laquelle utiliseriez-vous pour vous exprimer de la manière la plus empathique possible ?",
         "answers": [
           {
             "text": "Vous êtes tiraillée",
@@ -37084,6 +37084,1080 @@
           },
           {
             "text": "Pensez-vous qu’il serait utile que votre frère consulte ?",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Physique",
+    "session": "EXMD Juillet 2019",
+    "questions": [
+      {
+        "text": "On considère le mouvement rectiligne d’un mobile. Le graphique ci-dessous représente la vitesse du mobile en fonction du temps sur une durée de 12 secondes.<br/><img src=\"images/EXMD/Q201907/Physique/Capture1.PNG\" alt=\"Capture1\" /><br/>Quelle est la distance parcourue par le mobile pendant ces 12 secondes ?",
+        "answers": [
+          {
+            "text": "48 m",
+            "correct": false
+          },
+          {
+            "text": "64 m",
+            "correct": true
+          },
+          {
+            "text": "80 m",
+            "correct": false
+          },
+          {
+            "text": "92 m",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "On considère deux véhicules se trouvant sur une même route horizontale rectiligne.<br/><img src=\"images/EXMD/Q201907/Physique/Capture2.PNG\" alt=\"Capture2\" /><br/>Que pouvons-nous déduire du graphique x(t) présenté ci-dessus donnant pour chaque véhicule sa position en fonction du temps ?",
+        "answers": [
+          {
+            "text": "Le véhicule (1) se déplace à vitesse constante et les deux véhicules possèdent la même vitesse à l’instant t<sub>1</sub>.",
+            "correct": false
+          },
+          {
+            "text": "Le véhicule (1) est à l’arrêt et le véhicule (2) le rejoint à l’instant t<sub>1</sub>",
+            "correct": true
+          },
+          {
+            "text": "Le véhicule (2) se déplace à la même vitesse que le véhicule (1) à l’instant t<sub>1</sub>",
+            "correct": false
+          },
+          {
+            "text": "Le véhicule (1) se déplace à vitesse constante non nulle et le véhicule (2) le rejoint à l’instant t<sub>1</sub>.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Une personne pousse à vitesse constante une caisse de 10 kg pour la faire monter le long d’un plan incliné en exerçant une force musculaire <var class=\"vector single\">F<span>&#8407;</span></var> de 200 N parallèle au plan incliné. Le plan incliné a une hauteur de 3 m et une longueur de 5 m.<br/><img src=\"images/EXMD/Q201907/Physique/Capture3.PNG\" alt=\"Capture3\" /><br/>Que vaut la force de frottement cinétique entre la caisse et le sol ? (Prendre g = 10 m/s²)",
+        "answers": [
+          {
+            "text": "40 N",
+            "correct": false
+          },
+          {
+            "text": "100 N",
+            "correct": false
+          },
+          {
+            "text": "140 N",
+            "correct": true
+          },
+          {
+            "text": "160 N",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Si la force horizontale que Monsieur T. exerce sur une caisse est multipliée par 2 mais que celle-ci reste immobile, la force de frottement qui s’exerce sur la caisse…",
+        "answers": [
+          {
+            "text": "est nulle.",
+            "correct": false
+          },
+          {
+            "text": "est divisée par 2.",
+            "correct": false
+          },
+          {
+            "text": "est multipliée par 2.",
+            "correct": true
+          },
+          {
+            "text": "reste la même tout en étant non nulle.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "En fonction de l’endroit où se trouve un objet sur la Terre…",
+        "answers": [
+          {
+            "text": "sa masse peut varier, mais pas son poids.",
+            "correct": false
+          },
+          {
+            "text": "son poids peut varier, mais pas sa masse.",
+            "correct": true
+          },
+          {
+            "text": "son poids et sa masse peuvent varier, mais de la même façon.",
+            "correct": false
+          },
+          {
+            "text": "son poids et sa masse ne varient pas.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Deux ondes identiques interfèrent de manière totalement destructive si leur déphasage vaut…",
+        "answers": [
+          {
+            "text": "45°",
+            "correct": false
+          },
+          {
+            "text": "90°",
+            "correct": false
+          },
+          {
+            "text": "180°",
+            "correct": true
+          },
+          {
+            "text": "360°",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Une onde (transversale) se propage sur une corde avec une vitesse v, le long de l’axe des x et dans le sens des x positifs. Le graphique du dessus montre le déplacement y des points de la corde en fonction de x à un instant t donné. Le graphique du bas donne ce déplacement y en fonction du temps pour un point d’abscisse x donné.<br/><img src=\"images/EXMD/Q201907/Physique/Capture8.PNG\" alt=\"Capture8\" /><br/>Utilisez l’information fournie par ces graphiques pour calculer la vitesse v de propagation de l’onde.",
+        "answers": [
+          {
+            "text": "2 m/s",
+            "correct": false
+          },
+          {
+            "text": "4 m/s",
+            "correct": false
+          },
+          {
+            "text": "6 m/s",
+            "correct": false
+          },
+          {
+            "text": "8 m/s",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Lors du passage d’une onde d’un milieu dans un autre, nous observons une variation…",
+        "answers": [
+          {
+            "text": "de la vitesse de propagation uniquement.",
+            "correct": false
+          },
+          {
+            "text": "de la fréquence et de la vitesse de propagation.",
+            "correct": false
+          },
+          {
+            "text": "de la longueur d’onde et de la vitesse de propagation.",
+            "correct": true
+          },
+          {
+            "text": "de la fréquence, de la longueur d’onde et de la vitesse de propagation.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "A partir de la figure ci-dessous, comment caractériseriez-vous les grandeurs des vitesses v1 et v2 de propagation de la lumière dans les milieux 1 et 2 ?<br/><img src=\"images/EXMD/Q201907/Physique/Capture10.PNG\" alt=\"Capture10\" />",
+        "answers": [
+          {
+            "text": "v<sub>1</sub> > v<sub>2</sub>",
+            "correct": false
+          },
+          {
+            "text": "v<sub>1</sub> < v<sub>2</sub>",
+            "correct": true
+          },
+          {
+            "text": "v<sub>1</sub> = v<sub>2</sub>",
+            "correct": false
+          },
+          {
+            "text": "Sans connaître les indices de réfraction de chacun des milieux, il est impossible de comparer v<sub>1</sub> et v<sub>2</sub>.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "On considère une lentille divergente et un objet placé entre la lentille et son foyer image.<br/>Dans ces conditions, l’image est…",
+        "answers": [
+          {
+            "text": "réelle, droite et plus petite que l’objet.",
+            "correct": false
+          },
+          {
+            "text": "virtuelle, droite et plus petite que l’objet.",
+            "correct": true
+          },
+          {
+            "text": "réelle, inversée et agrandie.",
+            "correct": false
+          },
+          {
+            "text": "virtuelle, inversée et agrandie.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "P<sub>1</sub>, P<sub>2</sub> et P<sub>3</sub> sont respectivement les puissances dissipées dans les résistances R<sub>1</sub>, R<sub>2</sub> et R<sub>3</sub> du circuit représenté ci-dessous :<br/><img src=\"images/EXMD/Q201907/Physique/Capture13.PNG\" alt=\"Capture13\" /><br/>Si on suppose que les trois résistances sont identiques, on a…",
+        "answers": [
+          {
+            "text": "4P<sub>1</sub>=P<sub>2</sub>=P<sub>3</sub>",
+            "correct": false
+          },
+          {
+            "text": "P<sub>1</sub>=4P<sub>2</sub>=4P<sub>3</sub>",
+            "correct": true
+          },
+          {
+            "text": "P<sub>1</sub>=P<sub>2</sub>=P<sub>3</sub>",
+            "correct": false
+          },
+          {
+            "text": "P<sub>1</sub>=2P<sub>2</sub>=2P<sub>3</sub>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "On place quatre charges électriques positives aux sommets d’un carré (voir le schéma ci-dessous). On place ensuite une charge q, également positive, au centre du carré.<br/><img src=\"images/EXMD/Q201907/Physique/Capture14.PNG\" alt=\"Capture14\" /><br/>La force résultante agissant sur q est…",
+        "answers": [
+          {
+            "text": "horizontale.",
+            "correct": true
+          },
+          {
+            "text": "nulle.",
+            "correct": false
+          },
+          {
+            "text": "vers le haut.",
+            "correct": false
+          },
+          {
+            "text": "vers le bas.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Chimie",
+    "session": "EXMD Juillet 2019",
+    "questions": [
+      {
+        "text": "Le chlorure de nickel(II) hydraté (NiCl<sub>2</sub>.xH<sub>2</sub>O) est un solide cristallin vert. Fortement chauffé, un échantillon de 0,238 g de ce composé se déshydrate.<br/>Quelle est la valeur de x sachant qu'il reste 0,130 g de solide après chauffage ?",
+        "answers": [
+          {
+            "text": "3",
+            "correct": false
+          },
+          {
+            "text": "4",
+            "correct": false
+          },
+          {
+            "text": "5",
+            "correct": false
+          },
+          {
+            "text": "6",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "A combien de moles correspondent 100 mL de dichlorométhane CH<sub>2</sub>Cl<sub>2</sub> (d = 1,70) ?",
+        "answers": [
+          {
+            "text": "0,00020",
+            "correct": false
+          },
+          {
+            "text": "0,20",
+            "correct": false
+          },
+          {
+            "text": "2,0",
+            "correct": true
+          },
+          {
+            "text": "20",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "On prend 10 mL de HCl 2,5 mol/L et on les verse dans un flacon jaugé de 250 mL. On y ajoute de l’eau jusqu’au trait de manière à obtenir 250 mL de solution.<br/>Quelle est la molarité (concentration molaire) ?",
+        "answers": [
+          {
+            "text": "0,10 mol/L",
+            "correct": true
+          },
+          {
+            "text": "0,25 mol/L",
+            "correct": false
+          },
+          {
+            "text": "0,50 mol/L",
+            "correct": false
+          },
+          {
+            "text": "1,0 mol/L",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un système contenant 0,302 g de dihydrogène dans les conditions normales de température et de pression est amené à 300 K sous une pression de 1,51 atm.<br/>Parmi les propositions suivantes, laquelle est correcte ?",
+        "answers": [
+          {
+            "text": "Il y a 0,302 mol de dihydrogène dans le système.",
+            "correct": false
+          },
+          {
+            "text": "La variation de pression vaut 1,51 atm.",
+            "correct": false
+          },
+          {
+            "text": "La variation de température vaut 2,7 K.",
+            "correct": false
+          },
+          {
+            "text": "La variation de volume vaut - 0,92 L.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Les quatre composés suivants sont placés en phase aqueuse. Quel est celui qui présente la conductivité la plus faible ?",
+        "answers": [
+          {
+            "text": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+            "correct": true
+          },
+          {
+            "text": "HCN",
+            "correct": false
+          },
+          {
+            "text": "Pb(NO<sub>3</sub>)<sub>2</sub>",
+            "correct": false
+          },
+          {
+            "text": "ZnS",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "On mélange 20 mL d'une solution aqueuse de sulfate de cuivre(II) 1,0 mol/L et 20 mL d'une solution aqueuse de phosphate de sodium 0,20 mol/L.<br/>Parmi les propositions suivantes, laquelle est correcte ?",
+        "answers": [
+          {
+            "text": "La concentration en ions phosphate dans la solution finale est de 0,20 mol/L.",
+            "correct": false
+          },
+          {
+            "text": "La concentration en ions cuivre(II) dans la solution finale est de 0,05 mol/L.",
+            "correct": false
+          },
+          {
+            "text": "La concentration en ions sulfate dans la solution finale est de 0,10 mol/L.",
+            "correct": false
+          },
+          {
+            "text": "La concentration en ions sodium dans la solution finale est de 0,30 mol/L",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Il existe deux isotopes stables de l’antimoine. L’un d’entre eux est <sub>51</sub><sup>121</sup>Sb dont l’abondance naturelle vaut approximativement 60 %.<br/>Quel est l’autre isotope ?",
+        "answers": [
+          {
+            "text": "<sub>51</sub><sup>119</sup>Sb",
+            "correct": false
+          },
+          {
+            "text": "<sub>51</sub><sup>120</sup>Sb",
+            "correct": false
+          },
+          {
+            "text": "<sub>51</sub><sup>122</sup>Sb",
+            "correct": false
+          },
+          {
+            "text": "<sub>51</sub><sup>123</sup>Sb",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Parmi les affirmations suivantes, laquelle est correcte ?",
+        "answers": [
+          {
+            "text": "S<sup>2—</sup> et K<sup>+</sup> ont la même configuration électronique.",
+            "correct": true
+          },
+          {
+            "text": "Le chlore et le brome possèdent tous deux 7 électrons de valence sur la couche L.",
+            "correct": false
+          },
+          {
+            "text": "L’ion Na<sup>+</sup> a la même configuration électronique que l’argon.",
+            "correct": false
+          },
+          {
+            "text": "La configuration électronique du calcium est K<sup>2</sup>L<sup>8</sup>M<sup>10</sup>.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Que vaut le nombre total d’électrons de valence dans le sulfite d’ammonium ?",
+        "answers": [
+          {
+            "text": "33",
+            "correct": false
+          },
+          {
+            "text": "39",
+            "correct": false
+          },
+          {
+            "text": "42",
+            "correct": true
+          },
+          {
+            "text": "48",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La vanilline est un composé qui se développe naturellement dans les gousses de vanille et possède la structure moléculaire représentée ci-dessous :<br/><img src=\"images/EXMD/Q201907/Physique/Capture10.PNG\" alt=\"Capture10\" /><br/>Parmi les fonctions organiques ci-dessous, laquelle est présente dans la molécule de vanilline ?",
+        "answers": [
+          {
+            "text": "Acide carboxylique",
+            "correct": false
+          },
+          {
+            "text": "Cétone",
+            "correct": false
+          },
+          {
+            "text": "Ester",
+            "correct": false
+          },
+          {
+            "text": "Ether",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Parmi les propositions ci-dessous, laquelle <b>ne correspond pas</b> à une réaction d’oxydoréduction ?",
+        "answers": [
+          {
+            "text": "Le dioxyde de carbone dissout dans l’eau forme de l’acide carbonique (carbonate d’hydrogène).",
+            "correct": true
+          },
+          {
+            "text": "Le potassium est un métal qui réagit vivement avec l’eau.",
+            "correct": false
+          },
+          {
+            "text": "La combustion incomplète du méthane fournit du monoxyde de carbone et de l’eau.",
+            "correct": false
+          },
+          {
+            "text": "Le peroxyde d’hydrogène se décompose spontanément en oxygène et en eau à température ambiante.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Afin de vérifier le titre d’une solution de permanganate de potassium, un titrage à l’aide d’une solution titrante d’acide oxalique est réalisé dans les conditions suivantes :<ul><li>10,0 mL de la solution de permanganate de potassium sont versés dans un erlenmeyer</li><li>20 mL d’acide sulfurique 2 mol.L<sup>-1</sup> sont ajoutés à la solution à titrer</li><li>>la burette est remplie d’une solution d’acide oxalique 0,0200 mol.L<sup>-1</sup></li></ul>Le point d’équivalence est atteint lorsque 15,0 mL de la solution titrante sont ajoutés.<br/>Calculez la concentration de la solution de permanganate de potassium en sachant que l’équation ionique de la réaction est la suivante :<br/><br/> 2 MnO<sub>4</sub>- + 5 (COOH)<sub>2</sub> + 6 H<sup>+</sup> → 2 Mn<sup>2+</sup> + 10 CO<sub>2</sub> + 8 H<sub>2</sub>O",
+        "answers": [
+          {
+            "text": "7,50.10<sup>-2</sup> mol.L<sup>-1</sup>",
+            "correct": false
+          },
+          {
+            "text": "4,00.10<sup>-3</sup> mol.L<sup>-1</sup>",
+            "correct": false
+          },
+          {
+            "text": "2,50.10<sup>-2</sup> mol.L<sup>-1</sup>",
+            "correct": false
+          },
+          {
+            "text": "1,20.10<sup>-2</sup> mol.L<sup>-1</sup>",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Soit la synthèse de l’ammoniac aboutissant à un état d’équilibre :<br/><br/>N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) ⇌ 2 NH<sub>3</sub> (g)<br/><br/>Quelle est l’expression correcte de la constante d’équilibre Kp pour cette réaction ?",
+        "answers": [
+          {
+            "text": "K<sub>p</sub> = <div class=\"frac\"><span>2p<sub>NH<sub>3</sub></sub></span><span class=\"symbol\">/</span><span class=\"bottom\">p<sub>N<sub>2</sub></sub> + 3p<sub>H<sub>2</sub></sub></span></div>",
+            "correct": false
+          },
+          {
+            "text": "K<sub>p</sub> = <div class=\"frac\"><span>p²<sub>NH<sub>3</sub></sub></span><span class=\"symbol\">/</span><span class=\"bottom\">p<sub>N<sub>2</sub></sub> . p³<sub>H<sub>2</sub></sub></span></div>",
+            "correct": true
+          },
+          {
+            "text": "K<sub>p</sub> = <div class=\"frac\"><span>2p<sub>NH<sub>3</sub></sub></span><span class=\"symbol\">/</span><span class=\"bottom\">p<sub>N<sub>2</sub></sub> . 3p<sub>H<sub>2</sub></sub></span></div>",
+            "correct": false
+          },
+          {
+            "text": "K<sub>p</sub> = <div class=\"frac\"><span>p²<sub>NH<sub>3</sub></sub></span><span class=\"symbol\">/</span><span class=\"bottom\">p<sub>N<sub>2</sub></sub> + p³<sub>H<sub>2</sub></sub></span></div>",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Mathématiques",
+    "session": "EXMD Juillet 2019",
+    "questions": [
+      {
+        "text": "Parmi les propositions suivantes, une seule est égale à<br/><img src=\"images/EXMD/Q201907/Maths/Capture2.PNG\" alt=\"Capture2\" /><br/>en tout réel <i>x</i> où l’expression ci-dessus est définie. Laquelle ?",
+        "answers": [
+          {
+            "text": "8<i>x</i> ² + <i>x</i> + 1",
+            "correct": true
+          },
+          {
+            "text": "<div class=\"frac\"><span>1-3<i>x</i></span><span class=\"symbol\">/</span><span class=\"bottom\">1-4<i>x</i></span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>7</span><span class=\"symbol\">/</span><span class=\"bottom\">8</span></div>",
+            "correct": false
+          },
+          {
+            "text": "1 + <div class=\"frac\"><span><i>x</i> ³</span><span class=\"symbol\">/</span><span class=\"bottom\">8</span></div>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Je souhaite fabriquer une flûte de Pan. Cette flûte est constituée de plusieurs tubes de longueurs différentes, rangés par ordre décroissant de longueur. Le premier tube, qui est le plus long, mesure 16 cm. La longueur de chaque tube suivant est calculée à partir de celle du tube précédent de la façon suivante : la longueur de chaque tube est égale à celle du tube précédent divisée par 2<sup>1/12</sup>.<br/>Sachant que la longueur du tube le plus court est la moitié de la longueur du tube le plus long, de combien de tubes ma flûte de Pan est-elle constituée ?",
+        "answers": [
+          {
+            "text": "11",
+            "correct": false
+          },
+          {
+            "text": "12",
+            "correct": false
+          },
+          {
+            "text": "13",
+            "correct": true
+          },
+          {
+            "text": "14",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Soient <i>a</i>, <i>b</i> deux nombres réels non nuls tels que 0 > <div class=\"frac\"><span>1</span><span class=\"symbol\">/</span><span class=\"bottom\"><i>a</i></span></div> > <div class=\"frac\"><span>1</span><span class=\"symbol\">/</span><span class=\"bottom\"><i>b</i></span></div>. Parmi les propositions suivantes les concernant, laquelle est nécessairement vraie ?",
+        "answers": [
+          {
+            "text": "<i>b</i> ² > <i>a</i> ²",
+            "correct": false
+          },
+          {
+            "text": "<i>b</i> ² < <i>a</i> ²",
+            "correct": true
+          },
+          {
+            "text": "<i>b</i> ² > <i>a</i> ² + 1",
+            "correct": false
+          },
+          {
+            "text": "<i>b</i> ² < <i>a</i> ² + 1",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Considérons la fonction <i>f</i> dont l’expression analytique est donnée par<br/><br/><i>f</i>(<i>x</i>) = arcsin (<div class=\"frac\"><span><i>x</i> ²</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div> - 3)<br/><br/>Quel est le domaine de définition de <i>f</i> ?",
+        "answers": [
+          {
+            "text": "[2, 2√2]",
+            "correct": false
+          },
+          {
+            "text": "[−√5,−1] ∪ [1, √5]",
+            "correct": false
+          },
+          {
+            "text": "[−2√2, −2] ∪ [2, 2√2]",
+            "correct": true
+          },
+          {
+            "text": "] − ∞, −2√2] ∪ [−2, 2] ∪ [2√2, + ∞[",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Considérons la fonction <i>f</i> dont l’expression analytique est donnée par<br/><br/><i>f</i>(<i>x</i>) = ln (<div class=\"frac\"><span>3<i>x</i> + 1</span><span class=\"symbol\">/</span><span class=\"bottom\">1 - 2<i>x</i></span></div>)<br/><br/>Parmi les propositions suivantes, laquelle correspond à la dérivée de <i>f</i> en tout point du domaine de dérivabilité de <i>f</i> ?",
+        "answers": [
+          {
+            "text": "<div class=\"frac\"><span>5</span><span class=\"symbol\">/</span><span class=\"bottom\">−6<i>x</i> ² + <i>x</i> + 1</span></div>",
+            "correct": true
+          },
+          {
+            "text": "<div class=\"frac\"><span>-5<i>x</i></span><span class=\"symbol\">/</span><span class=\"bottom\">−6<i>x</i> ² + <i>x</i> + 1</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>1 - 2<i>x</i></span><span class=\"symbol\">/</span><span class=\"bottom\">3<i>x</i> + 1</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>-3(1 - 2<i>x</i>)</span><span class=\"symbol\">/</span><span class=\"bottom\">2(3<i>x</i> + 1)</span></div>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est l’ensemble des nombres réels <i>m</i> tels que la fonction réelle définie par<br/><br/><i>f</i>(<i>x</i>) = <i>x</i> ² - (1 - <i>m</i>) <i>x</i> + <i>m</i> - 2<br/><br/>admette un minimum en un réel supérieur ou égal à <div class=\"frac\"><span>9</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div> ?",
+        "answers": [
+          {
+            "text": "] − ∞, −8]",
+            "correct": true
+          },
+          {
+            "text": "] − ∞, −3]",
+            "correct": false
+          },
+          {
+            "text": "[8, +∞[",
+            "correct": false
+          },
+          {
+            "text": "∅",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Parmi les propositions suivantes, laquelle est égale à l’intégrale<br/><br/>∫<sub>1</sub><sup>2</sup> 3<i>x</i>√(<i>x</i> ² + 1) <i>dx</i>",
+        "answers": [
+          {
+            "text": "3(5√5 − 2√2)",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>5√5−2√2</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": false
+          },
+          {
+            "text": "5√5 − 2√2",
+            "correct": true
+          },
+          {
+            "text": "<div class=\"frac\"><span>3</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div> (5√5 − 2√2)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Considérons la somme<br/><br/><i>I</i> = sin (α) + sin (2α) + sin (3α) + ⋯ + sin (98α) + sin (99α)<br/><br/>Quelle est la valeur de <i>I</i> lorsque α = <div class=\"frac\"><span>π</span><span class=\"symbol\">/</span><span class=\"bottom\">4</span></div>?",
+        "answers": [
+          {
+            "text": "<i>I</i> = 1 + √2",
+            "correct": true
+          },
+          {
+            "text": "<i>I</i> = 0",
+            "correct": false
+          },
+          {
+            "text": "<i>I</i> = <div class=\"frac\"><span>√2</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<i>I</i> = <div class=\"frac\"><span>2 + √2</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Je veux vendre des glaces. Pour cela, j’imprime des affiches avec un grand cornet de glace. Le cornet est un triangle équilatéral et la boule de glace est représentée par un demi-cercle de rayon <i>x</i>. Pour avoir un bel effet, j’exige que la hauteur totale du cornet et de la boule de glace soit de 25 cm (cf. illustration ci-dessous).<br/>NB. <i>L’illustration n’est pas nécessairement à l’échelle ni même dans des proportions correspondant à l’énoncé.</i><br/><img src=\"images/EXMD/Q201907/Maths/Capture12.PNG\" alt=\"Capture12\" /><br/>Quelle est alors la valeur de <i>x</i> ?",
+        "answers": [
+          {
+            "text": "<div class=\"frac\"><span>25(3−√3)</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>25</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>25</span><span class=\"symbol\">/</span><span class=\"bottom\">1+√2</span></div>",
+            "correct": false
+          },
+          {
+            "text": "<div class=\"frac\"><span>25</span><span class=\"symbol\">/</span><span class=\"bottom\">1+√3</span></div>",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "La norme d’un vecteur <var class=\"vector single\">v<span>&#8407;</span></var> est notée ‖<var class=\"vector single\">v<span>&#8407;</span></var>‖ et le produit scalaire des vecteurs <var class=\"vector single\">u<span>&#8407;</span></var> et <var class=\"vector single\">v<span>&#8407;</span></var> est noté <var class=\"vector single\">u<span>&#8407;</span></var> ● <var class=\"vector single\">v<span>&#8407;</span></var>.<br/>Soient <var class=\"vector single\">u<span>&#8407;</span></var> et <var class=\"vector single\">v<span>&#8407;</span></var> des vecteurs tels que ‖<var class=\"vector single\">u<span>&#8407;</span></var>‖ = 3, ‖<var class=\"vector single\">v<span>&#8407;</span></var>‖ = 12 et <var class=\"vector single\">u<span>&#8407;</span></var> ●<var class=\"vector single\">v<span>&#8407;</span></var> = 8.<br/>Que vaut ‖ <var class=\"vector single\">u<span>&#8407;</span></var> + <var class=\"vector single\">v<span>&#8407;</span></var>‖ ?",
+        "answers": [
+          {
+            "text": "13",
+            "correct": true
+          },
+          {
+            "text": "15",
+            "correct": false
+          },
+          {
+            "text": "23",
+            "correct": false
+          },
+          {
+            "text": "169",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans le plan muni d’un repère orthonormé, on considère les droites <i>d</i><sub>1</sub> d’équation <i>x</i> + 5<i>y</i> + 9 = 0, <i>d</i><sub>2</sub> d’équation 7<i>x</i> − 3<i>y</i> = 13 et <i>d</i><sub>3</sub> d’équation 6<i>x</i> − 4<i>y</i> = 9. Les droites <i>d</i><sub>1</sub> et <i>d</i><sub>2</sub> se coupent en un point <i>P</i>.<br/>Parmi les propositions suivantes, laquelle correspond à une équation de la droite passant par <i>P</i> et perpendiculaire à <i>d</i><sub>3</sub> ?",
+        "answers": [
+          {
+            "text": "2<i>x</i> + 3<i>y</i> + 4 = 0",
+            "correct": true
+          },
+          {
+            "text": "<i>y</i> + <div class=\"frac\"><span>3</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div>= − <div class=\"frac\"><span>3</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div><i>x</i> + 1",
+            "correct": false
+          },
+          {
+            "text": "<i>x</i> = − <div class=\"frac\"><span>3</span><span class=\"symbol\">/</span><span class=\"bottom\">2</span></div><i>y</i> + 2",
+            "correct": false
+          },
+          {
+            "text": "3<i>x</i> + 2<i>y</i> + 1 = 0",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "A la Faculté de médecine de l’université U, les étudiants de troisième année ont 10 examens oraux différents qu’ils doivent présenter en trois jours. Le premier jour ils doivent présenter 5 examens différents, au choix. Les autres doivent être présentés au cours du deuxième ou du troisième jour. A nouveau, les étudiants peuvent choisir de répartir librement les examens sur les deux jours, la seule contrainte étant que l’étudiant doit présenter plus d’examens le deuxième que le troisième jour et au moins 2 examens le troisième jour.<br/>Si Juliette a obtenu une note moyenne de 12/20 pour les examens présentés le premier jour, de 14/20 pour les examens présentés le deuxième jour et de 17/20 pour les examens présentés le troisième jour, quelle est sa note moyenne sur l’ensemble des trois jours ?",
+        "answers": [
+          {
+            "text": "13,5/20",
+            "correct": false
+          },
+          {
+            "text": "13,6/20",
+            "correct": true
+          },
+          {
+            "text": "13,75/20",
+            "correct": false
+          },
+          {
+            "text": "Il n’y a pas suffisamment d’information pour répondre à la question.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Biologie",
+    "session": "EXMD Juillet 2019",
+    "questions": [
+      {
+        "text": "Lors de la respiration cellulaire aérobie d’une cellule eucaryote, les électrons qui parcourent la chaîne de transport des électrons…",
+        "answers": [
+          {
+            "text": "sont finalement cédés à des molécules d’O<sub>2</sub>.",
+            "correct": true
+          },
+          {
+            "text": "proviennent de molécules d’H<sub>2</sub>O.",
+            "correct": false
+          },
+          {
+            "text": "gagnent de l’énergie qui sera utilisée pour générer un gradient de protons.",
+            "correct": false
+          },
+          {
+            "text": "transitent par l'ATP <i>synthase</i>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Les bactéries…",
+        "answers": [
+          {
+            "text": "sont des unicellulaires procaryotes.",
+            "correct": true
+          },
+          {
+            "text": "ont une membrane plasmique contenant du peptidoglycane.",
+            "correct": false
+          },
+          {
+            "text": "produisent du glucose par fermentation.",
+            "correct": false
+          },
+          {
+            "text": "se divisent par méiose dans des conditions environnementales défavorables.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Un centrosome est…",
+        "answers": [
+          {
+            "text": "le centre organisationnel des microtubules d’une cellule animale.",
+            "correct": true
+          },
+          {
+            "text": "la région centrale d’une cellule eucaryote.",
+            "correct": false
+          },
+          {
+            "text": "une région particulière des chromosomes eucaryotes.",
+            "correct": false
+          },
+          {
+            "text": "le lieu de destruction des organites obsolètes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Chez l’humain, le premier globule polaire contient…",
+        "answers": [
+          {
+            "text": "23 paires de chromosomes homologues.",
+            "correct": false
+          },
+          {
+            "text": "deux fois plus de chromosomes que le second globule polaire.",
+            "correct": false
+          },
+          {
+            "text": "la même quantité d’ADN qu’une ovogonie en phase G1.",
+            "correct": true
+          },
+          {
+            "text": "des chromosomes formés d’une seule chromatide",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le graphique ci-dessous représente la variation de la quantité d’ADN d’une cellule au cours du temps.<br/><img src=\"images/EXMD/Q201907/Biologie/Capture6.PNG\" alt=\"Capture6\" /><br/>Quelle est la proposition correcte ?",
+        "answers": [
+          {
+            "text": "Au temps t4, les chromosomes sont constitués d’une seule chromatide",
+            "correct": false
+          },
+          {
+            "text": "L’intervalle (t2, t4) correspond à une mitose.",
+            "correct": false
+          },
+          {
+            "text": "Une cytodiérèse (ou cytocinèse) a lieu aux temps t4 et t5.",
+            "correct": true
+          },
+          {
+            "text": "Dans l’intervalle (t1, t2), le nombre de chromosomes double.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelle fonction <b>n’est pas</b> attribuable à une protéine ?",
+        "answers": [
+          {
+            "text": "Le transport de molécules.",
+            "correct": false
+          },
+          {
+            "text": "La catalyse de réactions biochimiques.",
+            "correct": false
+          },
+          {
+            "text": "L’immunité humorale.",
+            "correct": false
+          },
+          {
+            "text": "Le support de l’information génétique.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Un codon…",
+        "answers": [
+          {
+            "text": "est formé de quatre nucléotides.",
+            "correct": false
+          },
+          {
+            "text": "peut coder pour le même acide aminé qu’un autre codon.",
+            "correct": true
+          },
+          {
+            "text": "peut coder pour plusieurs types d’acides aminés.",
+            "correct": false
+          },
+          {
+            "text": "peut se lier à l’acide aminé d’un ARN de transfert.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La drépanocytose est une maladie monogénique qui touche plusieurs membres d’une\nfamille dont voici l’arbre généalogique :<br/><img src=\"images/EXMD/Q201907/Biologie/Capture9.PNG\" alt=\"Capture9\" /><br/>Les individus atteints de drépanocytose sont représentés en noir.<br/>Quelle proposition est correcte ?",
+        "answers": [
+          {
+            "text": "L’allèle responsable de ce trouble héréditaire est dominant.",
+            "correct": false
+          },
+          {
+            "text": "Le gène concerné est situé sur le chromosome X.",
+            "correct": false
+          },
+          {
+            "text": "L'individu 9 est hétérozygote pour le gène concerné.",
+            "correct": true
+          },
+          {
+            "text": "L'individu 12 est homozygote pour le gène concerné.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La galactosémie désigne un groupe de maladies caractérisées par une anomalie du métabolisme des sucres. Elle est transmise sur un mode autosomique récessif.<br/>Le lignage ci-dessous décrit la transmission de la maladie dans une famille.<br/><img src=\"images/EXMD/Q201907/Biologie/Capture10.PNG\" alt=\"Capture10\" /><br/>Quelle est la probabilité que l’enfant de dernière génération soit atteint de la maladie ?",
+        "answers": [
+          {
+            "text": "75 %",
+            "correct": false
+          },
+          {
+            "text": "50 %",
+            "correct": false
+          },
+          {
+            "text": "25 %",
+            "correct": false
+          },
+          {
+            "text": "12,5 %",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Le tableau ci-dessous indique la présence ou l’absence de 4 caractères chez 5 espèces animales (A, B, C, D et E).<br/><img src=\"images/EXMD/Q201907/Biologie/Capture11a.PNG\" alt=\"Capture11a\" /><br/>Sur base de ce tableau, quel est l’arbre le plus probable décrivant les liens phylogéniques entre les espèces A, B, C, D et E ?<br/><img src=\"images/EXMD/Q201907/Biologie/Capture11b.PNG\" alt=\"Capture11b\" />",
+        "answers": [
+          {
+            "text": "Arbre 1",
+            "correct": true
+          },
+          {
+            "text": "Arbre 2",
+            "correct": false
+          },
+          {
+            "text": "Arbre 3",
+            "correct": false
+          },
+          {
+            "text": "Arbre 4",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quelles sont les principales causes de microévolution ?",
+        "answers": [
+          {
+            "text": "La dérive génétique et l’adaptation au milieu",
+            "correct": false
+          },
+          {
+            "text": "La dérive génétique et la sélection naturelle.",
+            "correct": true
+          },
+          {
+            "text": "La sélection naturelle et l’adaptation au milieu",
+            "correct": false
+          },
+          {
+            "text": "La sélection naturelle, la dérive génétique et l’adaptation au milieu.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Quel organe <b>n’est pas</b> homologue à l’aile de la chauve-souris ?",
+        "answers": [
+          {
+            "text": "La patte avant du cheval",
+            "correct": false
+          },
+          {
+            "text": "L’aile de la libellule.",
+            "correct": true
+          },
+          {
+            "text": "Le bras de l’homme.",
+            "correct": false
+          },
+          {
+            "text": "La nageoire de la baleine.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le nombre de mésanges charbonnières présentes dans les bois chaque hiver fluctue. Cette variation est due en partie au fait que d’autres oiseaux insectivores se nourrissent des mêmes proies.<br/>Quelle relation entre les êtres vivants est mise en évidence dans l’exemple ci-dessus ?",
+        "answers": [
+          {
+            "text": "La prédation.",
+            "correct": false
+          },
+          {
+            "text": "Le parasitisme.",
+            "correct": false
+          },
+          {
+            "text": "La compétition interspécifique.",
+            "correct": true
+          },
+          {
+            "text": "La compétition intraspécifique.",
             "correct": false
           }
         ]

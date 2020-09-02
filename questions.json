@@ -37584,7 +37584,7 @@
         ]
       },
       {
-        "text": "Afin de vérifier le titre d’une solution de permanganate de potassium, un titrage à l’aide d’une solution titrante d’acide oxalique est réalisé dans les conditions suivantes :<ul><li>10,0 mL de la solution de permanganate de potassium sont versés dans un erlenmeyer</li><li>20 mL d’acide sulfurique 2 mol.L<sup>-1</sup> sont ajoutés à la solution à titrer</li><li>>la burette est remplie d’une solution d’acide oxalique 0,0200 mol.L<sup>-1</sup></li></ul>Le point d’équivalence est atteint lorsque 15,0 mL de la solution titrante sont ajoutés.<br/>Calculez la concentration de la solution de permanganate de potassium en sachant que l’équation ionique de la réaction est la suivante :<br/><br/> 2 MnO<sub>4</sub>- + 5 (COOH)<sub>2</sub> + 6 H<sup>+</sup> → 2 Mn<sup>2+</sup> + 10 CO<sub>2</sub> + 8 H<sub>2</sub>O",
+        "text": "Afin de vérifier le titre d’une solution de permanganate de potassium, un titrage à l’aide d’une solution titrante d’acide oxalique est réalisé dans les conditions suivantes :<ul><li>10,0 mL de la solution de permanganate de potassium sont versés dans un erlenmeyer</li><li>20 mL d’acide sulfurique 2 mol.L<sup>-1</sup> sont ajoutés à la solution à titrer</li><li>la burette est remplie d’une solution d’acide oxalique 0,0200 mol.L<sup>-1</sup></li></ul>Le point d’équivalence est atteint lorsque 15,0 mL de la solution titrante sont ajoutés.<br/>Calculez la concentration de la solution de permanganate de potassium en sachant que l’équation ionique de la réaction est la suivante :<br/><br/> 2 MnO<sub>4</sub>- + 5 (COOH)<sub>2</sub> + 6 H<sup>+</sup> → 2 Mn<sup>2+</sup> + 10 CO<sub>2</sub> + 8 H<sub>2</sub>O",
         "answers": [
           {
             "text": "7,50.10<sup>-2</sup> mol.L<sup>-1</sup>",
@@ -38158,6 +38158,579 @@
           },
           {
             "text": "La compétition intraspécifique.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Raisonnement",
+    "session": "EXMD Septembre 2017",
+    "questions": [
+      {
+        "text": "Un jeune de 17 ans, mesurant 1,75 m et pesant 115 kg, vient consulter son médecin traitant car il se sent essoufflé lorsqu’il monte un étage par l’escalier. A l’auscultation le médecin détecte une anomalie sévère du cœur. Le reste de l’examen est normal.<br/>Quelle attitude devrait adopter le médecin traitant ?",
+        "answers": [
+          {
+            "text": "Lui conseiller de faire beaucoup plus d’exercice physique pour réduire son poids et de revenir dans un mois.",
+            "correct": false
+          },
+          {
+            "text": "Rassurer le patient et lui conseiller de revenir dans un mois pour un nouveau contrôle. ",
+            "correct": false
+          },
+          {
+            "text": "Conseiller au patient de suivre un régime hypocalorique et le référer à un cardiologue.",
+            "correct": true
+          },
+          {
+            "text": "Conseiller au patient de suivre un régime hypocalorique.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Une patiente de 45 ans consulte pour fatigue chronique. L’analyse sanguine montre un taux de globules rouges de 3,2 millions par mm<sup>3</sup> (valeur normale : 4 à 5 millions par mm³) et une proportion de globules rouges jeunes de 0,01 % (taux normal : 1 à 2 %). Quelle est l’hypothèse la plus pertinente pouvant expliquer ce résultat d’analyse ?",
+        "answers": [
+          {
+            "text": "Elle souffre d’une destruction ou d’une perte anormale de globules rouges.",
+            "correct": false
+          },
+          {
+            "text": "Sa moelle osseuse compense correctement son manque de globules rouges.",
+            "correct": false
+          },
+          {
+            "text": "Sa moelle osseuse fonctionne trop activement.",
+            "correct": false
+          },
+          {
+            "text": "Sa moelle osseuse est trop peu active et ne compense pas son manque de globules rouges.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Il est établi qu’une personne présentant les symptômes S doit forcément être atteinte de la maladie M. On sait aussi qu’il suffit d’appliquer un traitement X pour guérir un patient atteint de cette maladie lorsqu’elle est diagnostiquée à temps. Que pouvez-vous conclure du fait que Monsieur B, qui présentait les symptômes S, souffre d’une façon prolongée de cette maladie M ?",
+        "answers": [
+          {
+            "text": "Cette maladie n’a pas été diagnostiquée à temps chez ce patient.",
+            "correct": false
+          },
+          {
+            "text": "Le traitement X ne lui a pas été administré.",
+            "correct": false
+          },
+          {
+            "text": "Cette maladie n’a pas été diagnostiquée à temps chez ce patient OU le traitement X ne lui a pas été administré.",
+            "correct": true
+          },
+          {
+            "text": "Cette maladie n’a pas été diagnostiquée à temps chez ce patient ET le traitement X ne lui a pas été administré.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le règlement du cabinet dentaire impose de porter un masque et des gants lorsqu’on procède à l’examen d’un patient ou qu’on le soigne. Le port du masque et de gants est donc une condition à l’exercice de la dentisterie. Mais de quel type de condition s’agit-il ?",
+        "answers": [
+          {
+            "text": "D’une condition nécessaire mais non suffisante.",
+            "correct": true
+          },
+          {
+            "text": "D’une condition suffisante mais non nécessaire.",
+            "correct": false
+          },
+          {
+            "text": "D’une condition nécessaire et suffisante.",
+            "correct": false
+          },
+          {
+            "text": "D’une condition ni nécessaire ni suffisante.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Sur le graphique suivant, est représenté par une croix le nombre m de personnes atteintes d’une maladie M au cours de chacune des six dernières années et, par un cercle, le nombre n de personnes atteintes d’une maladie N au cours de chacune de ces mêmes années dans la même région du pays.<br/><img src=\"images/EXMD/Q201809/Raisonnement/Capture40.PNG\" alt=\"Capture40\" /><br/>Que pouvez-vous en conclure ?",
+        "answers": [
+          {
+            "text": "Que la maladie M est assurément la cause de la maladie N.",
+            "correct": false
+          },
+          {
+            "text": "Que la maladie N est probablement la cause de la maladie M.",
+            "correct": false
+          },
+          {
+            "text": "Qu’il existe peut-être une cause commune d’origine environnementale à ces deux maladies.",
+            "correct": true
+          },
+          {
+            "text": "Qu’un même mécanisme biologique est sans doute à l’origine de ces deux maladies.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La bilirubine est un pigment coloré provenant de la dégradation de l’hémoglobine lors de la destruction des globules rouges âgés. Très peu soluble dans l’eau, elle circule d’abord dans le sang, liée à l’albumine. Elle est alors très toxique, en particulier pour le système nerveux de l’enfant où elle peut provoquer des lésions et des troubles fonctionnels. Ensuite, elle rejoint le foie où elle subit une modification chimique (« conjugaison ») qui la rend peu toxique et soluble dans l’eau (hydrosoluble). Elle passe dans l’intestin via la bile, puis est éliminée directement après modification par les bactéries intestinales, ou repasse dans le sang pour rejoindre les reins et les urines (d’où leurs couleurs respectives).<br/><br/>Un petit patient de 3 semaines est présenté à l’hôpital en urgence par ses parents qui ont constaté des conjonctives (« blanc » de l’œil) jaunes-orangées ainsi que des mouvements anormaux des muscles, des membres et des yeux. En outre, les selles sont, disent-ils, plus claires qu’auparavant. Un dosage sanguin montre une bilirubine non conjuguée très élevée.<br/>Selon vous, quelle est la cause la plus probable des troubles de ce bébé ?",
+        "answers": [
+          {
+            "text": "Il y a une obstruction de la sécrétion de la bile et un reflux de la bilirubine conjuguée dans le sang.",
+            "correct": false
+          },
+          {
+            "text": "Il y a une anomalie de la flore intestinale.",
+            "correct": false
+          },
+          {
+            "text": "Il y a une augmentation anormale de la destruction des globules rouges.",
+            "correct": true
+          },
+          {
+            "text": "Il y a un trouble du fonctionnement des reins.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Une patiente de 40 ans et pesant 65 kg a 5 litres de sang. Une analyse montre que son taux de globules rouges dont la durée de vie est de 120 jours s’élève à 4,8 millions par mm<sup>3</sup>. Quel est le taux journalier de production des globules rouges par la moelle osseuse ?",
+        "answers": [
+          {
+            "text": "200 milliards",
+            "correct": true
+          },
+          {
+            "text": "200 millions",
+            "correct": false
+          },
+          {
+            "text": "96 milliards",
+            "correct": false
+          },
+          {
+            "text": "96 millions",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "La formule sanguine normale chez un individu adulte exprimée par mm<sup>3</sup> est la suivante :<br/>- globules rouges : 4 à 5 millions,<br/>- globules blancs : 5 à 10.000,<br/>- plaquettes : 150.000.<br/>Une chute des globules rouges est le signe d’une anémie, l’augmentation des globules blancs suggère une infection, une chute des plaquettes est le signe d’un trouble de la coagulation sanguine. <br/>Devant un patient âgé, se plaignant de fatigue chronique et chez qui une analyse sanguine montre une augmentation modérée des globules blancs, on peut émettre les hypothèses diagnostiques suivantes. Quelle est l’hypothèse diagnostique la plus pertinente ?",
+        "answers": [
+          {
+            "text": "Ce patient souffre d’une infection possible, il faut contrôler sa température et rechercher d’éventuels autres signes d’infection.",
+            "correct": true
+          },
+          {
+            "text": "Ce patient souffre d’une anémie car le transport de l’oxygène par les globules rouges dans son sang est diminué.",
+            "correct": false
+          },
+          {
+            "text": "Ce patient souffre d’une anomalie de la coagulation du sang et il faut lui demander s’il saigne fréquemment ou s’il a souvent des « bleus » (hématomes) lorsqu’il se cogne.",
+            "correct": false
+          },
+          {
+            "text": "Ce patient souffre d’une infection qui requiert la prescription immédiate d’antibiotiques.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Il est établi que toute personne atteinte d’une maladie M en guérit toujours si elle prend le médicament X. Mais Madame A, une patiente précisément atteinte de cette maladie, refuse de prendre ce médicament. Que pouvez-vous légitimement prédire ?",
+        "answers": [
+          {
+            "text": "Que Madame A ne guérira pas.",
+            "correct": false
+          },
+          {
+            "text": "Que Madame A ne guérira que si elle suit un autre traitement.",
+            "correct": false
+          },
+          {
+            "text": "Que Madame A guérira si elle suit un autre traitement.",
+            "correct": false
+          },
+          {
+            "text": "Rien.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Selon le texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte1.pdf\">«Gestion du \"patient informé\" et intégration d’Internet dans la pratique clinique.»</a>, les ordres professionnels :",
+        "answers": [
+          {
+            "text": "ne cautionnent pas le dialogue soignant/patient via Internet, sauf s'il mobilise les médias sociaux.",
+            "correct": false
+          },
+          {
+            "text": "cautionnent le dialogue soignant/patient via Internet à condition qu'il mobilise les médias sociaux.",
+            "correct": false
+          },
+          {
+            "text": "cautionnent le dialogue soignant/patient via Internet, à moins qu'il mobilise les médias sociaux.",
+            "correct": false
+          },
+          {
+            "text": "ne cautionnent pas le dialogue soignant/patient via Internet, à plus forte raison s'il mobilise les médias sociaux.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "D’après le texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte1.pdf\">«Gestion du \"patient informé\" et intégration d’Internet dans la pratique clinique.»</a>, les initiatives prises par certaines institutions et qui consistent à établir de nouvelles formes de communication entre soignant et patient restent peu nombreuses :",
+        "answers": [
+          {
+            "text": "par conséquent, l'implication des soignants reste limitée.",
+            "correct": false
+          },
+          {
+            "text": "en raison de l'implication limitée des soignants.",
+            "correct": true
+          },
+          {
+            "text": "quoique l'implication des soignants reste limitée.",
+            "correct": false
+          },
+          {
+            "text": "ce qui limite l'implication des soignants.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "D’après le texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte1.pdf\">«Gestion du \"patient informé\" et intégration d’Internet dans la pratique clinique.»</a>, dans plusieurs pays :",
+        "answers": [
+          {
+            "text": "médecins et patients s’accordent majoritairement en faveur d’une interaction en ligne entre eux via, par exemple, les réseaux sociaux.",
+            "correct": false
+          },
+          {
+            "text": "médecins et patients s’accordent majoritairement contre une interaction en ligne entre eux via, par exemple, les réseaux sociaux.",
+            "correct": false
+          },
+          {
+            "text": "les médecins sont généralement favorables à une interaction en ligne via, par exemple, les réseaux sociaux, avec leurs patients, au contraire de ceux-ci.",
+            "correct": false
+          },
+          {
+            "text": "les patients sont généralement favorables à une interaction en ligne via, par exemple, les réseaux sociaux, avec leurs médecins, au contraire de ceux-ci.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Selon le texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte1.pdf\">«Gestion du \"patient informé\" et intégration d’Internet dans la pratique clinique.»</a>, la prise d’informations sur Internet par les patients :",
+        "answers": [
+          {
+            "text": "provoque la colère d’un grand nombre de médecins.",
+            "correct": false
+          },
+          {
+            "text": "se fait à la grande satisfaction d’un grand nombre de médecins.",
+            "correct": false
+          },
+          {
+            "text": "provoque des réactions antagonistes chez les médecins.",
+            "correct": true
+          },
+          {
+            "text": "est fortement conseillée par la plupart des médecins.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "L’auteur du texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte1.pdf\">«Gestion du \"patient informé\" et intégration d’Internet dans la pratique clinique.»</a> dit que, selon les chercheurs, la consultation de ressources sur Internet :",
+        "answers": [
+          {
+            "text": "permettrait au patient de se montrer plus impliqué lors de la consultation.",
+            "correct": true
+          },
+          {
+            "text": "permettrait au patient de mieux vivre le stress d’une consultation.",
+            "correct": false
+          },
+          {
+            "text": "empêcherait le patient de poser de bonnes questions.",
+            "correct": false
+          },
+          {
+            "text": "empêcherait le patient de nouer une bonne relation avec le médecin.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans la phrase suivante : « <i>Les études documentant la façon dont les médecins interagissent avec les \"patients informés\", mettent en évidence des réactions polarisées.</i> ». Par quel terme peut-on le mieux remplacer « <i>polarisées</i> » ?",
+        "answers": [
+          {
+            "text": "Extrêmes",
+            "correct": true
+          },
+          {
+            "text": "Surprenantes",
+            "correct": false
+          },
+          {
+            "text": "Cohérentes",
+            "correct": false
+          },
+          {
+            "text": "Violentes",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Pour l’extrait suivant : « <i>Ce type d’initiative semble prometteur car les formats de diffusion sur les médias sociaux semblent souvent plus accessibles au public que ceux des sites de communication institutionnelle (Chou et al., 2009). Toutefois, ces initiatives sont encore peu nombreuses, l’implication en ligne des soignants restant globalement limitée. Ils restent pourtant la source d’information considérée la plus fiable par les patients avec les sites institutionnels (Sundar et al., 2011).</i> ». Choisissez la reformulation qui vous semble la plus adéquate",
+        "answers": [
+          {
+            "text": "Bien qu’encourageantes, les initiatives en matière de communication électronique avec les patients ne recueillent pas le succès espéré, même si elles semblent aussi dignes de confiance, pour les patients, que les sites institutionnels.",
+            "correct": true
+          },
+          {
+            "text": "Bien que légitimées scientifiquement, les initiatives en matière de communication électronique avec les patients ne recueillent pas le succès espéré, même si elles semblent aussi dignes de confiance, pour les patients, que les sites institutionnels.",
+            "correct": false
+          },
+          {
+            "text": "Bien que passionnantes, les initiatives en matière de communication électronique avec les patients ne recueillent pas le succès espéré, alors qu’elles semblent davantage dignes de confiance, pour les patients, que les sites institutionnels.",
+            "correct": false
+          },
+          {
+            "text": "Bien que rassurantes, les initiatives en matière de communication électronique avec les patients provoquent un tollé général chez les médecins, même si elles semblent aussi dignes de confiance, pour les patients, que les sites institutionnels.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "D'après le <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte2.pdf\">texte</a>, parmi les propositions suivantes, une seule est <b>fausse</b>. Laquelle ?",
+        "answers": [
+          {
+            "text": "Selon le type d’immunoglobulines détecté pour un pathogène donné, il est possible de définir si la maladie est récente ou ancienne.",
+            "correct": false
+          },
+          {
+            "text": "Un taux négatif pour un pathogène donné ne permet pas d’exclure une infection extrêmement récente due à ce pathogène.",
+            "correct": false
+          },
+          {
+            "text": "Un patient peut présenter des anticorps contre un pathogène même s’il n’a pas subi une maladie due à ce pathogène.",
+            "correct": false
+          },
+          {
+            "text": "Un même pathogène induit toujours la formation des mêmes immunoglobulines.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "D'après le <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte2.pdf\">texte</a>, Une patiente enceinte subit un dépistage pour la toxoplasmose, une infection due à un parasite pathogène qui peut provoquer des malformations congénitales graves. Une analyse sérologique montre la présence d’IgM en grandes quantités dans son sang. Parmi les propositions suivantes, une seule est vraie. Laquelle ?",
+        "answers": [
+          {
+            "text": "Cette patiente a bien été vaccinée contre le toxoplasme et il n’y a aucun risque pour son futur enfant.",
+            "correct": false
+          },
+          {
+            "text": "Cette patiente a fait une infection ancienne due au toxoplasme et est immunisée.",
+            "correct": false
+          },
+          {
+            "text": "Cette patiente a fait une infection récente et il existe des risques pour le fœtus.",
+            "correct": true
+          },
+          {
+            "text": "La fiabilité des tests sérologiques n’étant pas absolue, il n’est pas possible de tirer une conclusion valable de l’analyse.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Le texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte3.pdf\">« Le malade imaginaire »</a> s’intitule ainsi parce que le personnage de Molière :",
+        "answers": [
+          {
+            "text": "est un exemple de ceux que Pascal qualifie de « bonnets carrés ».",
+            "correct": false
+          },
+          {
+            "text": "personnifie l’appropriation de la science par l’ensemble de la société.",
+            "correct": false
+          },
+          {
+            "text": "croit en la médecine comme le consommateur actuel croit en la publicité.",
+            "correct": true
+          },
+          {
+            "text": "est le prototype du charlatan qui exploite l’ignorance de ses victimes.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans cet extrait du texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte3.pdf\">« Le malade imaginaire »</a>: « <i>il est devenu impossible d'en empêcher la discussion, de cacher qu'elles pouvaient être rejetées et combattues</i> », le pronom « elles » représente :",
+        "answers": [
+          {
+            "text": "les connaissances en général.",
+            "correct": false
+          },
+          {
+            "text": "les idées fausses",
+            "correct": true
+          },
+          {
+            "text": "les connaissances diffusées par l'imprimerie.",
+            "correct": false
+          },
+          {
+            "text": "les idées dont on discute.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Dans cet extrait du texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte3.pdf\">« Le malade imaginaire »</a>: « <i>Le bénéfice ? C’est qu’on est plus libre et moins crédule.</i> », l'adjectif « crédule » a pour synonyme :",
+        "answers": [
+          {
+            "text": "stupide",
+            "correct": false
+          },
+          {
+            "text": "croyant",
+            "correct": false
+          },
+          {
+            "text": "ridicule",
+            "correct": false
+          },
+          {
+            "text": "candide",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "Dans le texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte3.pdf\">« Le malade imaginaire »</a>, pourquoi l’auteur se réfère-t-il aux Lumières dans le contexte de son argumentation ?",
+        "answers": [
+          {
+            "text": "Parce que ce sont les Lumières qui ont commencé à diffuser les connaissances vers le grand public.",
+            "correct": true
+          },
+          {
+            "text": "Parce que l’époque des Lumières a vu la médecine commencer à obtenir des résultats sérieux.",
+            "correct": false
+          },
+          {
+            "text": "Parce que les philosophes des Lumières ont écrit l’Encyclopédie contre les abus religieux.",
+            "correct": false
+          },
+          {
+            "text": "Parce que les philosophes des Lumières pensaient qu’il fallait favoriser le progrès moral et politique.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Après avoir lu le texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte3.pdf\">« Le malade imaginaire »</a>, quelle proposition se rapproche le plus du sens de cette phrase : « <i>Le discours ampoulé et jargonneux entretient l’idée que la science peut tout et qu’elle n’est accessible qu’à un petit nombre auquel les autres peuvent se soumettre.</i> » ?",
+        "answers": [
+          {
+            "text": "Les discours des scientifiques complexent la plupart des gens.",
+            "correct": false
+          },
+          {
+            "text": "Les discours des scientifiques excluent la plupart des gens.",
+            "correct": false
+          },
+          {
+            "text": "Certaines formes d’expression amènent à faire croire que la science est réservée à une élite.",
+            "correct": true
+          },
+          {
+            "text": "Certaines formes d’expression amènent à faire croire que la science n’existe pas réellement.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Après avoir lu le texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte3.pdf\">« Le malade imaginaire »</a>, quelle proposition se rapproche le plus du sens de cette phrase : « <i>Si les crèmes antirides et autres shampoings tenaient leurs promesses, ils n’auraient que faire des faux chercheurs pour se vendre.</i> » ?",
+        "answers": [
+          {
+            "text": "Si les crèmes et autres shampoings ont besoin de faux chercheurs pour se vendre, c’est qu’ils ne sont pas efficaces.",
+            "correct": true
+          },
+          {
+            "text": "Si les crèmes et autres shampoings ont besoin de faux chercheurs pour se vendre, c’est que leurs concepteurs ont promis le meilleur.",
+            "correct": false
+          },
+          {
+            "text": "Si ces chercheurs étaient de vrais chercheurs, les crèmes et soins antirides tiendraient leurs promesses.",
+            "correct": false
+          },
+          {
+            "text": "Si ces chercheurs étaient de vrais chercheurs, les crèmes et soins antirides n’auraient pas besoin de publicité.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Après avoir lu texte <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte3.pdf\">« Le malade imaginaire »</a>, que signifie cette citation de Pascal : « <i>Si les médecins avaient le vrai art de guérir, ils n'auraient que faire des bonnets carrés ; la majesté de ces sciences serait assez vénérable d'elle même. Mais n’ayant que des sciences imaginaires, il faut qu'ils prennent ces vains instruments qui frappent l’imagination à laquelle ils ont affaire ; et par là, en effet, ils s'attirent le respect.</i> » ?",
+        "answers": [
+          {
+            "text": "L’ignorance des gens rend nécessaire de respecter des formes particulières pour les guérir.",
+            "correct": false
+          },
+          {
+            "text": "Comme d’autres corporations, les médecins étaient obligés de porter une tenue distinctive.",
+            "correct": false
+          },
+          {
+            "text": "Faute de connaissances réelles, les médecins avaient besoin de rites pour être pris au sérieux.",
+            "correct": true
+          },
+          {
+            "text": "Les médecins utilisaient des instruments particuliers pour soigner certaines maladies.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Après avoir ce <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte4.pdf\">texte</a>:<br/>Un enfant âgé de 5 ans est amené par ses parents chez le médecin car il présente de fortes fièvres depuis 3 jours. Il se plaint de maux de tête, est peu réactif et frissonne à certains moments. A l’interrogatoire, il ressort que les parents sont revenus d’un safari au Kenya, il y a quinze jours. Sur base de ces informations, quelle hypothèse pouvez-vous exclure avec certitude au sujet de la cause de ces fièvres ?",
+        "answers": [
+          {
+            "text": "Si l’enfant a accompagné ses parents, il faut envisager une malaria et demander des examens complémentaires en urgence.",
+            "correct": false
+          },
+          {
+            "text": "Si l’enfant n’a pas accompagné ses parents, une malaria est possible via une transmission du parasite à partir de ses parents par des contacts cutanés.",
+            "correct": true
+          },
+          {
+            "text": "Si l’enfant n’a pas accompagné ses parents, une infection grippale pourrait être la cause de son état.",
+            "correct": false
+          },
+          {
+            "text": "Si l’enfant a accompagné ses parents, il pourrait souffrir d’une autre maladie infectieuse.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "Après avoir ce <a target=\"_blank\" href=\"images/EXMD/Q201809/Raisonnement/Texte4.pdf\">texte</a>:<br/>Un homme âgé de 60 ans se présente avec une fièvre modérée et variable depuis quelques jours. A l’interrogatoire, on apprend qu’il a travaillé dans la coopération au développement en République Démocratique du Congo pendant de nombreuses années, mais qu’il en est revenu depuis 2 ans. Sa compagne retourne encore régulièrement en République Démocratique du Congo. L’hypothèse d’un paludisme peut-elle être retenue et pourquoi ?",
+        "answers": [
+          {
+            "text": "Non, car l’infection aiguë par le plasmodium n’existe pas en Belgique.",
+            "correct": false
+          },
+          {
+            "text": "Oui, vu ses longs séjours passés dans un pays au climat tropical.",
+            "correct": true
+          },
+          {
+            "text": "Oui, car il n’a plus pris de médicament contre la malaria depuis plusieurs années.",
+            "correct": false
+          },
+          {
+            "text": "Non, car le paludisme n’atteint que les enfants et les femmes enceintes.",
             "correct": false
           }
         ]
